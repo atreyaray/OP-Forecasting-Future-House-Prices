@@ -1,0 +1,1680 @@
+,postal_code,country_code,place_name,state_name,state_code,county_name,county_code,community_name,community_code,latitude,longitude,accuracy
+0,00100,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.1714,24.9316,6.0
+1,00120,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.1632,24.9391,6.0
+2,00130,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.1645,24.9487,6.0
+3,00140,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.1578,24.9525,6.0
+4,00150,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.157,24.9369,6.0
+5,00160,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.1671,24.9684,6.0
+6,00170,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.1728,24.9554,6.0
+7,00180,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.1634,24.919,6.0
+8,00190,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.146,24.9851,6.0
+9,00200,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.1603,24.8714,6.0
+10,00210,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.1513,24.8827,6.0
+11,00220,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.1573,24.9173,6.0
+12,00240,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2015,24.9233,6.0
+13,00250,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.1873,24.9127,6.0
+14,00260,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.1794,24.9226,6.0
+15,00270,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.1942,24.9007,6.0
+16,00280,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2019,24.9043,6.0
+17,00290,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.1893,24.9064,6.0
+18,00300,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2034,24.8939,6.0
+19,00310,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2106,24.9035,6.0
+20,00320,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2159,24.8961,6.0
+21,00330,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.1975,24.875,6.0
+22,00340,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.1819,24.8594,6.0
+23,00350,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2075,24.8705,6.0
+24,00360,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2182,24.8564,6.0
+25,00370,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2263,24.8555,6.0
+26,00380,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2173,24.8722,6.0
+27,00390,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2387,24.8427,6.0
+28,00400,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2265,24.8978,6.0
+29,00410,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2488,24.8578,6.0
+30,00420,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2443,24.88,6.0
+31,00430,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2501,24.8962,6.0
+32,00440,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2313,24.8796,6.0
+33,00500,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.1873,24.9601,6.0
+34,00510,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.1918,24.9498,6.0
+35,00520,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.1983,24.9416,6.0
+36,00530,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.1826,24.9505,6.0
+37,00540,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.1841,24.9785,
+38,00550,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.1957,24.9622,6.0
+39,00560,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.21,24.9726,6.0
+40,00570,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.1838,25.0055,6.0
+41,00580,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.1921,24.9716,6.0
+42,00590,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.1733,25.0239,6.0
+43,00600,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2202,24.9628,6.0
+44,00610,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2124,24.9475,6.0
+45,00620,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2239,24.9427,6.0
+46,00630,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2325,24.9294,6.0
+47,00640,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.233,24.9628,6.0
+48,00650,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2278,24.9736,6.0
+49,00660,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2418,24.9297,6.0
+50,00670,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2516,24.9326,6.0
+51,00680,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2455,24.956,6.0
+52,00690,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2606,24.9538,6.0
+53,00700,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.252,25.0171,6.0
+54,00710,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2328,25.006,6.0
+55,00720,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2448,24.9912,6.0
+56,00730,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2659,25.0206,6.0
+57,00740,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2745,24.9978,6.0
+58,00750,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2793,25.0317,6.0
+59,00760,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2711,25.0596,6.0
+60,00770,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2585,25.0682,6.0
+61,00780,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2583,24.9881,6.0
+62,00790,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2295,25.0315,6.0
+63,00800,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2082,25.0404,6.0
+64,00810,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.1909,25.0337,6.0
+65,00820,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2004,25.06,6.0
+66,00830,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.1901,25.064,6.0
+67,00840,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.176,25.0512,6.0
+68,00850,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.1629,25.0792,6.0
+69,00870,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.1642,25.0477,6.0
+70,00890,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2606,25.2017,6.0
+71,00900,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2154,25.0857,6.0
+72,00910,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2133,25.102,6.0
+73,00920,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2234,25.0671,6.0
+74,00930,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2039,25.0847,6.0
+75,00940,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2378,25.0835,6.0
+76,00950,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2222,25.1062,6.0
+77,00960,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2204,25.1408,6.0
+78,00970,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2344,25.1143,6.0
+79,00980,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2049,25.1322,6.0
+80,00990,FI,Helsinki                      ,Uusimaa,1.0,Helsinki,11.0,Helsinki,91.0,60.2047,25.1555,6.0
+81,01120,FI,Västerskog                    ,Uusimaa,1.0,Helsinki,11.0,Sipoo,753.0,60.2461,25.2713,6.0
+82,01150,FI,Söderkulla                    ,Uusimaa,1.0,Helsinki,11.0,Sipoo,753.0,60.2855,25.3309,6.0
+83,01200,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.2805,25.1253,6.0
+84,01230,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.2657,25.0957,6.0
+85,01260,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.297,25.1182,6.0
+86,01280,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.2484,25.1009,6.0
+87,01300,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.2949,25.0223,6.0
+88,01340,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.3241,25.0398,6.0
+89,01350,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.3085,25.036,6.0
+90,01360,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.32,25.0619,6.0
+91,01370,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.2978,25.0613,6.0
+92,01380,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.2835,25.074,6.0
+93,01390,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.324,25.0138,6.0
+94,01400,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.3315,25.0739,6.0
+95,01420,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.3254,25.1041,6.0
+96,01450,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.3553,25.0718,6.0
+97,01480,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.3464,25.1076,6.0
+98,01490,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.3463,25.1368,6.0
+99,01510,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.2897,24.9698,6.0
+100,01520,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.2775,24.9632,6.0
+101,01530,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.3093,24.959,6.0
+102,01600,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.2642,24.8511,6.0
+103,01610,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.2626,24.8755,6.0
+104,01620,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.2799,24.8537,6.0
+105,01630,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.2673,24.7939,6.0
+106,01640,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.2522,24.7985,6.0
+107,01650,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.2624,24.8251,6.0
+108,01660,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.2697,24.8155,6.0
+109,01670,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.2816,24.8739,6.0
+110,01680,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.2839,24.7825,6.0
+111,01690,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.2818,24.9148,6.0
+112,01700,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.3249,24.8452,6.0
+113,01710,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.2592,24.802,6.0
+114,01720,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.2808,24.8171,6.0
+115,01730,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.3186,24.8671,6.0
+116,01750,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.3402,24.7951,6.0
+117,01760,FI,Vantaa                        ,Uusimaa,1.0,Helsinki,11.0,Vantaa,92.0,60.3582,24.867,6.0
+118,01800,FI,Klaukkala,Uusimaa,1.0,Helsinki,11.0,Nurmijärvi,543.0,60.3854,24.7351,6.0
+119,01820,FI,Klaukkala,Uusimaa,1.0,Helsinki,11.0,Nurmijärvi,543.0,60.4011,24.7532,6.0
+120,01830,FI,Lepsämä,Uusimaa,1.0,Helsinki,11.0,Nurmijärvi,543.0,60.3862,24.6549,6.0
+121,01840,FI,Klaukkala,Uusimaa,1.0,Helsinki,11.0,Nurmijärvi,543.0,60.3651,24.7461,6.0
+122,01860,FI,Perttula,Uusimaa,1.0,Helsinki,11.0,Nurmijärvi,543.0,60.4387,24.6832,6.0
+123,01900,FI,Nurmijärvi,Uusimaa,1.0,Helsinki,11.0,Nurmijärvi,543.0,60.4702,24.8264,6.0
+124,01940,FI,Palojoki,Uusimaa,1.0,Helsinki,11.0,Nurmijärvi,543.0,60.4204,24.8608,6.0
+125,02100,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.1703,24.8086,6.0
+126,02110,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.1784,24.8169,6.0
+127,02120,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.1728,24.7902,6.0
+128,02130,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.1887,24.7918,6.0
+129,02140,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.2025,24.8029,6.0
+130,02150,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.1833,24.8296,6.0
+131,02160,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.1597,24.7984,6.0
+132,02170,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.1627,24.7737,6.0
+133,02180,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.1955,24.7659,6.0
+134,02200,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.1754,24.7605,6.0
+135,02210,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.1736,24.7273,6.0
+136,02230,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.1525,24.7465,6.0
+137,02240,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.1677,24.717,6.0
+138,02250,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.1877,24.73,6.0
+139,02260,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.1462,24.6951,6.0
+140,02270,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.1606,24.696,6.0
+141,02280,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.1742,24.6842,6.0
+142,02300,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.1604,24.6721,6.0
+143,02320,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.1466,24.6458,6.0
+144,02330,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.1663,24.6404,6.0
+145,02340,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.1781,24.6586,6.0
+146,02360,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.137,24.6732,6.0
+147,02380,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.1143,24.7127,6.0
+148,02390,FI,Sarvvik                       ,Uusimaa,1.0,Helsinki,11.0,Kirkkonummi,257.0,60.1456,24.5976,6.0
+149,02400,FI,Kirkkonummi                   ,Uusimaa,1.0,Helsinki,11.0,Kirkkonummi,257.0,60.1333,24.4403,6.0
+150,02410,FI,Kirkkonummi                   ,Uusimaa,1.0,Helsinki,11.0,Kirkkonummi,257.0,60.137,24.4476,6.0
+151,02420,FI,Jorvas                        ,Uusimaa,1.0,Helsinki,11.0,Kirkkonummi,257.0,60.1031,24.5686,6.0
+152,02430,FI,Masala                        ,Uusimaa,1.0,Helsinki,11.0,Kirkkonummi,257.0,60.1621,24.5302,6.0
+153,02440,FI,Luoma                         ,Uusimaa,1.0,Helsinki,11.0,Kirkkonummi,257.0,60.1788,24.5316,6.0
+154,02450,FI,Sundsberg                     ,Uusimaa,1.0,Helsinki,11.0,Kirkkonummi,257.0,60.1568,24.5573,6.0
+155,02460,FI,Kantvik                       ,Uusimaa,1.0,Helsinki,11.0,Kirkkonummi,257.0,60.0928,24.4003,6.0
+156,02480,FI,Kirkkonummi                   ,Uusimaa,1.0,Helsinki,11.0,Kirkkonummi,257.0,60.0523,24.448,6.0
+157,02490,FI,Pikkala                       ,Uusimaa,1.0,Helsinki,11.0,Siuntio,755.0,60.0863,24.3254,6.0
+158,02510,FI,Oitmäki                       ,Uusimaa,1.0,Helsinki,11.0,Kirkkonummi,257.0,60.2087,24.4936,6.0
+159,02520,FI,Lapinkylä                     ,Uusimaa,1.0,Helsinki,11.0,Kirkkonummi,257.0,60.2189,24.4451,6.0
+160,02540,FI,Kylmälä                       ,Uusimaa,1.0,Helsinki,11.0,Kirkkonummi,257.0,60.2399,24.3913,6.0
+161,02550,FI,Evitskog                      ,Uusimaa,1.0,Helsinki,11.0,Kirkkonummi,257.0,60.2025,24.3458,6.0
+162,02570,FI,Siuntio Kk                    ,Uusimaa,1.0,Helsinki,11.0,Siuntio,755.0,60.2144,24.2404,6.0
+163,02580,FI,Siuntio                       ,Uusimaa,1.0,Helsinki,11.0,Siuntio,755.0,60.1264,24.2468,6.0
+164,02600,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.2122,24.8066,6.0
+165,02610,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.2194,24.7749,6.0
+166,02620,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.2356,24.7711,6.0
+167,02630,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.2119,24.7669,6.0
+168,02650,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.2259,24.8221,6.0
+169,02660,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.2368,24.8118,6.0
+170,02680,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.2406,24.829,6.0
+171,02700,FI,Kauniainen                    ,Uusimaa,1.0,Helsinki,11.0,Kauniainen,235.0,60.2145,24.7201,6.0
+172,02710,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.2286,24.7428,6.0
+173,02720,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.2402,24.7457,6.0
+174,02730,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.2501,24.7661,6.0
+175,02740,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.2475,24.6606,6.0
+176,02750,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.2001,24.7226,6.0
+177,02760,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.2005,24.6817,6.0
+178,02770,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.2041,24.6476,6.0
+179,02780,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.1883,24.5944,6.0
+180,02810,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.2234,24.6306,6.0
+181,02820,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.2605,24.5714,6.0
+182,02860,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.2779,24.5259,6.0
+183,02880,FI,Veikkola                      ,Uusimaa,1.0,Helsinki,11.0,Kirkkonummi,257.0,60.2721,24.4334,6.0
+184,02920,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.2791,24.7407,6.0
+185,02940,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.2445,24.7079,6.0
+186,02970,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.3126,24.7327,6.0
+187,02980,FI,Espoo                         ,Uusimaa,1.0,Helsinki,11.0,Espoo,49.0,60.3358,24.6403,6.0
+188,03100,FI,Nummela,Uusimaa,1.0,Helsinki,11.0,Vihti,927.0,60.3394,24.3041,6.0
+189,03150,FI,Huhmari,Uusimaa,1.0,Helsinki,11.0,Vihti,927.0,60.2958,24.3593,6.0
+190,03250,FI,Ojakkala,Uusimaa,1.0,Helsinki,11.0,Vihti,927.0,60.3708,24.4062,6.0
+191,03300,FI,Otalampi,Uusimaa,1.0,Helsinki,11.0,Vihti,927.0,60.3916,24.5126,6.0
+192,03320,FI,Selki,Uusimaa,1.0,Helsinki,11.0,Vihti,927.0,60.4404,24.5254,6.0
+193,03400,FI,Vihti,Uusimaa,1.0,Helsinki,11.0,Vihti,927.0,60.4331,24.3443,6.0
+194,03600,FI,Karkkila,Uusimaa,1.0,Helsinki,11.0,Karkkila,224.0,60.5516,24.1815,6.0
+195,03620,FI,Karkkila,Uusimaa,1.0,Helsinki,11.0,Karkkila,224.0,60.5359,24.2787,6.0
+196,03810,FI,Ikkala                        ,Uusimaa,1.0,Helsinki,11.0,Lohja,444.0,60.4869,24.108,6.0
+197,03850,FI,Pusula                        ,Uusimaa,1.0,Helsinki,11.0,Lohja,444.0,60.5288,23.9893,6.0
+198,04130,FI,Sipoo                         ,Uusimaa,1.0,Helsinki,11.0,Sipoo,753.0,60.3697,25.2742,6.0
+199,04200,FI,Kerava,Uusimaa,1.0,Helsinki,11.0,Kerava,245.0,60.40600000000001,25.096,6.0
+200,04220,FI,Kerava,Uusimaa,1.0,Helsinki,11.0,Kerava,245.0,60.402,25.1435,6.0
+201,04230,FI,Kerava,Uusimaa,1.0,Helsinki,11.0,Kerava,245.0,60.4192,25.0952,6.0
+202,04240,FI,Talma                         ,Uusimaa,1.0,Helsinki,11.0,Sipoo,753.0,60.4078,25.1774,6.0
+203,04250,FI,Kerava,Uusimaa,1.0,Helsinki,11.0,Kerava,245.0,60.3903,25.1153,6.0
+204,04260,FI,Kerava,Uusimaa,1.0,Helsinki,11.0,Kerava,245.0,60.3808,25.0914,6.0
+205,04300,FI,Tuusula,Uusimaa,1.0,Helsinki,11.0,Tuusula,858.0,60.4108,25.0038,6.0
+206,04310,FI,Tuusula,Uusimaa,1.0,Helsinki,11.0,Tuusula,858.0,60.4185,25.0517,6.0
+207,04320,FI,Tuusula,Uusimaa,1.0,Helsinki,11.0,Tuusula,858.0,60.3772,25.0161,6.0
+208,04330,FI,Lahela,Uusimaa,1.0,Helsinki,11.0,Tuusula,858.0,60.3886,24.9814,6.0
+209,04340,FI,Tuusula,Uusimaa,1.0,Helsinki,11.0,Tuusula,858.0,60.4076,25.0736,6.0
+210,04350,FI,Nahkela,Uusimaa,1.0,Helsinki,11.0,Tuusula,858.0,60.4025,24.9235,6.0
+211,04360,FI,Tuusula,Uusimaa,1.0,Helsinki,11.0,Tuusula,858.0,60.354,24.9794,6.0
+212,04390,FI,Jäniksenlinna,Uusimaa,1.0,Helsinki,11.0,Tuusula,858.0,60.4892,24.981,6.0
+213,04400,FI,Järvenpää,Uusimaa,1.0,Helsinki,11.0,Järvenpää,186.0,60.4704,25.0776,6.0
+214,04410,FI,Järvenpää,Uusimaa,1.0,Helsinki,11.0,Järvenpää,186.0,60.4885,25.0949,6.0
+215,04420,FI,Järvenpää,Uusimaa,1.0,Helsinki,11.0,Järvenpää,186.0,60.4583,25.1082,6.0
+216,04430,FI,Järvenpää,Uusimaa,1.0,Helsinki,11.0,Järvenpää,186.0,60.4752,25.1183,6.0
+217,04440,FI,Järvenpää,Uusimaa,1.0,Helsinki,11.0,Järvenpää,186.0,60.4934,25.0677,6.0
+218,04460,FI,Nummenkylä,Uusimaa,1.0,Helsinki,11.0,Järvenpää,186.0,60.5077,25.0898,6.0
+219,04480,FI,Haarajoki,Uusimaa,1.0,Helsinki,11.0,Järvenpää,186.0,60.5,25.149,6.0
+220,04500,FI,Kellokoski,Uusimaa,1.0,Helsinki,11.0,Tuusula,858.0,60.5329,25.0976,6.0
+221,04600,FI,Mäntsälä,Uusimaa,1.0,Helsinki,11.0,Mäntsälä,505.0,60.6338,25.3212,6.0
+222,04620,FI,Mäntsälä,Uusimaa,1.0,Helsinki,11.0,Mäntsälä,505.0,60.6538,25.2985,6.0
+223,04660,FI,Numminen,Uusimaa,1.0,Helsinki,11.0,Mäntsälä,505.0,60.5658,25.278,6.0
+224,04680,FI,Hirvihaara,Uusimaa,1.0,Helsinki,11.0,Mäntsälä,505.0,60.6258,25.2213,6.0
+225,04840,FI,Hautjärvi,Uusimaa,1.0,Helsinki,11.0,Mäntsälä,505.0,60.7222,25.4739,6.0
+226,04920,FI,Saarentaus,Uusimaa,1.0,Helsinki,11.0,Mäntsälä,505.0,60.7322,25.3936,6.0
+227,05100,FI,Röykkä,Uusimaa,1.0,Helsinki,11.0,Nurmijärvi,543.0,60.4867,24.6373,6.0
+228,05200,FI,Rajamäki,Uusimaa,1.0,Helsinki,11.0,Nurmijärvi,543.0,60.5276,24.7608,6.0
+229,05400,FI,Jokela,Uusimaa,1.0,Helsinki,11.0,Tuusula,858.0,60.5505,24.9646,6.0
+230,05430,FI,Nuppulinna,Uusimaa,1.0,Helsinki,11.0,Tuusula,858.0,60.5293,25.0275,6.0
+231,05440,FI,Hyvinkää,Uusimaa,1.0,Helsinki,11.0,Hyvinkää,106.0,60.6004,24.8815,6.0
+232,05450,FI,Nukari,Uusimaa,1.0,Helsinki,11.0,Nurmijärvi,543.0,60.53,24.9051,6.0
+233,05460,FI,Hyvinkää,Uusimaa,1.0,Helsinki,11.0,Hyvinkää,106.0,60.6131,24.8655,6.0
+234,05510,FI,Hyvinkää,Uusimaa,1.0,Helsinki,11.0,Hyvinkää,106.0,60.5943,25.0247,6.0
+235,05620,FI,Hyvinkää,Uusimaa,1.0,Helsinki,11.0,Nurmijärvi,543.0,60.5682,24.7684,6.0
+236,05720,FI,Hyvinkää,Uusimaa,1.0,Helsinki,11.0,Hyvinkää,106.0,60.6003,24.6427,6.0
+237,05800,FI,Hyvinkää,Uusimaa,1.0,Helsinki,11.0,Hyvinkää,106.0,60.6333,24.8506,4.0
+238,05810,FI,Hyvinkää,Uusimaa,1.0,Helsinki,11.0,Hyvinkää,106.0,60.6229,24.893,6.0
+239,05820,FI,Hyvinkää,Uusimaa,1.0,Helsinki,11.0,Hyvinkää,106.0,60.6421,24.8905,6.0
+240,05830,FI,Hyvinkää,Uusimaa,1.0,Helsinki,11.0,Hyvinkää,106.0,60.6152,24.8439,6.0
+241,05840,FI,Hyvinkää,Uusimaa,1.0,Helsinki,11.0,Hyvinkää,106.0,60.6005,24.8231,6.0
+242,05860,FI,Hyvinkää,Uusimaa,1.0,Helsinki,11.0,Hyvinkää,106.0,60.6264,24.8194,6.0
+243,05880,FI,Hyvinkää,Uusimaa,1.0,Helsinki,11.0,Hyvinkää,106.0,60.6476,24.8306,6.0
+244,05900,FI,Hyvinkää,Uusimaa,1.0,Helsinki,11.0,Hyvinkää,106.0,60.6348,24.8421,6.0
+245,06100,FI,Porvoo                        ,Uusimaa,1.0,Porvoo,15.0,Porvoo,638.0,60.3973,25.6617,6.0
+246,06150,FI,Porvoo                        ,Uusimaa,1.0,Porvoo,15.0,Porvoo,638.0,60.3905,25.7015,6.0
+247,06200,FI,Porvoo                        ,Uusimaa,1.0,Porvoo,15.0,Porvoo,638.0,60.3279,25.7829,6.0
+248,06400,FI,Porvoo                        ,Uusimaa,1.0,Porvoo,15.0,Porvoo,638.0,60.3653,25.6241,6.0
+249,06450,FI,Porvoo                        ,Uusimaa,1.0,Porvoo,15.0,Porvoo,638.0,60.3765,25.6048,6.0
+250,06500,FI,Porvoo                        ,Uusimaa,1.0,Porvoo,15.0,Porvoo,638.0,60.4315,25.6141,6.0
+251,06530,FI,Kerkkoo                       ,Uusimaa,1.0,Porvoo,15.0,Porvoo,638.0,60.4586,25.6288,6.0
+252,06650,FI,Hamari                        ,Uusimaa,1.0,Porvoo,15.0,Porvoo,638.0,60.3615,25.6332,6.0
+253,06750,FI,Tolkkinen                     ,Uusimaa,1.0,Porvoo,15.0,Porvoo,638.0,60.3412,25.5831,6.0
+254,06830,FI,Kulloonkylä                   ,Uusimaa,1.0,Porvoo,15.0,Porvoo,638.0,60.345,25.4877,6.0
+255,06880,FI,Kärrby                        ,Uusimaa,1.0,Helsinki,11.0,Sipoo,753.0,60.2512,25.4704,6.0
+256,06950,FI,Emäsalo                       ,Uusimaa,1.0,Porvoo,15.0,Porvoo,638.0,60.2579,25.6258,6.0
+257,07110,FI,Hinthaara                     ,Uusimaa,1.0,Porvoo,15.0,Porvoo,638.0,60.3995,25.4924,6.0
+258,07150,FI,Laukkoski,Uusimaa,1.0,Helsinki,11.0,Pornainen,611.0,60.4364,25.39,6.0
+259,07170,FI,Pornainen,Uusimaa,1.0,Helsinki,11.0,Pornainen,611.0,60.4782,25.3689,6.0
+260,07190,FI,Halkia,Uusimaa,1.0,Helsinki,11.0,Pornainen,611.0,60.5186,25.291,4.0
+261,07230,FI,Monninkylä,Uusimaa,1.0,Porvoo,15.0,Askola,18.0,60.5043,25.5234,6.0
+262,07280,FI,Ilola                         ,Uusimaa,1.0,Porvoo,15.0,Porvoo,638.0,60.4717,25.7662,6.0
+263,07500,FI,Askola,Uusimaa,1.0,Porvoo,15.0,Askola,18.0,60.5319,25.6047,6.0
+264,07510,FI,Vakkola,Uusimaa,1.0,Porvoo,15.0,Askola,18.0,60.5238,25.5506,6.0
+265,07550,FI,Torppi,Uusimaa,1.0,Porvoo,15.0,Pukkila,616.0,60.6208,25.5072,6.0
+266,07560,FI,Pukkila,Uusimaa,1.0,Porvoo,15.0,Pukkila,616.0,60.6485,25.5677,6.0
+267,07590,FI,Huuvari,Uusimaa,1.0,Porvoo,15.0,Askola,18.0,60.5174,25.7036,6.0
+268,07600,FI,Myrskylä                      ,Uusimaa,1.0,Porvoo,15.0,Mörskom,504.0,60.6501,25.8599,6.0
+269,07700,FI,Koskenkylän Saha              ,Uusimaa,1.0,Loviisa,16.0,Loviisa,434.0,60.5057,25.933000000000003,6.0
+270,07750,FI,Isnäs                         ,Uusimaa,1.0,Loviisa,16.0,Loviisa,434.0,60.3428,26.0436,6.0
+271,07800,FI,Lapinjärvi                    ,Uusimaa,1.0,Loviisa,16.0,Lappträsk,407.0,60.6246,26.2046,6.0
+272,07820,FI,Porlammi                      ,Uusimaa,1.0,Loviisa,16.0,Lappträsk,407.0,60.6796,26.0112,6.0
+273,07830,FI,Pukaro                        ,Uusimaa,1.0,Loviisa,16.0,Lappträsk,407.0,60.6768,26.2349,6.0
+274,07870,FI,Skinnarby                     ,Uusimaa,1.0,Loviisa,16.0,Loviisa,434.0,60.5487,26.1694,6.0
+275,07880,FI,Liljendal                     ,Uusimaa,1.0,Loviisa,16.0,Loviisa,434.0,60.5644,26.0513,6.0
+276,07890,FI,Mickelspiltom                 ,Uusimaa,1.0,Loviisa,16.0,Loviisa,434.0,60.617,26.018,6.0
+277,07900,FI,Loviisa                       ,Uusimaa,1.0,Loviisa,16.0,Loviisa,434.0,60.4207,26.2829,6.0
+278,07910,FI,Valko                         ,Uusimaa,1.0,Loviisa,16.0,Loviisa,434.0,60.3953,26.2474,6.0
+279,07920,FI,Loviisa                       ,Uusimaa,1.0,Loviisa,16.0,Loviisa,434.0,60.4417,26.2259,6.0
+280,07930,FI,Pernaja                       ,Uusimaa,1.0,Loviisa,16.0,Loviisa,434.0,60.4344,26.0498,6.0
+281,07940,FI,Loviisa                       ,Uusimaa,1.0,Loviisa,16.0,Loviisa,434.0,60.4534,26.255,6.0
+282,07955,FI,Tesjoki                       ,Uusimaa,1.0,Loviisa,16.0,Loviisa,434.0,60.4695,26.3337,6.0
+283,07970,FI,Ruotsinpyhtää                 ,Uusimaa,1.0,Loviisa,16.0,Loviisa,434.0,60.5231,26.4521,6.0
+284,07990,FI,Ruotsinkylä                   ,Uusimaa,1.0,Loviisa,16.0,Loviisa,434.0,60.6199,26.4473,6.0
+285,08100,FI,Lohja                         ,Uusimaa,1.0,Helsinki,11.0,Lohja,444.0,60.2568,24.0146,6.0
+286,08150,FI,Lohja                         ,Uusimaa,1.0,Helsinki,11.0,Lohja,444.0,60.2414,24.0832,6.0
+287,08200,FI,Lohja                         ,Uusimaa,1.0,Helsinki,11.0,Lohja,444.0,60.2296,24.0261,6.0
+288,08350,FI,Lohja                         ,Uusimaa,1.0,Helsinki,11.0,Lohja,444.0,60.2875,24.0463,6.0
+289,08450,FI,Lohja                         ,Uusimaa,1.0,Helsinki,11.0,Lohja,444.0,60.2713,23.9952,
+290,08500,FI,Lohja                         ,Uusimaa,1.0,Helsinki,11.0,Lohja,444.0,60.3,24.1394,6.0
+291,08680,FI,Lohja                         ,Uusimaa,1.0,Helsinki,11.0,Lohja,444.0,60.2886,24.2059,6.0
+292,08700,FI,Lohja                         ,Uusimaa,1.0,Helsinki,11.0,Lohja,444.0,60.2007,24.0,6.0
+293,08800,FI,Lohja                         ,Uusimaa,1.0,Helsinki,11.0,Lohja,444.0,60.2075,23.8845,6.0
+294,09120,FI,Karjalohja                    ,Uusimaa,1.0,Helsinki,11.0,Lohja,444.0,60.2506,23.7101,
+295,09220,FI,Sammatti                      ,Uusimaa,1.0,Helsinki,11.0,Lohja,444.0,60.334,23.8204,6.0
+296,09430,FI,Saukkola                      ,Uusimaa,1.0,Helsinki,11.0,Lohja,444.0,60.3755,23.9781,6.0
+297,09630,FI,Koisjärvi                     ,Uusimaa,1.0,Helsinki,11.0,Lohja,444.0,60.3851,24.1116,6.0
+298,09810,FI,Nummi                         ,Uusimaa,1.0,Helsinki,11.0,Lohja,444.0,60.4093,23.8929,6.0
+299,10140,FI,Päivölä                       ,Uusimaa,1.0,Raaseporin,14.0,Ingå,149.0,60.108,24.095,6.0
+300,10210,FI,Inkoo                         ,Uusimaa,1.0,Raaseporin,14.0,Ingå,149.0,60.0365,24.0206,6.0
+301,10300,FI,Karjaa                        ,Uusimaa,1.0,Raaseporin,14.0,Raseborg,710.0,60.0814,23.6864,6.0
+302,10320,FI,Karjaa                        ,Uusimaa,1.0,Raaseporin,14.0,Raseborg,710.0,60.0584,23.6506,6.0
+303,10330,FI,Pinjainen                     ,Uusimaa,1.0,Raaseporin,14.0,Raseborg,710.0,60.0852,23.6376,6.0
+304,10360,FI,Mustio                        ,Uusimaa,1.0,Raaseporin,14.0,Raseborg,710.0,60.1558,23.8531,6.0
+305,10410,FI,Åminnefors                    ,Uusimaa,1.0,Raaseporin,14.0,Raseborg,710.0,60.0953,23.5833,6.0
+306,10420,FI,Pohjankuru                    ,Uusimaa,1.0,Raaseporin,14.0,Raseborg,710.0,60.0993,23.4876,6.0
+307,10440,FI,Bollsta                       ,Uusimaa,1.0,Raaseporin,14.0,Raseborg,710.0,60.1126,23.5225,
+308,10470,FI,Fiskari                       ,Uusimaa,1.0,Raaseporin,14.0,Raseborg,710.0,60.1292,23.5532,6.0
+309,10520,FI,Tenhola                       ,Uusimaa,1.0,Raaseporin,14.0,Raseborg,710.0,60.0523,23.2472,6.0
+310,10570,FI,Bromarv                       ,Uusimaa,1.0,Raaseporin,14.0,Raseborg,710.0,59.9661,22.9727,6.0
+311,10600,FI,Tammisaari                    ,Uusimaa,1.0,Raaseporin,14.0,Raseborg,710.0,59.9443,23.4635,6.0
+312,10620,FI,Tammisaari                    ,Uusimaa,1.0,Raaseporin,14.0,Raseborg,710.0,59.9987,23.4234,6.0
+313,10640,FI,Dragsvik                      ,Uusimaa,1.0,Raaseporin,14.0,Raseborg,710.0,59.9955,23.5139,6.0
+314,10650,FI,Tammisaari                    ,Uusimaa,1.0,Raaseporin,14.0,Raseborg,710.0,59.969,23.4667,6.0
+315,10660,FI,Tammisaari                    ,Uusimaa,1.0,Raaseporin,14.0,Raseborg,710.0,59.9674,23.3838,6.0
+316,10680,FI,Skogby                        ,Uusimaa,1.0,Raaseporin,14.0,Raseborg,710.0,59.9284,23.2993,6.0
+317,10710,FI,Snappertuna                   ,Uusimaa,1.0,Raaseporin,14.0,Raseborg,710.0,59.9782,23.7238,
+318,10820,FI,Lappohja                      ,Uusimaa,1.0,Raaseporin,14.0,Hanko,78.0,59.9,23.2364,6.0
+319,10900,FI,Hanko                         ,Uusimaa,1.0,Raaseporin,14.0,Hanko,78.0,59.843,23.0317,6.0
+320,10940,FI,Hangonkylä                    ,Uusimaa,1.0,Raaseporin,14.0,Hanko,78.0,59.8325,22.9401,6.0
+321,10960,FI,Hanko Pohjoinen               ,Uusimaa,1.0,Raaseporin,14.0,Hanko,78.0,59.8347,22.9925,6.0
+322,11100,FI,Riihimäki,Kanta-Häme,5.0,Riihimäki,52.0,Riihimäki,694.0,60.7338,24.7614,6.0
+323,11120,FI,Riihimäki,Kanta-Häme,5.0,Riihimäki,52.0,Riihimäki,694.0,60.7517,24.7674,6.0
+324,11130,FI,Riihimäki,Kanta-Häme,5.0,Riihimäki,52.0,Riihimäki,694.0,60.7316,24.8083,6.0
+325,11310,FI,Riihimäki,Kanta-Häme,5.0,Riihimäki,52.0,Riihimäki,694.0,60.7603,24.7909,6.0
+326,11710,FI,Riihimäki,Kanta-Häme,5.0,Riihimäki,52.0,Riihimäki,694.0,60.7035,24.727,6.0
+327,11910,FI,Riihimäki,Kanta-Häme,5.0,Riihimäki,52.0,Riihimäki,694.0,60.7378,24.7324,6.0
+328,12100,FI,Oitti,Kanta-Häme,5.0,Riihimäki,52.0,Hausjärvi,86.0,60.791,25.0217,6.0
+329,12130,FI,Mommila,Kanta-Häme,5.0,Riihimäki,52.0,Hausjärvi,86.0,60.8329,25.0558,4.0
+330,12240,FI,Hikiä,Kanta-Häme,5.0,Riihimäki,52.0,Hausjärvi,86.0,60.7434,24.9417,6.0
+331,12310,FI,Ryttylä,Kanta-Häme,5.0,Riihimäki,52.0,Hausjärvi,86.0,60.8168,24.7599,6.0
+332,12380,FI,Leppäkoski,Kanta-Häme,5.0,Hämeenlinna,51.0,Janakkala,165.0,60.8609,24.7113,6.0
+333,12400,FI,Tervakoski,Kanta-Häme,5.0,Hämeenlinna,51.0,Janakkala,165.0,60.8141,24.6297,6.0
+334,12520,FI,Kormu,Kanta-Häme,5.0,Riihimäki,52.0,Loppi,433.0,60.7426,24.6541,6.0
+335,12540,FI,Launonen,Kanta-Häme,5.0,Riihimäki,52.0,Loppi,433.0,60.7422,24.5771,6.0
+336,12600,FI,Läyliäinen,Kanta-Häme,5.0,Riihimäki,52.0,Loppi,433.0,60.6163,24.4678,6.0
+337,12700,FI,Loppi,Kanta-Häme,5.0,Riihimäki,52.0,Loppi,433.0,60.7165,24.4259,6.0
+338,13100,FI,Hämeenlinna,Kanta-Häme,5.0,Hämeenlinna,51.0,Hämeenlinna,109.0,60.9876,24.4531,6.0
+339,13110,FI,Hämeenlinna,Kanta-Häme,5.0,Hämeenlinna,51.0,Hämeenlinna,109.0,60.9862,24.4863,6.0
+340,13130,FI,Hämeenlinna,Kanta-Häme,5.0,Hämeenlinna,51.0,Hämeenlinna,109.0,60.9993,24.4287,6.0
+341,13200,FI,Hämeenlinna,Kanta-Häme,5.0,Hämeenlinna,51.0,Hämeenlinna,109.0,60.9993,24.4854,4.0
+342,13210,FI,Hämeenlinna,Kanta-Häme,5.0,Hämeenlinna,51.0,Hämeenlinna,109.0,61.0117,24.5055,6.0
+343,13220,FI,Hämeenlinna,Kanta-Häme,5.0,Hämeenlinna,51.0,Hämeenlinna,109.0,61.0136,24.4687,6.0
+344,13250,FI,Hämeenlinna,Kanta-Häme,5.0,Hämeenlinna,51.0,Hämeenlinna,109.0,60.9843,24.513,6.0
+345,13270,FI,Hämeenlinna,Kanta-Häme,5.0,Hämeenlinna,51.0,Hämeenlinna,109.0,61.0093,24.5454,6.0
+346,13300,FI,Hämeenlinna,Kanta-Häme,5.0,Hämeenlinna,51.0,Hämeenlinna,109.0,60.9651,24.5514,6.0
+347,13330,FI,Harviala,Kanta-Häme,5.0,Hämeenlinna,51.0,Janakkala,165.0,60.9582,24.634,6.0
+348,13430,FI,Hämeenlinna,Kanta-Häme,5.0,Hämeenlinna,51.0,Hämeenlinna,109.0,60.9599,24.4838,6.0
+349,13500,FI,Hämeenlinna,Kanta-Häme,5.0,Hämeenlinna,51.0,Hämeenlinna,109.0,60.9766,24.3929,6.0
+350,13600,FI,Hämeenlinna,Kanta-Häme,5.0,Hämeenlinna,51.0,Hämeenlinna,109.0,61.0137,24.431,6.0
+351,13700,FI,Parolannummi,Kanta-Häme,5.0,Hämeenlinna,51.0,Hattula,82.0,61.0335,24.3447,6.0
+352,13720,FI,Parola,Kanta-Häme,5.0,Hämeenlinna,51.0,Hattula,82.0,61.0602,24.3487,6.0
+353,13800,FI,Katinala,Kanta-Häme,5.0,Hämeenlinna,51.0,Hattula,82.0,61.1104,24.3773,4.0
+354,13880,FI,Hattula,Kanta-Häme,5.0,Hämeenlinna,51.0,Hattula,82.0,61.0819,24.402,6.0
+355,13900,FI,Pekola,Kanta-Häme,5.0,Hämeenlinna,51.0,Hattula,82.0,61.0537,24.4491,6.0
+356,14200,FI,Turenki,Kanta-Häme,5.0,Hämeenlinna,51.0,Janakkala,165.0,60.925,24.6993,6.0
+357,14300,FI,Renko,Kanta-Häme,5.0,Hämeenlinna,51.0,Hämeenlinna,109.0,60.8628,24.2805,6.0
+358,14500,FI,Iittala,Kanta-Häme,5.0,Hämeenlinna,51.0,Hämeenlinna,109.0,61.076,24.0959,4.0
+359,14610,FI,Lepaa,Kanta-Häme,5.0,Hämeenlinna,51.0,Hattula,82.0,61.1177,24.3464,6.0
+360,14680,FI,Alvettula,Kanta-Häme,5.0,Hämeenlinna,51.0,Hämeenlinna,109.0,61.2053,24.447,6.0
+361,14700,FI,Hauho,Kanta-Häme,5.0,Hämeenlinna,51.0,Hämeenlinna,109.0,61.176,24.5993,6.0
+362,14770,FI,Eteläinen,Kanta-Häme,5.0,Hämeenlinna,51.0,Hämeenlinna,109.0,61.0766,24.6801,6.0
+363,14820,FI,Tuulos,Kanta-Häme,5.0,Hämeenlinna,51.0,Hämeenlinna,109.0,61.088,24.8153,6.0
+364,14870,FI,Tuulos,Kanta-Häme,5.0,Hämeenlinna,51.0,Hämeenlinna,109.0,61.1896,24.7768,6.0
+365,14960,FI,Puutikkala,Pirkanmaa,6.0,Tampere,64.0,Pälkäne,635.0,61.2998,24.6887,6.0
+366,15100,FI,Lahti,Päijänne Tavastia,7.0,Lahti,71.0,Lahti,398.0,60.9742,25.6586,6.0
+367,15110,FI,Lahti,Päijänne Tavastia,7.0,Lahti,71.0,Lahti,398.0,60.9845,25.6492,6.0
+368,15140,FI,Lahti,Päijänne Tavastia,7.0,Lahti,71.0,Lahti,398.0,60.9904,25.6608,6.0
+369,15150,FI,Lahti,Päijänne Tavastia,7.0,Lahti,71.0,Lahti,398.0,60.9748,25.7023,6.0
+370,15160,FI,Lahti,Päijänne Tavastia,7.0,Lahti,71.0,Lahti,398.0,60.9725,25.7532,6.0
+371,15170,FI,Lahti,Päijänne Tavastia,7.0,Lahti,71.0,Lahti,398.0,60.9842,25.7112,6.0
+372,15200,FI,Lahti,Päijänne Tavastia,7.0,Lahti,71.0,Lahti,398.0,60.9921,25.6871,6.0
+373,15210,FI,Lahti,Päijänne Tavastia,7.0,Lahti,71.0,Lahti,398.0,61.0002,25.6748,6.0
+374,15230,FI,Lahti,Päijänne Tavastia,7.0,Lahti,71.0,Lahti,398.0,61.0142,25.7158,6.0
+375,15240,FI,Lahti,Päijänne Tavastia,7.0,Lahti,71.0,Lahti,398.0,61.0228,25.6604,6.0
+376,15270,FI,Kukkila,Päijänne Tavastia,7.0,Lahti,71.0,Hollola,98.0,61.0451,25.6537,6.0
+377,15300,FI,Lahti,Päijänne Tavastia,7.0,Lahti,71.0,Lahti,398.0,60.9945,25.7571,6.0
+378,15320,FI,Lahti,Päijänne Tavastia,7.0,Lahti,71.0,Lahti,398.0,61.0067,25.7763,6.0
+379,15340,FI,Lahti,Päijänne Tavastia,7.0,Lahti,71.0,Lahti,398.0,61.0121,25.8015,6.0
+380,15500,FI,Lahti,Päijänne Tavastia,7.0,Lahti,71.0,Lahti,398.0,60.9646,25.6697,6.0
+381,15520,FI,Lahti,Päijänne Tavastia,7.0,Lahti,71.0,Lahti,398.0,60.9694,25.6859,6.0
+382,15540,FI,Villähde,Päijänne Tavastia,7.0,Lahti,71.0,Lahti,398.0,60.9464,25.8317,6.0
+383,15550,FI,Nastola,Päijänne Tavastia,7.0,Lahti,71.0,Lahti,398.0,60.9376,25.9775,6.0
+384,15560,FI,Nastola,Päijänne Tavastia,7.0,Lahti,71.0,Lahti,398.0,60.9713,25.9458,6.0
+385,15610,FI,Lahti,Päijänne Tavastia,7.0,Lahti,71.0,Lahti,398.0,60.9548,25.6509,6.0
+386,15680,FI,Lahti,Päijänne Tavastia,7.0,Lahti,71.0,Lahti,398.0,60.9279,25.6678,6.0
+387,15700,FI,Lahti,Päijänne Tavastia,7.0,Lahti,71.0,Lahti,398.0,60.9539,25.6203,6.0
+388,15800,FI,Lahti,Päijänne Tavastia,7.0,Lahti,71.0,Lahti,398.0,60.9752,25.6152,6.0
+389,15810,FI,Lahti,Päijänne Tavastia,7.0,Lahti,71.0,Lahti,398.0,60.9726,25.5792,6.0
+390,15830,FI,Lahti,Päijänne Tavastia,7.0,Lahti,71.0,Lahti,398.0,60.9801,25.5835,6.0
+391,15840,FI,Lahti,Päijänne Tavastia,7.0,Lahti,71.0,Lahti,398.0,60.9822,25.5652,6.0
+392,15850,FI,Lahti,Päijänne Tavastia,7.0,Lahti,71.0,Lahti,398.0,60.9891,25.5703,6.0
+393,15860,FI,Hollola,Päijänne Tavastia,7.0,Lahti,71.0,Hollola,98.0,60.9832,25.5346,6.0
+394,15870,FI,Hollola,Päijänne Tavastia,7.0,Lahti,71.0,Hollola,98.0,60.9896,25.506,6.0
+395,15880,FI,Hollola,Päijänne Tavastia,7.0,Lahti,71.0,Hollola,98.0,60.9935,25.4164,6.0
+396,15900,FI,Lahti,Päijänne Tavastia,7.0,Lahti,71.0,Lahti,398.0,60.9883,25.6074,6.0
+397,15950,FI,Lahti,Päijänne Tavastia,7.0,Lahti,71.0,Lahti,398.0,61.0047,25.5906,6.0
+398,15980,FI,Messilä,Päijänne Tavastia,7.0,Lahti,71.0,Hollola,98.0,61.0154,25.5547,6.0
+399,16100,FI,Uusikylä,Päijänne Tavastia,7.0,Lahti,71.0,Lahti,398.0,60.9425,26.0343,6.0
+400,16200,FI,Artjärvi,Päijänne Tavastia,7.0,Lahti,71.0,Orimattila,560.0,60.7554,26.0429,6.0
+401,16260,FI,Hietana,Päijänne Tavastia,7.0,Lahti,71.0,Orimattila,560.0,60.8002,26.1206,6.0
+402,16300,FI,Orimattila,Päijänne Tavastia,7.0,Lahti,71.0,Orimattila,560.0,60.8017,25.7116,6.0
+403,16320,FI,Pennala,Päijänne Tavastia,7.0,Lahti,71.0,Orimattila,560.0,60.8956,25.6948,6.0
+404,16500,FI,Herrala,Päijänne Tavastia,7.0,Lahti,71.0,Hollola,98.0,60.9008,25.4222,6.0
+405,16600,FI,Järvelä,Päijänne Tavastia,7.0,Lahti,71.0,Kärkölä,316.0,60.8605,25.2786,6.0
+406,16610,FI,Kärkölä,Päijänne Tavastia,7.0,Lahti,71.0,Kärkölä,316.0,60.9166,25.2392,6.0
+407,16670,FI,Lappila,Päijänne Tavastia,7.0,Lahti,71.0,Kärkölä,316.0,60.8543,25.1643,6.0
+408,16710,FI,Hollola Kk,Päijänne Tavastia,7.0,Lahti,71.0,Hollola,98.0,61.05,25.3885,6.0
+409,16800,FI,Hämeenkoski,Päijänne Tavastia,7.0,Lahti,71.0,Hollola,98.0,61.017,25.159,6.0
+410,16900,FI,Lammi,Kanta-Häme,5.0,Hämeenlinna,51.0,Hämeenlinna,109.0,61.1172,24.9798,6.0
+411,17110,FI,Kalliola,Päijänne Tavastia,7.0,Lahti,71.0,Hollola,98.0,61.0711,25.6587,6.0
+412,17130,FI,Vesivehmaa,Päijänne Tavastia,7.0,Lahti,71.0,Asikkala,16.0,61.1387,25.663,6.0
+413,17200,FI,Vääksy,Päijänne Tavastia,7.0,Lahti,71.0,Asikkala,16.0,61.18,25.5611,6.0
+414,17240,FI,Kalkkinen,Päijänne Tavastia,7.0,Lahti,71.0,Asikkala,16.0,61.292,25.6898,6.0
+415,17500,FI,Padasjoki,Päijänne Tavastia,7.0,Lahti,71.0,Padasjoki,576.0,61.3918,25.2711,6.0
+416,17800,FI,Kuhmoinen,Central Finland Region,13.0,Jämsä,134.0,Kuhmoinen,291.0,61.58,25.1581,6.0
+417,18100,FI,Heinola,Päijänne Tavastia,7.0,Lahti,71.0,Heinola,111.0,61.2039,26.031,6.0
+418,18120,FI,Heinola,Päijänne Tavastia,7.0,Lahti,71.0,Heinola,111.0,61.2119,26.0715,6.0
+419,18130,FI,Heinola,Päijänne Tavastia,7.0,Lahti,71.0,Heinola,111.0,61.1956,26.0558,6.0
+420,18150,FI,Heinola,Päijänne Tavastia,7.0,Lahti,71.0,Heinola,111.0,61.1895,26.0268,6.0
+421,18200,FI,Heinola,Päijänne Tavastia,7.0,Lahti,71.0,Heinola,111.0,61.2219,26.0422,6.0
+422,18300,FI,Heinola Kk,Päijänne Tavastia,7.0,Lahti,71.0,Heinola,111.0,61.2591,26.1397,6.0
+423,18600,FI,Myllyoja,Päijänne Tavastia,7.0,Lahti,71.0,Heinola,111.0,61.1653,25.9753,6.0
+424,19110,FI,Vierumäki,Päijänne Tavastia,7.0,Lahti,71.0,Heinola,111.0,61.1062,25.9334,6.0
+425,19120,FI,Vierumäki,Päijänne Tavastia,7.0,Lahti,71.0,Heinola,111.0,61.1152,26.0078,6.0
+426,19160,FI,Huutotöyry,Kymenlaakso,8.0,Kouvola,81.0,Iitti,142.0,61.0949,26.1768,6.0
+427,19210,FI,Lusi,Päijänne Tavastia,7.0,Lahti,71.0,Heinola,111.0,61.3261,26.0665,6.0
+428,19260,FI,Paaso,Päijänne Tavastia,7.0,Lahti,71.0,Heinola,111.0,61.362,26.267,6.0
+429,19410,FI,Kuortti,Southern Savonia,10.0,Mikkeli,101.0,Pertunmaa,588.0,61.4145,26.4022,4.0
+430,19420,FI,Mansikkamäki,Southern Savonia,10.0,Mikkeli,101.0,Pertunmaa,588.0,61.493,26.3525,6.0
+431,19430,FI,Pertunmaa,Southern Savonia,10.0,Mikkeli,101.0,Pertunmaa,588.0,61.5056,26.4802,6.0
+432,19470,FI,Lihavanpää,Southern Savonia,10.0,Mikkeli,101.0,Pertunmaa,588.0,61.5352,26.5464,6.0
+433,19540,FI,Koitti,Päijänne Tavastia,7.0,Lahti,71.0,Hartola,81.0,61.5196,26.2031,6.0
+434,19600,FI,Hartola,Päijänne Tavastia,7.0,Lahti,71.0,Hartola,81.0,61.6088,25.9998,6.0
+435,19650,FI,Joutsa,Central Finland Region,13.0,Joutsa,132.0,Joutsa,172.0,61.7358,26.2127,6.0
+436,19670,FI,Mieskonmäki,Central Finland Region,13.0,Joutsa,132.0,Joutsa,172.0,61.8535,26.3176,6.0
+437,19700,FI,Sysmä,Päijänne Tavastia,7.0,Lahti,71.0,Sysmä,781.0,61.5237,25.6607,6.0
+438,19910,FI,Tammijärvi,Central Finland Region,13.0,Joutsa,132.0,Luhanka,435.0,61.8157,25.7941,6.0
+439,19950,FI,Luhanka,Central Finland Region,13.0,Joutsa,132.0,Luhanka,435.0,61.7659,25.6296,6.0
+440,20100,FI,Turku                         ,Southwest Finland,2.0,Turku,23.0,Turku,853.0,60.4449,22.2261,
+441,20200,FI,Turku                         ,Southwest Finland,2.0,Turku,23.0,Turku,853.0,60.4475,22.2261,6.0
+442,20210,FI,Turku                         ,Southwest Finland,2.0,Turku,23.0,Turku,853.0,60.4551,22.2008,6.0
+443,20240,FI,Turku                         ,Southwest Finland,2.0,Turku,23.0,Turku,853.0,60.4522,22.1571,6.0
+444,20250,FI,Turku                         ,Southwest Finland,2.0,Turku,23.0,Turku,853.0,60.4587,22.2294,6.0
+445,20300,FI,Turku                         ,Southwest Finland,2.0,Turku,23.0,Turku,853.0,60.4654,22.2624,6.0
+446,20320,FI,Turku                         ,Southwest Finland,2.0,Turku,23.0,Turku,853.0,60.4761,22.2318,6.0
+447,20360,FI,Turku                         ,Southwest Finland,2.0,Turku,23.0,Turku,853.0,60.4866,22.2771,6.0
+448,20380,FI,Turku                         ,Southwest Finland,2.0,Turku,23.0,Turku,853.0,60.4866,22.3179,6.0
+449,20400,FI,Turku                         ,Southwest Finland,2.0,Turku,23.0,Turku,853.0,60.5419,22.3045,6.0
+450,20460,FI,Turku                         ,Southwest Finland,2.0,Turku,23.0,Turku,853.0,60.5431,22.3559,6.0
+451,20500,FI,Turku                         ,Southwest Finland,2.0,Turku,23.0,Turku,853.0,60.4532,22.282,6.0
+452,20520,FI,Turku                         ,Southwest Finland,2.0,Turku,23.0,Turku,853.0,60.4473,22.304,6.0
+453,20540,FI,Turku                         ,Southwest Finland,2.0,Turku,23.0,Turku,853.0,60.4587,22.3141,6.0
+454,20610,FI,Turku                         ,Southwest Finland,2.0,Turku,23.0,Turku,853.0,60.4446,22.3481,6.0
+455,20660,FI,Littoinen,Southwest Finland,2.0,Turku,23.0,Kaarina,202.0,60.4418,22.3944,6.0
+456,20700,FI,Turku                         ,Southwest Finland,2.0,Turku,23.0,Turku,853.0,60.4447,22.2769,6.0
+457,20720,FI,Turku                         ,Southwest Finland,2.0,Turku,23.0,Turku,853.0,60.4376,22.2973,6.0
+458,20730,FI,Turku                         ,Southwest Finland,2.0,Turku,23.0,Turku,853.0,60.4276,22.3221,6.0
+459,20740,FI,Turku                         ,Southwest Finland,2.0,Turku,23.0,Turku,853.0,60.4185,22.2997,6.0
+460,20750,FI,Turku                         ,Southwest Finland,2.0,Turku,23.0,Turku,853.0,60.4318,22.3467,6.0
+461,20760,FI,Piispanristi,Southwest Finland,2.0,Turku,23.0,Kaarina,202.0,60.4054,22.3253,6.0
+462,20780,FI,Kaarina,Southwest Finland,2.0,Turku,23.0,Kaarina,202.0,60.4099,22.3825,6.0
+463,20810,FI,Turku                         ,Southwest Finland,2.0,Turku,23.0,Turku,853.0,60.4347,22.2562,6.0
+464,20880,FI,Turku                         ,Southwest Finland,2.0,Turku,23.0,Turku,853.0,60.4222,22.264,6.0
+465,20900,FI,Turku                         ,Southwest Finland,2.0,Turku,23.0,Turku,853.0,60.4054,22.2186,6.0
+466,20960,FI,Turku                         ,Southwest Finland,2.0,Turku,23.0,Turku,853.0,60.3648,22.1968,6.0
+467,21100,FI,Naantali,Southwest Finland,2.0,Turku,23.0,Naantali,529.0,60.4616,22.0102,6.0
+468,21110,FI,Naantali,Southwest Finland,2.0,Turku,23.0,Naantali,529.0,60.4885,22.0455,6.0
+469,21120,FI,Raisio,Southwest Finland,2.0,Turku,23.0,Raisio,680.0,60.4734,22.1014,6.0
+470,21130,FI,Poikko,Southwest Finland,2.0,Turku,23.0,Naantali,529.0,60.4156,21.8888,6.0
+471,21140,FI,Rymättylä,Southwest Finland,2.0,Turku,23.0,Naantali,529.0,60.372,21.908,6.0
+472,21150,FI,Röölä,Southwest Finland,2.0,Turku,23.0,Naantali,529.0,60.331,21.9011,6.0
+473,21160,FI,Merimasku,Southwest Finland,2.0,Turku,23.0,Naantali,529.0,60.4618,21.8549,6.0
+474,21195,FI,Velkua,Southwest Finland,2.0,Turku,23.0,Naantali,529.0,60.4435,21.666,4.0
+475,21200,FI,Raisio,Southwest Finland,2.0,Turku,23.0,Raisio,680.0,60.4852,22.1538,6.0
+476,21210,FI,Raisio,Southwest Finland,2.0,Turku,23.0,Raisio,680.0,60.4901,22.097,6.0
+477,21220,FI,Raisio,Southwest Finland,2.0,Turku,23.0,Raisio,680.0,60.506,22.1272,6.0
+478,21230,FI,Lemu,Southwest Finland,2.0,Turku,23.0,Masku,481.0,60.5658,21.9615,6.0
+479,21240,FI,Askainen,Southwest Finland,2.0,Turku,23.0,Masku,481.0,60.5555,21.8561,6.0
+480,21250,FI,Masku,Southwest Finland,2.0,Turku,23.0,Masku,481.0,60.5469,22.0858,6.0
+481,21260,FI,Raisio,Southwest Finland,2.0,Turku,23.0,Raisio,680.0,60.4681,22.1715,6.0
+482,21270,FI,Nousiainen,Southwest Finland,2.0,Turku,23.0,Nousiainen,538.0,60.6314,22.131,6.0
+483,21280,FI,Raisio,Southwest Finland,2.0,Turku,23.0,Raisio,680.0,60.4831,22.1976,6.0
+484,21290,FI,Rusko,Southwest Finland,2.0,Turku,23.0,Rusko,704.0,60.5434,22.2324,6.0
+485,21310,FI,Vahto,Southwest Finland,2.0,Turku,23.0,Rusko,704.0,60.6195,22.3148,6.0
+486,21330,FI,Paattinen                     ,Southwest Finland,2.0,Turku,23.0,Turku,853.0,60.5963,22.3832,6.0
+487,21350,FI,Ilmarinen,Southwest Finland,2.0,Turku,23.0,Lieto,423.0,60.5083,22.3909,6.0
+488,21360,FI,Lieto As,Southwest Finland,2.0,Turku,23.0,Lieto,423.0,60.5698,22.4525,6.0
+489,21370,FI,Aura Kk,Southwest Finland,2.0,Loimaa,25.0,Aura,19.0,60.6057,22.5432,6.0
+490,21380,FI,Aura,Southwest Finland,2.0,Loimaa,25.0,Aura,19.0,60.6464,22.5808,6.0
+491,21410,FI,Vanhalinna,Southwest Finland,2.0,Turku,23.0,Lieto,423.0,60.4815,22.3974,6.0
+492,21420,FI,Lieto,Southwest Finland,2.0,Turku,23.0,Lieto,423.0,60.5044,22.4642,6.0
+493,21430,FI,Yliskulma,Southwest Finland,2.0,Turku,23.0,Lieto,423.0,60.5456,22.5963,6.0
+494,21450,FI,Tarvasjoki,Southwest Finland,2.0,Turku,23.0,Lieto,423.0,60.5866,22.7291,6.0
+495,21490,FI,Marttila,Southwest Finland,2.0,Loimaa,25.0,Marttila,480.0,60.5871,22.9005,6.0
+496,21500,FI,Piikkiö,Southwest Finland,2.0,Turku,23.0,Kaarina,202.0,60.4171,22.5067,6.0
+497,21530,FI,Paimio,Southwest Finland,2.0,Turku,23.0,Paimio,577.0,60.4563,22.6942,6.0
+498,21540,FI,Preitilä,Southwest Finland,2.0,Turku,23.0,Paimio,577.0,60.4634,22.7388,6.0
+499,21560,FI,Ollila,Southwest Finland,2.0,Loimaa,25.0,Marttila,480.0,60.6354,22.9623,6.0
+500,21570,FI,Sauvo,Southwest Finland,2.0,Turku,23.0,Sauvo,738.0,60.325,22.7004,6.0
+501,21590,FI,Karuna,Southwest Finland,2.0,Turku,23.0,Sauvo,738.0,60.264,22.5566,6.0
+502,21600,FI,Parainen                      ,Southwest Finland,2.0,Åboland-Turunmaa,21.0,Pargas,445.0,60.2705,22.2604,6.0
+503,21610,FI,Kirjala                       ,Southwest Finland,2.0,Åboland-Turunmaa,21.0,Pargas,445.0,60.3466,22.3791,6.0
+504,21620,FI,Kuusisto,Southwest Finland,2.0,Turku,23.0,Kaarina,202.0,60.3858,22.3849,6.0
+505,21630,FI,Lielahti Tl                   ,Southwest Finland,2.0,Åboland-Turunmaa,21.0,Pargas,445.0,60.294,22.404,6.0
+506,21650,FI,Lillandet                     ,Southwest Finland,2.0,Åboland-Turunmaa,21.0,Pargas,445.0,60.151,22.0162,6.0
+507,21660,FI,Nauvo                         ,Southwest Finland,2.0,Åboland-Turunmaa,21.0,Pargas,445.0,60.1882,21.8626,6.0
+508,21710,FI,Korppoo                       ,Southwest Finland,2.0,Åboland-Turunmaa,21.0,Pargas,445.0,60.1487,21.5799,6.0
+509,21740,FI,Utö                           ,Southwest Finland,2.0,Åboland-Turunmaa,21.0,Pargas,445.0,59.7883,21.3736,6.0
+510,21750,FI,Norrskata                     ,Southwest Finland,2.0,Åboland-Turunmaa,21.0,Pargas,445.0,60.2629,21.5938,6.0
+511,21760,FI,Houtskari                     ,Southwest Finland,2.0,Åboland-Turunmaa,21.0,Pargas,445.0,60.2263,21.3461,6.0
+512,21770,FI,Mossala                       ,Southwest Finland,2.0,Åboland-Turunmaa,21.0,Pargas,445.0,60.2705,21.4037,6.0
+513,21800,FI,Kyrö,Southwest Finland,2.0,Loimaa,25.0,Pöytyä,636.0,60.6956,22.7618,6.0
+514,21820,FI,Kumila,Southwest Finland,2.0,Loimaa,25.0,Pöytyä,636.0,60.7393,22.8109,6.0
+515,21860,FI,Auvainen,Southwest Finland,2.0,Loimaa,25.0,Pöytyä,636.0,60.681,22.5651,6.0
+516,21870,FI,Riihikoski,Southwest Finland,2.0,Loimaa,25.0,Pöytyä,636.0,60.7217,22.5891,6.0
+517,21880,FI,Pöytyä,Southwest Finland,2.0,Loimaa,25.0,Pöytyä,636.0,60.7663,22.6269,6.0
+518,21900,FI,Yläne,Southwest Finland,2.0,Loimaa,25.0,Pöytyä,636.0,60.8799,22.3798,6.0
+519,21930,FI,Uusikartano,Southwest Finland,2.0,Loimaa,25.0,Pöytyä,636.0,60.8176,22.4744,6.0
+520,23100,FI,Mynämäki,Southwest Finland,2.0,Turku,23.0,Mynämäki,503.0,60.713,21.9941,6.0
+521,23120,FI,Mietoinen,Southwest Finland,2.0,Turku,23.0,Mynämäki,503.0,60.6204,21.9093,6.0
+522,23140,FI,Hietamäki,Southwest Finland,2.0,Turku,23.0,Mynämäki,503.0,60.6383,21.8461,6.0
+523,23200,FI,Vinkkilä,Southwest Finland,2.0,Vakka-Suomi,24.0,Vehmaa,918.0,60.685,21.697,6.0
+524,23260,FI,Rautila,Southwest Finland,2.0,Vakka-Suomi,24.0,Vehmaa,918.0,60.612,21.7271,6.0
+525,23310,FI,Taivassalo,Southwest Finland,2.0,Vakka-Suomi,24.0,Taivassalo,833.0,60.5566,21.5809,6.0
+526,23360,FI,Kustavi,Southwest Finland,2.0,Vakka-Suomi,24.0,Kustavi,304.0,60.5599,21.3331,6.0
+527,23450,FI,Lokalahti,Southwest Finland,2.0,Vakka-Suomi,24.0,Uusikaupunki,895.0,60.6849,21.4259,6.0
+528,23500,FI,Uusikaupunki,Southwest Finland,2.0,Vakka-Suomi,24.0,Uusikaupunki,895.0,60.8153,21.3828,6.0
+529,23600,FI,Kalanti,Southwest Finland,2.0,Vakka-Suomi,24.0,Uusikaupunki,895.0,60.8095,21.5835,6.0
+530,23800,FI,Laitila,Southwest Finland,2.0,Vakka-Suomi,24.0,Laitila,400.0,60.8855,21.7204,6.0
+531,23930,FI,Pyhämaa,Southwest Finland,2.0,Vakka-Suomi,24.0,Uusikaupunki,895.0,60.9155,21.2784,6.0
+532,23950,FI,Pyhäranta,Southwest Finland,2.0,Vakka-Suomi,24.0,Pyhäranta,631.0,60.9382,21.453000000000007,6.0
+533,24100,FI,Salo,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.3839,23.1424,6.0
+534,24130,FI,Salo,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.3545,23.1223,6.0
+535,24240,FI,Salo,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.4008,23.1085,6.0
+536,24260,FI,Salo,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.4166,23.1457,6.0
+537,24280,FI,Salo,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.4058,23.1904,6.0
+538,24800,FI,Halikko,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.4,23.0641,6.0
+539,24910,FI,Halikko As,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.3977,23.0309,6.0
+540,25110,FI,Kruusila,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.3656,23.4259,6.0
+541,25130,FI,Muurla,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.3514,23.2878,6.0
+542,25160,FI,Tuohittu,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.2877,23.2701,6.0
+543,25190,FI,Pertteli,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.4309,23.2753,6.0
+544,25210,FI,Vartsala,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.3349,23.0084,6.0
+545,25230,FI,Angelniemi,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.3163,22.9455,6.0
+546,25240,FI,Hajala,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.407,22.9032,6.0
+547,25250,FI,Märynummi,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.4398,23.0434,6.0
+548,25260,FI,Vaskio,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.4971,22.993,6.0
+549,25320,FI,Raatala,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.541,23.1439,6.0
+550,25330,FI,Kuusjoki,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.5249,23.2197,6.0
+551,25340,FI,Kanunki,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.5557,23.2938,6.0
+552,25360,FI,Pertteli,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.4565,23.2439,6.0
+553,25370,FI,Pertteli,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.4782,23.3433,6.0
+554,25380,FI,Rekijoki,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.5087,23.4477,6.0
+555,25390,FI,Kiikala,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.4551,23.5622,6.0
+556,25410,FI,Suomusjärvi,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.3508,23.6283,6.0
+557,25460,FI,Kisko,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.2766,23.4419,6.0
+558,25470,FI,Kisko,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.2254,23.5059,6.0
+559,25500,FI,Perniö,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.181,23.1239,6.0
+560,25520,FI,Perniö As,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.2566,23.1356,6.0
+561,25550,FI,Aijala,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.1954,23.3692,6.0
+562,25570,FI,Teijo,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.2623,22.9784,6.0
+563,25630,FI,Särkisalo,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.1089,22.9512,6.0
+564,25640,FI,Förby,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.0559,22.8971,6.0
+565,25650,FI,Strömma                       ,Southwest Finland,2.0,Åboland-Turunmaa,21.0,Kimitoön,322.0,60.1888,22.8499,
+566,25660,FI,Mathildedal,Southwest Finland,2.0,Salo,22.0,Salo,734.0,60.2169,22.9086,6.0
+567,25700,FI,Kemiö                         ,Southwest Finland,2.0,Åboland-Turunmaa,21.0,Kimitoön,322.0,60.1712,22.7136,6.0
+568,25760,FI,Kiila                         ,Southwest Finland,2.0,Åboland-Turunmaa,21.0,Kimitoön,322.0,60.2363,22.8632,6.0
+569,25830,FI,Västanfjärd                   ,Southwest Finland,2.0,Åboland-Turunmaa,21.0,Kimitoön,322.0,60.0282,22.6982,6.0
+570,25860,FI,Björkboda                     ,Southwest Finland,2.0,Åboland-Turunmaa,21.0,Kimitoön,322.0,60.1026,22.5424,6.0
+571,25870,FI,Dragsfjärd                    ,Southwest Finland,2.0,Åboland-Turunmaa,21.0,Kimitoön,322.0,60.0687,22.4569,6.0
+572,25900,FI,Taalintehdas                  ,Southwest Finland,2.0,Åboland-Turunmaa,21.0,Kimitoön,322.0,59.9817,22.4951,6.0
+573,25960,FI,Högsåra                       ,Southwest Finland,2.0,Åboland-Turunmaa,21.0,Kimitoön,322.0,59.9641,22.3662,6.0
+574,26100,FI,Rauma,Satakunta,4.0,Rauma,41.0,Rauma,684.0,61.1343,21.5026,6.0
+575,26200,FI,Rauma,Satakunta,4.0,Rauma,41.0,Rauma,684.0,61.1572,21.4755,6.0
+576,26410,FI,Kaaro,Satakunta,4.0,Rauma,41.0,Rauma,684.0,61.1767,21.5183,
+577,26510,FI,Rauma,Satakunta,4.0,Rauma,41.0,Rauma,684.0,61.1351,21.5735,6.0
+578,26660,FI,Rauma,Satakunta,4.0,Rauma,41.0,Rauma,684.0,61.1155,21.5343,6.0
+579,26720,FI,Monnanummi,Satakunta,4.0,Rauma,41.0,Rauma,684.0,61.0965,21.5462,6.0
+580,26820,FI,Rauma,Satakunta,4.0,Rauma,41.0,Rauma,684.0,61.1063,21.4887,6.0
+581,26840,FI,Kortela,Satakunta,4.0,Rauma,41.0,Rauma,684.0,61.0936,21.4926,6.0
+582,27100,FI,Eurajoki,Satakunta,4.0,Rauma,41.0,Eurajoki,51.0,61.2108,21.7032,6.0
+583,27150,FI,Eurajoki,Satakunta,4.0,Rauma,41.0,Eurajoki,51.0,61.195,21.608,4.0
+584,27230,FI,Lappi,Satakunta,4.0,Rauma,41.0,Rauma,684.0,61.1002,21.841,6.0
+585,27310,FI,Kodisjoki,Satakunta,4.0,Rauma,41.0,Rauma,684.0,61.0322,21.6787,6.0
+586,27320,FI,Ihode,Southwest Finland,2.0,Vakka-Suomi,24.0,Pyhäranta,631.0,60.9834,21.5883,6.0
+587,27400,FI,Kiukainen,Satakunta,4.0,Rauma,41.0,Eura,50.0,61.2176,22.0762,6.0
+588,27430,FI,Panelia,Satakunta,4.0,Rauma,41.0,Eura,50.0,61.2416,21.9635,6.0
+589,27450,FI,Harola,Satakunta,4.0,Rauma,41.0,Eura,50.0,61.2425,22.1176,6.0
+590,27500,FI,Kauttua,Satakunta,4.0,Rauma,41.0,Eura,50.0,61.1014,22.158,6.0
+591,27510,FI,Eura,Satakunta,4.0,Rauma,41.0,Eura,50.0,61.1363,22.0915,6.0
+592,27600,FI,Hinnerjoki,Satakunta,4.0,Rauma,41.0,Eura,50.0,60.9839,21.9919,6.0
+593,27640,FI,Honkilahti Kk,Satakunta,4.0,Rauma,41.0,Eura,50.0,60.9781,22.0972,6.0
+594,27650,FI,Honkilahti,Satakunta,4.0,Rauma,41.0,Eura,50.0,60.9637,22.1964,6.0
+595,27670,FI,Mannila,Satakunta,4.0,Rauma,41.0,Eura,50.0,61.0193,22.1728,6.0
+596,27710,FI,Köyliö,Satakunta,4.0,Rauma,41.0,Säkylä,783.0,61.1266,22.3072,6.0
+597,27730,FI,Tuiskula,Satakunta,4.0,Rauma,41.0,Säkylä,783.0,61.1766,22.2282,6.0
+598,27750,FI,Köyliö,Satakunta,4.0,Rauma,41.0,Säkylä,783.0,61.1246,22.3754,6.0
+599,27800,FI,Säkylä,Satakunta,4.0,Rauma,41.0,Säkylä,783.0,61.0324,22.3623,6.0
+600,27820,FI,Säkylä,Satakunta,4.0,Rauma,41.0,Säkylä,783.0,61.0823,22.2513,6.0
+601,27840,FI,Köyliö,Satakunta,4.0,Rauma,41.0,Säkylä,783.0,61.0834,22.3908,6.0
+602,27860,FI,Köyliö,Satakunta,4.0,Rauma,41.0,Säkylä,783.0,61.0641,22.5255,6.0
+603,27910,FI,Säkylä,Satakunta,4.0,Rauma,41.0,Säkylä,783.0,61.04,22.4297,6.0
+604,27920,FI,Säkylä,Satakunta,4.0,Rauma,41.0,Säkylä,783.0,60.9991,22.3922,4.0
+605,28100,FI,Pori,Satakunta,4.0,Pori,43.0,Pori,609.0,61.51300000000001,21.7643,4.0
+606,28120,FI,Pori,Satakunta,4.0,Pori,43.0,Pori,609.0,61.4829,21.7693,6.0
+607,28130,FI,Pori,Satakunta,4.0,Pori,43.0,Pori,609.0,61.4708,21.811,6.0
+608,28190,FI,Pori,Satakunta,4.0,Pori,43.0,Pori,609.0,61.5597,21.7064,6.0
+609,28200,FI,Pori,Satakunta,4.0,Pori,43.0,Pori,609.0,61.5068,21.8133,6.0
+610,28220,FI,Pori,Satakunta,4.0,Pori,43.0,Pori,609.0,61.512,21.8511,6.0
+611,28240,FI,Pori,Satakunta,4.0,Pori,43.0,Pori,609.0,61.4921,21.8598,6.0
+612,28260,FI,Harjunpää,Satakunta,4.0,Pori,43.0,Ulvila,886.0,61.4942,21.9304,6.0
+613,28300,FI,Pori,Satakunta,4.0,Pori,43.0,Pori,609.0,61.4835,21.8522,6.0
+614,28330,FI,Pori,Satakunta,4.0,Pori,43.0,Pori,609.0,61.4691,21.8663,6.0
+615,28360,FI,Pori,Satakunta,4.0,Pori,43.0,Pori,609.0,61.4745,21.836,6.0
+616,28370,FI,Pori,Satakunta,4.0,Pori,43.0,Pori,609.0,61.4665,21.8393,6.0
+617,28400,FI,Ulvila,Satakunta,4.0,Pori,43.0,Ulvila,886.0,61.4234,21.8707,6.0
+618,28430,FI,Pori,Satakunta,4.0,Pori,43.0,Pori,609.0,61.4485,21.8555,6.0
+619,28450,FI,Vanha-Ulvila,Satakunta,4.0,Pori,43.0,Ulvila,886.0,61.43899999999999,21.905,6.0
+620,28500,FI,Pori,Satakunta,4.0,Pori,43.0,Pori,609.0,61.4743,21.7772,6.0
+621,28540,FI,Pori,Satakunta,4.0,Pori,43.0,Pori,609.0,61.4536,21.7669,6.0
+622,28600,FI,Pori,Satakunta,4.0,Pori,43.0,Pori,609.0,61.483,21.7202,6.0
+623,28610,FI,Pori,Satakunta,4.0,Pori,43.0,Pori,609.0,61.4788,21.7415,6.0
+624,28660,FI,Pori,Satakunta,4.0,Pori,43.0,Pori,609.0,61.4773,21.6393,6.0
+625,28760,FI,Pori,Satakunta,4.0,Pori,43.0,Pori,609.0,61.5318,21.6653,6.0
+626,28800,FI,Pori,Satakunta,4.0,Pori,43.0,Pori,609.0,61.5561,21.6148,6.0
+627,28840,FI,Pori,Satakunta,4.0,Pori,43.0,Pori,609.0,61.5745,21.5244,6.0
+628,28880,FI,Pori,Satakunta,4.0,Pori,43.0,Pori,609.0,61.5911,21.4893,6.0
+629,28900,FI,Pori,Satakunta,4.0,Pori,43.0,Pori,609.0,61.6355,21.4741,6.0
+630,29100,FI,Luvia,Satakunta,4.0,Rauma,41.0,Eurajoki,51.0,61.3678,21.5718,6.0
+631,29200,FI,Harjavalta,Satakunta,4.0,Pori,43.0,Harjavalta,79.0,61.3188,22.1426,6.0
+632,29250,FI,Nakkila,Satakunta,4.0,Pori,43.0,Nakkila,531.0,61.3666,22.0064,6.0
+633,29310,FI,Kaasmarkku,Satakunta,4.0,Pori,43.0,Ulvila,886.0,61.453,22.0208,6.0
+634,29340,FI,Kullaa,Satakunta,4.0,Pori,43.0,Ulvila,886.0,61.4857,22.1814,6.0
+635,29600,FI,Noormarkku,Satakunta,4.0,Pori,43.0,Pori,609.0,61.5958,21.8942,6.0
+636,29630,FI,Pomarkku,Satakunta,4.0,Pori,43.0,Pomarkku,608.0,61.7072,21.9686,6.0
+637,29640,FI,Honkakoski,Satakunta,4.0,Pori,43.0,Pomarkku,608.0,61.7445,22.1092,6.0
+638,29680,FI,Lassila,Satakunta,4.0,Pori,43.0,Pori,609.0,61.6336,22.253,6.0
+639,29700,FI,Ahlainen,Satakunta,4.0,Pori,43.0,Pori,609.0,61.6846,21.6022,6.0
+640,29810,FI,Siikainen,Satakunta,4.0,Pohjois-Satakunta,44.0,Siikainen,747.0,61.8831,21.858,6.0
+641,29880,FI,Leväsjoki,Satakunta,4.0,Pohjois-Satakunta,44.0,Siikainen,747.0,61.7825,21.8214,6.0
+642,29900,FI,Merikarvia,Satakunta,4.0,Pori,43.0,Merikarvia,484.0,61.8676,21.4771,6.0
+643,30100,FI,Forssa,Kanta-Häme,5.0,Forssa,53.0,Forssa,61.0,60.8297,23.624,6.0
+644,30300,FI,Forssa,Kanta-Häme,5.0,Forssa,53.0,Forssa,61.0,60.8009,23.6277,6.0
+645,30420,FI,Forssa,Kanta-Häme,5.0,Forssa,53.0,Forssa,61.0,60.8129,23.5983,6.0
+646,31130,FI,Koijärvi,Kanta-Häme,5.0,Forssa,53.0,Forssa,61.0,60.9379,23.6662,6.0
+647,31160,FI,Nuutajärvi,Pirkanmaa,6.0,Etelä-Pirkanmaa,63.0,Urjala,887.0,61.0399,23.4059,6.0
+648,31300,FI,Tammela,Kanta-Häme,5.0,Forssa,53.0,Tammela,834.0,60.8099,23.8068,6.0
+649,31380,FI,Letku,Kanta-Häme,5.0,Forssa,53.0,Tammela,834.0,60.6928,23.7439,6.0
+650,31400,FI,Somero,Southwest Finland,2.0,Salo,22.0,Somero,761.0,60.6278,23.5259,6.0
+651,31470,FI,Somerniemi,Southwest Finland,2.0,Salo,22.0,Somero,761.0,60.5634,23.7806,6.0
+652,31500,FI,Koski Tl,Southwest Finland,2.0,Loimaa,25.0,Koski Tl,284.0,60.6571,23.1342,6.0
+653,31600,FI,Jokioinen,Kanta-Häme,5.0,Forssa,53.0,Jokioinen,169.0,60.8078,23.4927,6.0
+654,31610,FI,Vaulammi,Kanta-Häme,5.0,Forssa,53.0,Jokioinen,169.0,60.7838,23.4239,6.0
+655,31620,FI,Latovainio,Kanta-Häme,5.0,Forssa,53.0,Jokioinen,169.0,60.8885,23.5028,6.0
+656,31630,FI,Minkiö,Kanta-Häme,5.0,Forssa,53.0,Jokioinen,169.0,60.8547,23.432,6.0
+657,31640,FI,Humppila,Kanta-Häme,5.0,Forssa,53.0,Humppila,103.0,60.93,23.365,6.0
+658,31700,FI,Urjala As,Pirkanmaa,6.0,Etelä-Pirkanmaa,63.0,Urjala,887.0,61.0393,23.6778,6.0
+659,31720,FI,Urjalankylä,Pirkanmaa,6.0,Etelä-Pirkanmaa,63.0,Urjala,887.0,61.0841,23.4235,6.0
+660,31760,FI,Urjala,Pirkanmaa,6.0,Etelä-Pirkanmaa,63.0,Urjala,887.0,61.0831,23.5506,6.0
+661,31900,FI,Punkalaidun,Pirkanmaa,6.0,Lounais-Pirkanmaa,68.0,Punkalaidun,619.0,61.1083,23.1116,6.0
+662,32100,FI,Ypäjä,Kanta-Häme,5.0,Forssa,53.0,Ypäjä,981.0,60.7891,23.2893,6.0
+663,32200,FI,Loimaa,Southwest Finland,2.0,Loimaa,25.0,Loimaa,430.0,60.846,23.0571,6.0
+664,32210,FI,Loimaa,Southwest Finland,2.0,Loimaa,25.0,Loimaa,430.0,60.8776,22.978,6.0
+665,32250,FI,Kojonkulma,Southwest Finland,2.0,Loimaa,25.0,Loimaa,430.0,60.9376,22.9912,4.0
+666,32270,FI,Metsämaa,Southwest Finland,2.0,Loimaa,25.0,Loimaa,430.0,60.9468,23.1678,6.0
+667,32300,FI,Mellilä,Southwest Finland,2.0,Loimaa,25.0,Loimaa,430.0,60.7684,22.9504,6.0
+668,32410,FI,Niinijoki,Southwest Finland,2.0,Loimaa,25.0,Loimaa,430.0,60.8579,22.848000000000006,6.0
+669,32440,FI,Alastaro,Southwest Finland,2.0,Loimaa,25.0,Loimaa,430.0,60.9593,22.8659,6.0
+670,32500,FI,Oripää,Southwest Finland,2.0,Loimaa,25.0,Oripää,561.0,60.8639,22.69,6.0
+671,32560,FI,Virttaa,Southwest Finland,2.0,Loimaa,25.0,Loimaa,430.0,60.9418,22.6662,6.0
+672,32610,FI,Vampula,Satakunta,4.0,Pori,43.0,Huittinen,102.0,61.0299,22.6726,6.0
+673,32620,FI,Rutava,Satakunta,4.0,Pori,43.0,Huittinen,102.0,61.0706,22.7113,6.0
+674,32700,FI,Huittinen,Satakunta,4.0,Pori,43.0,Huittinen,102.0,61.1725,22.7045,6.0
+675,32730,FI,Sastamala,Pirkanmaa,6.0,Lounais-Pirkanmaa,68.0,Sastamala,790.0,61.2602,22.7418,6.0
+676,32740,FI,Sastamala,Pirkanmaa,6.0,Lounais-Pirkanmaa,68.0,Sastamala,790.0,61.2867,22.689,6.0
+677,32800,FI,Kokemäki,Satakunta,4.0,Pori,43.0,Kokemäki,271.0,61.2692,22.3597,6.0
+678,32810,FI,Peipohja,Satakunta,4.0,Pori,43.0,Kokemäki,271.0,61.2496,22.2866,6.0
+679,32910,FI,Kauvatsa As,Satakunta,4.0,Pori,43.0,Kokemäki,271.0,61.306,22.5319,6.0
+680,32920,FI,Kauvatsa,Satakunta,4.0,Pori,43.0,Kokemäki,271.0,61.3864,22.4418,6.0
+681,33100,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.4942,23.7817,6.0
+682,33180,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.5123,23.7804,6.0
+683,33200,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.4947,23.7523,6.0
+684,33210,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.5006,23.7532,6.0
+685,33230,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.499,23.7374,6.0
+686,33240,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.4986,23.7145,6.0
+687,33250,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.504,23.71,6.0
+688,33270,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.5057,23.6777,6.0
+689,33300,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.49800000000001,23.635,6.0
+690,33310,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.5091,23.626,6.0
+691,33330,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.4986,23.5876,6.0
+692,33340,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.5137,23.6014,6.0
+693,33400,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.5274,23.6721,6.0
+694,33410,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.5289,23.7109,6.0
+695,33420,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.5219,23.635,6.0
+696,33430,FI,Vuorentausta,Pirkanmaa,6.0,Tampere,64.0,Ylöjärvi,980.0,61.5294,23.6039,6.0
+697,33450,FI,Siivikkala,Pirkanmaa,6.0,Tampere,64.0,Ylöjärvi,980.0,61.5522,23.6726,6.0
+698,33470,FI,Ylöjärvi,Pirkanmaa,6.0,Tampere,64.0,Ylöjärvi,980.0,61.5573,23.5829,6.0
+699,33480,FI,Ylöjärvi,Pirkanmaa,6.0,Tampere,64.0,Ylöjärvi,980.0,61.5809,23.6198,6.0
+700,33500,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.5049,23.7936,6.0
+701,33520,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.5033,23.8187,6.0
+702,33530,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.4964,23.8303,6.0
+703,33540,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.4957,23.8041,6.0
+704,33560,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.4978,23.8587,6.0
+705,33580,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.493,23.9106,6.0
+706,33610,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.5188,23.9358,6.0
+707,33680,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.5835,23.9297,6.0
+708,33700,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.4852,23.8396,6.0
+709,33710,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.4678,23.877,6.0
+710,33720,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.4471,23.8565,6.0
+711,33730,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.477,23.92,6.0
+712,33800,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.4794,23.8041,6.0
+713,33820,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.4686,23.8035,6.0
+714,33840,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.4508,23.7634,6.0
+715,33850,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.438,23.7516,6.0
+716,33870,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.4346,23.8178,6.0
+717,33880,FI,Lempäälä,Pirkanmaa,6.0,Tampere,64.0,Lempäälä,418.0,61.4172,23.7653,6.0
+718,33900,FI,Tampere,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.4697,23.7443,6.0
+719,33920,FI,Pirkkala,Pirkanmaa,6.0,Tampere,64.0,Pirkkala,604.0,61.4561,23.7195,6.0
+720,33950,FI,Pirkkala,Pirkanmaa,6.0,Tampere,64.0,Pirkkala,604.0,61.47,23.6975,6.0
+721,33960,FI,Pirkkala,Pirkanmaa,6.0,Tampere,64.0,Pirkkala,604.0,61.4589,23.646,6.0
+722,33980,FI,Pirkkala,Pirkanmaa,6.0,Tampere,64.0,Pirkkala,604.0,61.4368,23.5688,6.0
+723,34110,FI,Lakiala,Pirkanmaa,6.0,Tampere,64.0,Ylöjärvi,980.0,61.6119,23.5455,6.0
+724,34130,FI,Ylinen,Pirkanmaa,6.0,Tampere,64.0,Ylöjärvi,980.0,61.6244,23.6242,6.0
+725,34240,FI,Kämmenniemi,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.6229,23.8604,6.0
+726,34260,FI,Terälahti,Pirkanmaa,6.0,Tampere,64.0,Tampere,837.0,61.7147,23.8592,6.0
+727,34300,FI,Kuru,Pirkanmaa,6.0,Tampere,64.0,Ylöjärvi,980.0,61.8926,23.7271,6.0
+728,34450,FI,Jäminkipohja,Pirkanmaa,6.0,Ylä-Pirkanmaa,69.0,Ruovesi,702.0,61.8954,24.0842,6.0
+729,34600,FI,Ruovesi,Pirkanmaa,6.0,Ylä-Pirkanmaa,69.0,Ruovesi,702.0,61.968,24.0406,6.0
+730,34800,FI,Virrat,Pirkanmaa,6.0,Ylä-Pirkanmaa,69.0,Virrat,936.0,62.2272,23.782,6.0
+731,34870,FI,Visuvesi,Pirkanmaa,6.0,Ylä-Pirkanmaa,69.0,Ruovesi,702.0,62.1099,23.9251,6.0
+732,34980,FI,Killinkoski,Pirkanmaa,6.0,Ylä-Pirkanmaa,69.0,Virrat,936.0,62.4093,23.8723,6.0
+733,35100,FI,Orivesi As,Pirkanmaa,6.0,Tampere,64.0,Orivesi,562.0,61.6489,24.3969,6.0
+734,35220,FI,Eräjärvi,Pirkanmaa,6.0,Tampere,64.0,Orivesi,562.0,61.5831,24.5474,6.0
+735,35300,FI,Orivesi,Pirkanmaa,6.0,Tampere,64.0,Orivesi,562.0,61.6699,24.3509,6.0
+736,35320,FI,Hirsilä,Pirkanmaa,6.0,Tampere,64.0,Orivesi,562.0,61.7465,24.3026,4.0
+737,35400,FI,Längelmäki,Central Finland Region,13.0,Jämsä,134.0,Jämsä,182.0,61.7427,24.8378,4.0
+738,35420,FI,Talviainen,Pirkanmaa,6.0,Tampere,64.0,Orivesi,562.0,61.7492,24.6597,6.0
+739,35500,FI,Korkeakoski,Pirkanmaa,6.0,Ylä-Pirkanmaa,69.0,Juupajoki,177.0,61.8051,24.3698,6.0
+740,35530,FI,Lyly,Pirkanmaa,6.0,Ylä-Pirkanmaa,69.0,Juupajoki,177.0,61.8807,24.5,6.0
+741,35540,FI,Juupajoki,Pirkanmaa,6.0,Ylä-Pirkanmaa,69.0,Juupajoki,177.0,61.8022,24.5168,6.0
+742,35600,FI,Halli,Central Finland Region,13.0,Jämsä,134.0,Jämsä,182.0,61.868,24.8179,6.0
+743,35630,FI,Kuorevesi,Central Finland Region,13.0,Jämsä,134.0,Jämsä,182.0,61.9203,24.7748,6.0
+744,35700,FI,Vilppula,Pirkanmaa,6.0,Ylä-Pirkanmaa,69.0,Mänttä-Vilppula,508.0,62.0303,24.4598,6.0
+745,35800,FI,Mänttä,Pirkanmaa,6.0,Ylä-Pirkanmaa,69.0,Mänttä-Vilppula,508.0,62.0383,24.6105,6.0
+746,35820,FI,Mänttä,Central Finland Region,13.0,Jämsä,134.0,Jämsä,182.0,61.9817,24.7534,6.0
+747,35990,FI,Kolho,Pirkanmaa,6.0,Ylä-Pirkanmaa,69.0,Mänttä-Vilppula,508.0,62.1307,24.5115,6.0
+748,36100,FI,Kangasala As,Pirkanmaa,6.0,Tampere,64.0,Kangasala,211.0,61.493,24.0044,6.0
+749,36110,FI,Ruutana,Pirkanmaa,6.0,Tampere,64.0,Kangasala,211.0,61.5225,24.0191,6.0
+750,36200,FI,Kangasala,Pirkanmaa,6.0,Tampere,64.0,Kangasala,211.0,61.4685,24.0754,6.0
+751,36220,FI,Kangasala,Pirkanmaa,6.0,Tampere,64.0,Kangasala,211.0,61.4719,23.9978,6.0
+752,36240,FI,Kangasala,Pirkanmaa,6.0,Tampere,64.0,Kangasala,211.0,61.4789,23.95,6.0
+753,36270,FI,Kangasala,Pirkanmaa,6.0,Tampere,64.0,Kangasala,211.0,61.449,24.1439,6.0
+754,36280,FI,Pikonlinna,Pirkanmaa,6.0,Tampere,64.0,Kangasala,211.0,61.4921,24.0845,6.0
+755,36420,FI,Sahalahti,Pirkanmaa,6.0,Tampere,64.0,Kangasala,211.0,61.4841,24.3496,6.0
+756,36430,FI,Sahalahti,Pirkanmaa,6.0,Tampere,64.0,Kangasala,211.0,61.4496,24.4046,6.0
+757,36450,FI,Salmentaka,Pirkanmaa,6.0,Tampere,64.0,Pälkäne,635.0,61.3922,24.4245,6.0
+758,36600,FI,Pälkäne,Pirkanmaa,6.0,Tampere,64.0,Pälkäne,635.0,61.3379,24.2682,6.0
+759,36720,FI,Aitoo,Pirkanmaa,6.0,Tampere,64.0,Pälkäne,635.0,61.3426,24.5011,6.0
+760,36760,FI,Luopioinen,Pirkanmaa,6.0,Tampere,64.0,Pälkäne,635.0,61.3557,24.6464,6.0
+761,36810,FI,Kuhmalahti,Pirkanmaa,6.0,Tampere,64.0,Kangasala,211.0,61.5119,24.5382,6.0
+762,36840,FI,Pohja,Pirkanmaa,6.0,Tampere,64.0,Kangasala,211.0,61.4937,24.6898,6.0
+763,36910,FI,Rautajärvi,Pirkanmaa,6.0,Tampere,64.0,Pälkäne,635.0,61.3995,24.7303,6.0
+764,36930,FI,Kyynärö,Pirkanmaa,6.0,Tampere,64.0,Pälkäne,635.0,61.3931,24.8285,6.0
+765,37100,FI,Nokia,Pirkanmaa,6.0,Tampere,64.0,Nokia,536.0,61.4836,23.51,6.0
+766,37120,FI,Nokia,Pirkanmaa,6.0,Tampere,64.0,Nokia,536.0,61.453,23.475,6.0
+767,37130,FI,Nokia,Pirkanmaa,6.0,Tampere,64.0,Nokia,536.0,61.4888,23.4803,6.0
+768,37140,FI,Nokia,Pirkanmaa,6.0,Tampere,64.0,Nokia,536.0,61.473,23.454,6.0
+769,37150,FI,Nokia,Pirkanmaa,6.0,Tampere,64.0,Nokia,536.0,61.4923,23.5363,6.0
+770,37200,FI,Siuro,Pirkanmaa,6.0,Tampere,64.0,Nokia,536.0,61.484,23.3096,6.0
+771,37240,FI,Linnavuori,Pirkanmaa,6.0,Tampere,64.0,Nokia,536.0,61.4919,23.3555,6.0
+772,37370,FI,Vesilahti,Pirkanmaa,6.0,Tampere,64.0,Vesilahti,922.0,61.3095,23.4673,6.0
+773,37380,FI,Vesilahti,Pirkanmaa,6.0,Tampere,64.0,Vesilahti,922.0,61.2348,23.4085,6.0
+774,37420,FI,Vesilahti,Pirkanmaa,6.0,Tampere,64.0,Vesilahti,922.0,61.2434,23.6083,6.0
+775,37470,FI,Vesilahti,Pirkanmaa,6.0,Tampere,64.0,Vesilahti,922.0,61.303,23.6067,6.0
+776,37500,FI,Lempäälä,Pirkanmaa,6.0,Tampere,64.0,Lempäälä,418.0,61.3069,23.7687,6.0
+777,37550,FI,Lempäälä,Pirkanmaa,6.0,Tampere,64.0,Lempäälä,418.0,61.3453,23.7618,6.0
+778,37560,FI,Lempäälä,Pirkanmaa,6.0,Tampere,64.0,Lempäälä,418.0,61.3864,23.7775,6.0
+779,37570,FI,Lempäälä,Pirkanmaa,6.0,Tampere,64.0,Lempäälä,418.0,61.3561,23.8261,6.0
+780,37600,FI,Valkeakoski,Pirkanmaa,6.0,Etelä-Pirkanmaa,63.0,Valkeakoski,908.0,61.2609,24.0581,6.0
+781,37630,FI,Valkeakoski,Pirkanmaa,6.0,Etelä-Pirkanmaa,63.0,Valkeakoski,908.0,61.2876,24.0034,6.0
+782,37700,FI,Sääksmäki,Pirkanmaa,6.0,Etelä-Pirkanmaa,63.0,Valkeakoski,908.0,61.198,24.0815,6.0
+783,37800,FI,Akaa,Pirkanmaa,6.0,Etelä-Pirkanmaa,63.0,Akaa,20.0,61.1645,23.8542,6.0
+784,37830,FI,Akaa,Pirkanmaa,6.0,Etelä-Pirkanmaa,63.0,Akaa,20.0,61.2124,23.7521,6.0
+785,37860,FI,Kärjenniemi,Pirkanmaa,6.0,Etelä-Pirkanmaa,63.0,Valkeakoski,908.0,61.2409,23.9471,6.0
+786,37900,FI,Akaa,Pirkanmaa,6.0,Etelä-Pirkanmaa,63.0,Akaa,20.0,61.1126,23.6875,6.0
+787,37910,FI,Akaa,Pirkanmaa,6.0,Etelä-Pirkanmaa,63.0,Akaa,20.0,61.1592,23.6466,6.0
+788,37960,FI,Akaa,Pirkanmaa,6.0,Etelä-Pirkanmaa,63.0,Akaa,20.0,61.142,23.7981,6.0
+789,38100,FI,Sastamala,Pirkanmaa,6.0,Lounais-Pirkanmaa,68.0,Sastamala,790.0,61.4421,23.0612,6.0
+790,38200,FI,Sastamala,Pirkanmaa,6.0,Lounais-Pirkanmaa,68.0,Sastamala,790.0,61.3316,22.9311,6.0
+791,38210,FI,Sastamala,Pirkanmaa,6.0,Lounais-Pirkanmaa,68.0,Sastamala,790.0,61.3714,22.9038,6.0
+792,38250,FI,Sastamala,Pirkanmaa,6.0,Lounais-Pirkanmaa,68.0,Sastamala,790.0,61.2912,22.9464,6.0
+793,38270,FI,Sastamala,Pirkanmaa,6.0,Lounais-Pirkanmaa,68.0,Sastamala,790.0,61.239,23.1575,6.0
+794,38300,FI,Sastamala,Pirkanmaa,6.0,Lounais-Pirkanmaa,68.0,Sastamala,790.0,61.3333,22.749,6.0
+795,38360,FI,Sastamala,Pirkanmaa,6.0,Lounais-Pirkanmaa,68.0,Sastamala,790.0,61.4583,22.6002,6.0
+796,38420,FI,Sastamala,Pirkanmaa,6.0,Lounais-Pirkanmaa,68.0,Sastamala,790.0,61.4998,23.1259,6.0
+797,38460,FI,Sastamala,Pirkanmaa,6.0,Lounais-Pirkanmaa,68.0,Sastamala,790.0,61.5143,22.9572,6.0
+798,38510,FI,Sastamala,Pirkanmaa,6.0,Lounais-Pirkanmaa,68.0,Sastamala,790.0,61.5703,22.7551,6.0
+799,38600,FI,Lavia,Satakunta,4.0,Pori,43.0,Pori,609.0,61.5929,22.5293,6.0
+800,38700,FI,Kankaanpää,Satakunta,4.0,Pohjois-Satakunta,44.0,Kankaanpää,214.0,61.7975,22.4063,6.0
+801,38710,FI,Kankaanpää,Satakunta,4.0,Pohjois-Satakunta,44.0,Kankaanpää,214.0,61.8046,22.373,6.0
+802,38800,FI,Jämijärvi,Satakunta,4.0,Pohjois-Satakunta,44.0,Jämijärvi,181.0,61.82100000000001,22.6943,6.0
+803,38840,FI,Niinisalo,Satakunta,4.0,Pohjois-Satakunta,44.0,Kankaanpää,214.0,61.8682,22.5013,6.0
+804,38950,FI,Honkajoki,Satakunta,4.0,Pohjois-Satakunta,44.0,Honkajoki,99.0,62.0014,22.2444,6.0
+805,39100,FI,Hämeenkyrö,Pirkanmaa,6.0,Tampere,64.0,Hämeenkyrö,108.0,61.6203,23.1936,6.0
+806,39130,FI,Sasi,Pirkanmaa,6.0,Tampere,64.0,Hämeenkyrö,108.0,61.5795,23.335,6.0
+807,39150,FI,Pinsiö,Pirkanmaa,6.0,Tampere,64.0,Hämeenkyrö,108.0,61.5885,23.4412,6.0
+808,39160,FI,Julkujärvi,Pirkanmaa,6.0,Tampere,64.0,Ylöjärvi,980.0,61.5728,23.5151,6.0
+809,39200,FI,Kyröskoski,Pirkanmaa,6.0,Tampere,64.0,Hämeenkyrö,108.0,61.6694,23.1745,6.0
+810,39310,FI,Viljakkala,Pirkanmaa,6.0,Tampere,64.0,Ylöjärvi,980.0,61.7099,23.2903,6.0
+811,39340,FI,Karhe,Pirkanmaa,6.0,Tampere,64.0,Ylöjärvi,980.0,61.724,23.4602,6.0
+812,39500,FI,Ikaalinen,Pirkanmaa,6.0,Luoteis-Pirkanmaa,61.0,Ikaalinen,143.0,61.7742,23.055,6.0
+813,39580,FI,Riitiala,Pirkanmaa,6.0,Luoteis-Pirkanmaa,61.0,Ikaalinen,143.0,61.8739,22.9803,6.0
+814,39700,FI,Parkano,Pirkanmaa,6.0,Luoteis-Pirkanmaa,61.0,Parkano,581.0,62.0143,23.0417,6.0
+815,39820,FI,Kihniö,Pirkanmaa,6.0,Luoteis-Pirkanmaa,61.0,Kihniö,250.0,62.2037,23.1819,6.0
+816,39930,FI,Karvia,Satakunta,4.0,Pohjois-Satakunta,44.0,Karvia,230.0,62.1407,22.5593,6.0
+817,40100,FI,Jyväskylä,Central Finland Region,13.0,Jyväskylä,131.0,Jyväskylä,179.0,62.2427,25.7517,6.0
+818,40200,FI,Jyväskylä,Central Finland Region,13.0,Jyväskylä,131.0,Jyväskylä,179.0,62.2657,25.7338,6.0
+819,40250,FI,Jyväskylä,Central Finland Region,13.0,Jyväskylä,131.0,Jyväskylä,179.0,62.2753,25.7601,6.0
+820,40270,FI,Palokka,Central Finland Region,13.0,Jyväskylä,131.0,Jyväskylä,179.0,62.3017,25.6995,6.0
+821,40320,FI,Jyväskylä,Central Finland Region,13.0,Jyväskylä,131.0,Jyväskylä,179.0,62.2663,25.7891,6.0
+822,40340,FI,Jyväskylä,Central Finland Region,13.0,Jyväskylä,131.0,Jyväskylä,179.0,62.2716,25.8101,6.0
+823,40400,FI,Jyväskylä,Central Finland Region,13.0,Jyväskylä,131.0,Jyväskylä,179.0,62.2449,25.798,6.0
+824,40420,FI,Jyskä,Central Finland Region,13.0,Jyväskylä,131.0,Jyväskylä,179.0,62.2407,25.8303,6.0
+825,40500,FI,Jyväskylä,Central Finland Region,13.0,Jyväskylä,131.0,Jyväskylä,179.0,62.2161,25.7086,6.0
+826,40520,FI,Jyväskylä,Central Finland Region,13.0,Jyväskylä,131.0,Jyväskylä,179.0,62.2195,25.7759,6.0
+827,40530,FI,Jyväskylä,Central Finland Region,13.0,Jyväskylä,131.0,Jyväskylä,179.0,62.1874,25.7179,6.0
+828,40600,FI,Jyväskylä,Central Finland Region,13.0,Jyväskylä,131.0,Jyväskylä,179.0,62.2294,25.7191,6.0
+829,40620,FI,Jyväskylä,Central Finland Region,13.0,Jyväskylä,131.0,Jyväskylä,179.0,62.2303,25.7073,6.0
+830,40630,FI,Jyväskylä,Central Finland Region,13.0,Jyväskylä,131.0,Jyväskylä,179.0,62.2406,25.6904,6.0
+831,40640,FI,Jyväskylä,Central Finland Region,13.0,Jyväskylä,131.0,Jyväskylä,179.0,62.2271,25.673,6.0
+832,40700,FI,Jyväskylä,Central Finland Region,13.0,Jyväskylä,131.0,Jyväskylä,179.0,62.2417,25.7241,6.0
+833,40720,FI,Jyväskylä,Central Finland Region,13.0,Jyväskylä,131.0,Jyväskylä,179.0,62.2466,25.7343,6.0
+834,40740,FI,Jyväskylä,Central Finland Region,13.0,Jyväskylä,131.0,Jyväskylä,179.0,62.2583,25.7049,6.0
+835,40800,FI,Vaajakoski,Central Finland Region,13.0,Jyväskylä,131.0,Jyväskylä,179.0,62.2472,25.8819,6.0
+836,40820,FI,Haapaniemi,Central Finland Region,13.0,Jyväskylä,131.0,Jyväskylä,179.0,62.2146,25.8391,6.0
+837,40900,FI,Säynätsalo,Central Finland Region,13.0,Jyväskylä,131.0,Jyväskylä,179.0,62.1285,25.7639,6.0
+838,40930,FI,Kinkomaa,Central Finland Region,13.0,Jyväskylä,131.0,Muurame,500.0,62.1615,25.7505,6.0
+839,40950,FI,Muurame,Central Finland Region,13.0,Jyväskylä,131.0,Muurame,500.0,62.1316,25.6499,6.0
+840,41120,FI,Puuppola,Central Finland Region,13.0,Jyväskylä,131.0,Jyväskylä,179.0,62.3456,25.6927,6.0
+841,41140,FI,Kuikka,Central Finland Region,13.0,Jyväskylä,131.0,Jyväskylä,179.0,62.3781,25.5577,6.0
+842,41160,FI,Tikkakoski,Central Finland Region,13.0,Jyväskylä,131.0,Jyväskylä,179.0,62.3866,25.6557,6.0
+843,41180,FI,Vehniä,Central Finland Region,13.0,Jyväskylä,131.0,Laukaa,410.0,62.4398,25.6772,6.0
+844,41210,FI,Jokihaara,Central Finland Region,13.0,Jyväskylä,131.0,Uurainen,892.0,62.4446,25.5135,4.0
+845,41230,FI,Uurainen,Central Finland Region,13.0,Jyväskylä,131.0,Uurainen,892.0,62.4893,25.4225,6.0
+846,41270,FI,Lannevesi,Central Finland Region,13.0,Saarijärvi-Viitasaari,138.0,Saarijärvi,729.0,62.5948,25.4111,6.0
+847,41290,FI,Kangashäkki,Central Finland Region,13.0,Jyväskylä,131.0,Uurainen,892.0,62.5134,25.6364,6.0
+848,41310,FI,Leppävesi,Central Finland Region,13.0,Jyväskylä,131.0,Laukaa,410.0,62.3249,25.8518,6.0
+849,41325,FI,Laukkavirta,Central Finland Region,13.0,Jyväskylä,131.0,Laukaa,410.0,62.3791,26.0578,6.0
+850,41330,FI,Vihtavuori,Central Finland Region,13.0,Jyväskylä,131.0,Laukaa,410.0,62.36,25.9147,6.0
+851,41340,FI,Laukaa,Central Finland Region,13.0,Jyväskylä,131.0,Laukaa,410.0,62.4042,25.9618,6.0
+852,41350,FI,Laukaa As,Central Finland Region,13.0,Jyväskylä,131.0,Laukaa,410.0,62.4267,25.885,
+853,41390,FI,Äijälä,Central Finland Region,13.0,Jyväskylä,131.0,Laukaa,410.0,62.5075,26.0625,6.0
+854,41400,FI,Lievestuore,Central Finland Region,13.0,Jyväskylä,131.0,Laukaa,410.0,62.2728,26.1688,6.0
+855,41440,FI,Ruuhimäki,Central Finland Region,13.0,Jyväskylä,131.0,Toivakka,850.0,62.1999,26.1668,6.0
+856,41490,FI,Niemisjärvi,Central Finland Region,13.0,Jyväskylä,131.0,Hankasalmi,77.0,62.2814,26.3462,6.0
+857,41500,FI,Hankasalmi As,Central Finland Region,13.0,Jyväskylä,131.0,Hankasalmi,77.0,62.301,26.488000000000003,6.0
+858,41520,FI,Hankasalmi,Central Finland Region,13.0,Jyväskylä,131.0,Hankasalmi,77.0,62.3988,26.4816,6.0
+859,41530,FI,Veneranta,Central Finland Region,13.0,Jyväskylä,131.0,Hankasalmi,77.0,62.3759,26.3465,
+860,41560,FI,Säkinmäki,Central Finland Region,13.0,Jyväskylä,131.0,Hankasalmi,77.0,62.4723,26.5047,6.0
+861,41580,FI,Sauvamäki,Central Finland Region,13.0,Jyväskylä,131.0,Hankasalmi,77.0,62.3394,26.597,6.0
+862,41660,FI,Toivakka,Central Finland Region,13.0,Jyväskylä,131.0,Toivakka,850.0,62.0952,26.0517,6.0
+863,41710,FI,Rutalahti,Central Finland Region,13.0,Joutsa,132.0,Joutsa,172.0,61.9857,25.9968,6.0
+864,41770,FI,Leivonmäki,Central Finland Region,13.0,Joutsa,132.0,Joutsa,172.0,61.9245,26.1149,6.0
+865,41800,FI,Korpilahti,Central Finland Region,13.0,Jyväskylä,131.0,Jyväskylä,179.0,62.0115,25.5626,6.0
+866,41870,FI,Putkilahti,Central Finland Region,13.0,Jyväskylä,131.0,Jyväskylä,179.0,61.8921,25.6641,6.0
+867,41900,FI,Petäjävesi,Central Finland Region,13.0,Jyväskylä,131.0,Petäjävesi,592.0,62.2561,25.1827,6.0
+868,41930,FI,Kuohu,Central Finland Region,13.0,Jyväskylä,131.0,Jyväskylä,179.0,62.257,25.4479,6.0
+869,42100,FI,Jämsä,Central Finland Region,13.0,Jämsä,134.0,Jämsä,182.0,61.8631,25.209,6.0
+870,42220,FI,Kaipola,Central Finland Region,13.0,Jämsä,134.0,Jämsä,182.0,61.8192,25.2256,6.0
+871,42300,FI,Jämsänkoski,Central Finland Region,13.0,Jämsä,134.0,Jämsä,182.0,61.9289,25.1648,6.0
+872,42440,FI,Koskenpää,Central Finland Region,13.0,Jämsä,134.0,Jämsä,182.0,62.0972,25.108,6.0
+873,42600,FI,Multia,Central Finland Region,13.0,Keuruu,133.0,Multia,495.0,62.4215,24.8161,6.0
+874,42700,FI,Keuruu,Central Finland Region,13.0,Keuruu,133.0,Keuruu,249.0,62.2562,24.7053,6.0
+875,42720,FI,Keuruu,Central Finland Region,13.0,Keuruu,133.0,Keuruu,249.0,62.2202,24.6671,6.0
+876,42800,FI,Haapamäki,Central Finland Region,13.0,Keuruu,133.0,Keuruu,249.0,62.2433,24.4289,6.0
+877,42850,FI,Pohjaslahti,Pirkanmaa,6.0,Ylä-Pirkanmaa,69.0,Mänttä-Vilppula,508.0,62.1514,24.1197,6.0
+878,42910,FI,Pihlajavesi,Central Finland Region,13.0,Keuruu,133.0,Keuruu,249.0,62.3712,24.3244,6.0
+879,43100,FI,Saarijärvi,Central Finland Region,13.0,Saarijärvi-Viitasaari,138.0,Saarijärvi,729.0,62.6995,25.2794,6.0
+880,43220,FI,Mahlu,Central Finland Region,13.0,Saarijärvi-Viitasaari,138.0,Saarijärvi,729.0,62.6336,25.0135,6.0
+881,43270,FI,Kalmari,Central Finland Region,13.0,Saarijärvi-Viitasaari,138.0,Saarijärvi,729.0,62.803,25.0238,6.0
+882,43300,FI,Kannonkoski,Central Finland Region,13.0,Saarijärvi-Viitasaari,138.0,Kannonkoski,216.0,62.9896,25.2885,6.0
+883,43440,FI,Pylkönmäki,Central Finland Region,13.0,Saarijärvi-Viitasaari,138.0,Saarijärvi,729.0,62.6877,24.7813,6.0
+884,43500,FI,Karstula,Central Finland Region,13.0,Saarijärvi-Viitasaari,138.0,Karstula,226.0,62.8727,24.8027,6.0
+885,43700,FI,Kyyjärvi,Central Finland Region,13.0,Saarijärvi-Viitasaari,138.0,Kyyjärvi,312.0,63.0539,24.5573,6.0
+886,43800,FI,Kivijärvi,Central Finland Region,13.0,Saarijärvi-Viitasaari,138.0,Kivijärvi,265.0,63.1298,25.0646,6.0
+887,43900,FI,Kinnula,Central Finland Region,13.0,Saarijärvi-Viitasaari,138.0,Kinnula,256.0,63.358,24.9765,6.0
+888,44100,FI,Äänekoski,Central Finland Region,13.0,Äänekoski,135.0,Äänekoski,992.0,62.6057,25.7163,6.0
+889,44120,FI,Äänekoski,Central Finland Region,13.0,Äänekoski,135.0,Äänekoski,992.0,62.6205,25.7235,6.0
+890,44150,FI,Äänekoski,Central Finland Region,13.0,Äänekoski,135.0,Äänekoski,992.0,62.6425,25.6871,6.0
+891,44160,FI,Huutomäki,Central Finland Region,13.0,Äänekoski,135.0,Äänekoski,992.0,62.5686,25.6549,6.0
+892,44200,FI,Suolahti,Central Finland Region,13.0,Äänekoski,135.0,Äänekoski,992.0,62.5708,25.844,6.0
+893,44220,FI,Suolahti,Central Finland Region,13.0,Äänekoski,135.0,Äänekoski,992.0,62.5977,25.8429,6.0
+894,44260,FI,Vihijärvi,Central Finland Region,13.0,Äänekoski,135.0,Äänekoski,992.0,62.6563,25.9217,6.0
+895,44280,FI,Sumiainen,Central Finland Region,13.0,Äänekoski,135.0,Äänekoski,992.0,62.6927,26.025,6.0
+896,44300,FI,Konnevesi,Central Finland Region,13.0,Äänekoski,135.0,Konnevesi,275.0,62.6197,26.2812,6.0
+897,44400,FI,Konginkangas,Central Finland Region,13.0,Äänekoski,135.0,Äänekoski,992.0,62.779,25.8429,6.0
+898,44420,FI,Liimattala,Central Finland Region,13.0,Äänekoski,135.0,Äänekoski,992.0,62.7278,25.8048,6.0
+899,44500,FI,Viitasaari,Central Finland Region,13.0,Saarijärvi-Viitasaari,138.0,Viitasaari,931.0,63.0828,25.8145,6.0
+900,44670,FI,Suovanlahti,Central Finland Region,13.0,Saarijärvi-Viitasaari,138.0,Viitasaari,931.0,63.0,26.0679,6.0
+901,44800,FI,Pihtipudas,Central Finland Region,13.0,Saarijärvi-Viitasaari,138.0,Pihtipudas,601.0,63.3604,25.5812,6.0
+902,44880,FI,Muurasjärvi,Central Finland Region,13.0,Saarijärvi-Viitasaari,138.0,Pihtipudas,601.0,63.5405,25.2809,6.0
+903,44920,FI,Peninki,Central Finland Region,13.0,Saarijärvi-Viitasaari,138.0,Pihtipudas,601.0,63.4433,25.744,6.0
+904,44950,FI,Kärväsjärvi,Central Finland Region,13.0,Saarijärvi-Viitasaari,138.0,Pihtipudas,601.0,63.334,25.781,4.0
+905,45100,FI,Kouvola,Kymenlaakso,8.0,Kouvola,81.0,Kouvola,286.0,60.8683,26.7354,4.0
+906,45120,FI,Kouvola,Kymenlaakso,8.0,Kouvola,81.0,Kouvola,286.0,60.8599,26.7279,6.0
+907,45130,FI,Kouvola,Kymenlaakso,8.0,Kouvola,81.0,Kouvola,286.0,60.8669,26.6709,6.0
+908,45150,FI,Kouvola,Kymenlaakso,8.0,Kouvola,81.0,Kouvola,286.0,60.8507,26.7165,6.0
+909,45160,FI,Kouvola,Kymenlaakso,8.0,Kouvola,81.0,Kouvola,286.0,60.8875,26.7163,6.0
+910,45200,FI,Kouvola,Kymenlaakso,8.0,Kouvola,81.0,Kouvola,286.0,60.8749,26.7499,6.0
+911,45360,FI,Valkeala,Kymenlaakso,8.0,Kouvola,81.0,Kouvola,286.0,60.9166,26.7676,6.0
+912,45370,FI,Valkeala,Kymenlaakso,8.0,Kouvola,81.0,Kouvola,286.0,60.9518,26.8276,6.0
+913,45410,FI,Utti,Kymenlaakso,8.0,Kouvola,81.0,Kouvola,286.0,60.9041,26.9202,6.0
+914,45460,FI,Savero,Kymenlaakso,8.0,Kouvola,81.0,Kouvola,286.0,60.8291,26.9772,6.0
+915,45610,FI,Koria,Kymenlaakso,8.0,Kouvola,81.0,Kouvola,286.0,60.8349,26.5804,6.0
+916,45700,FI,Kuusankoski,Kymenlaakso,8.0,Kouvola,81.0,Kouvola,286.0,60.9079,26.6269,6.0
+917,45720,FI,Kuusankoski,Kymenlaakso,8.0,Kouvola,81.0,Kouvola,286.0,60.8901,26.6563,6.0
+918,45740,FI,Kuusankoski,Kymenlaakso,8.0,Kouvola,81.0,Kouvola,286.0,60.8999,26.5948,6.0
+919,45810,FI,Pilkanmaa,Kymenlaakso,8.0,Kouvola,81.0,Kouvola,286.0,60.9433,26.5761,6.0
+920,45910,FI,Voikkaa,Kymenlaakso,8.0,Kouvola,81.0,Kouvola,286.0,60.9548,26.6156,6.0
+921,46110,FI,Tuohikotti,Kymenlaakso,8.0,Kouvola,81.0,Kouvola,286.0,61.1006,27.0922,6.0
+922,46140,FI,Vekaranjärvi,Kymenlaakso,8.0,Kouvola,81.0,Kouvola,286.0,61.1022,26.9874,6.0
+923,46400,FI,Kaipiainen,Kymenlaakso,8.0,Kouvola,81.0,Kouvola,286.0,60.9038,27.1317,6.0
+924,46710,FI,Sippola,Kymenlaakso,8.0,Kouvola,81.0,Kouvola,286.0,60.7594,27.0231,6.0
+925,46800,FI,Myllykoski,Kymenlaakso,8.0,Kouvola,81.0,Kouvola,286.0,60.7736,26.7991,6.0
+926,46810,FI,Ummeljoki,Kymenlaakso,8.0,Kouvola,81.0,Kouvola,286.0,60.7615,26.7543,6.0
+927,46860,FI,Keltakangas,Kymenlaakso,8.0,Kouvola,81.0,Kouvola,286.0,60.749,26.8278,6.0
+928,46900,FI,Inkeroinen,Kymenlaakso,8.0,Kouvola,81.0,Kouvola,286.0,60.6984,26.8485,6.0
+929,46910,FI,Anjala,Kymenlaakso,8.0,Kouvola,81.0,Kouvola,286.0,60.6911,26.797,6.0
+930,47200,FI,Elimäki,Kymenlaakso,8.0,Kouvola,81.0,Kouvola,286.0,60.7224,26.4612,6.0
+931,47400,FI,Kausala,Kymenlaakso,8.0,Kouvola,81.0,Iitti,142.0,60.8893,26.3487,6.0
+932,47710,FI,Jaala,Kymenlaakso,8.0,Kouvola,81.0,Kouvola,286.0,61.1055,26.44,6.0
+933,47760,FI,Huhdasjärvi,Kymenlaakso,8.0,Kouvola,81.0,Kouvola,286.0,61.1999,26.6126,6.0
+934,47900,FI,Vuohijärvi,Kymenlaakso,8.0,Kouvola,81.0,Kouvola,286.0,61.1176,26.791,6.0
+935,48100,FI,Kotka,Kymenlaakso,8.0,Kotka-Hamina,82.0,Kotka,285.0,60.4181,27.0224,6.0
+936,48130,FI,Kotka,Kymenlaakso,8.0,Kotka-Hamina,82.0,Kotka,285.0,60.4539,26.9434,6.0
+937,48200,FI,Kotka,Kymenlaakso,8.0,Kotka-Hamina,82.0,Kotka,285.0,60.4743,26.9259,6.0
+938,48210,FI,Kotka,Kymenlaakso,8.0,Kotka-Hamina,82.0,Kotka,285.0,60.4723,26.9125,6.0
+939,48220,FI,Kotka,Kymenlaakso,8.0,Kotka-Hamina,82.0,Kotka,285.0,60.4831,26.904,6.0
+940,48230,FI,Kotka,Kymenlaakso,8.0,Kotka-Hamina,82.0,Kotka,285.0,60.495,26.8946,6.0
+941,48300,FI,Kotka,Kymenlaakso,8.0,Kotka-Hamina,82.0,Kotka,285.0,60.4756,26.8733,6.0
+942,48310,FI,Kotka,Kymenlaakso,8.0,Kotka-Hamina,82.0,Kotka,285.0,60.4489,26.8858,6.0
+943,48350,FI,Kotka,Kymenlaakso,8.0,Kotka-Hamina,82.0,Kotka,285.0,60.4825,26.8577,6.0
+944,48400,FI,Kotka,Kymenlaakso,8.0,Kotka-Hamina,82.0,Kotka,285.0,60.495,26.8646,6.0
+945,48410,FI,Kotka,Kymenlaakso,8.0,Kotka-Hamina,82.0,Kotka,285.0,60.5277,26.8512,6.0
+946,48600,FI,Kotka,Kymenlaakso,8.0,Kotka-Hamina,82.0,Kotka,285.0,60.5167,26.9359,6.0
+947,48700,FI,Kotka,Kymenlaakso,8.0,Kotka-Hamina,82.0,Kotka,285.0,60.5127,26.8995,6.0
+948,48710,FI,Kotka,Kymenlaakso,8.0,Kotka-Hamina,82.0,Kotka,285.0,60.521,26.8782,6.0
+949,48720,FI,Kotka,Kymenlaakso,8.0,Kotka-Hamina,82.0,Kotka,285.0,60.5426,26.8987,6.0
+950,48750,FI,Kotka,Kymenlaakso,8.0,Kotka-Hamina,82.0,Kotka,285.0,60.5705,26.8341,6.0
+951,48770,FI,Kotka,Kymenlaakso,8.0,Kotka-Hamina,82.0,Kotka,285.0,60.5357,26.9514,6.0
+952,48800,FI,Kotka,Kymenlaakso,8.0,Kotka-Hamina,82.0,Kotka,285.0,60.5293,26.9682,6.0
+953,48810,FI,Kotka,Kymenlaakso,8.0,Kotka-Hamina,82.0,Kotka,285.0,60.5486,26.9924,6.0
+954,48900,FI,Kotka,Kymenlaakso,8.0,Kotka-Hamina,82.0,Kotka,285.0,60.4988,26.9586,6.0
+955,48910,FI,Kotka,Kymenlaakso,8.0,Kotka-Hamina,82.0,Kotka,285.0,60.5012,26.9789,6.0
+956,48930,FI,Kotka,Kymenlaakso,8.0,Kotka-Hamina,82.0,Kotka,285.0,60.4674,26.9834,6.0
+957,49210,FI,Huutjärvi                     ,Kymenlaakso,8.0,Kotka-Hamina,82.0,Pyttis,624.0,60.4834,26.7512,6.0
+958,49220,FI,Siltakylä                     ,Kymenlaakso,8.0,Kotka-Hamina,82.0,Pyttis,624.0,60.4556,26.676,
+959,49270,FI,Pyhtää                        ,Kymenlaakso,8.0,Kotka-Hamina,82.0,Pyttis,624.0,60.4913,26.5364,6.0
+960,49290,FI,Vastila                       ,Kymenlaakso,8.0,Kotka-Hamina,82.0,Pyttis,624.0,60.6052,26.638,6.0
+961,49400,FI,Hamina,Kymenlaakso,8.0,Kotka-Hamina,82.0,Hamina,75.0,60.5645,27.2167,6.0
+962,49410,FI,Poitsila,Kymenlaakso,8.0,Kotka-Hamina,82.0,Hamina,75.0,60.5708,27.1487,6.0
+963,49420,FI,Hamina,Kymenlaakso,8.0,Kotka-Hamina,82.0,Hamina,75.0,60.5579,27.1274,6.0
+964,49460,FI,Hamina,Kymenlaakso,8.0,Kotka-Hamina,82.0,Hamina,75.0,60.5472,27.1561,6.0
+965,49490,FI,Neuvoton,Kymenlaakso,8.0,Kotka-Hamina,82.0,Hamina,75.0,60.5471,27.0529,6.0
+966,49510,FI,Husula,Kymenlaakso,8.0,Kotka-Hamina,82.0,Hamina,75.0,60.606,27.1677,6.0
+967,49570,FI,Kannusjärvi,Kymenlaakso,8.0,Kotka-Hamina,82.0,Hamina,75.0,60.6896,27.1789,6.0
+968,49700,FI,Miehikkälä,Kymenlaakso,8.0,Kotka-Hamina,82.0,Miehikkälä,489.0,60.6793,27.7183,6.0
+969,49730,FI,Muurikkala,Kymenlaakso,8.0,Kotka-Hamina,82.0,Miehikkälä,489.0,60.6677,27.889,6.0
+970,49760,FI,Suur-Miehikkälä,Kymenlaakso,8.0,Kotka-Hamina,82.0,Miehikkälä,489.0,60.7248,27.5519,6.0
+971,49860,FI,Klamila,Kymenlaakso,8.0,Kotka-Hamina,82.0,Virolahti,935.0,60.508,27.4547,6.0
+972,49900,FI,Virolahti,Kymenlaakso,8.0,Kotka-Hamina,82.0,Virolahti,935.0,60.5593,27.7022,6.0
+973,49980,FI,Ravijoki,Kymenlaakso,8.0,Kotka-Hamina,82.0,Virolahti,935.0,60.525,27.5385,6.0
+974,50100,FI,Mikkeli,Southern Savonia,10.0,Mikkeli,101.0,Mikkeli,491.0,61.7037,27.2543,6.0
+975,50120,FI,Mikkeli,Southern Savonia,10.0,Mikkeli,101.0,Mikkeli,491.0,61.6925,27.2343,6.0
+976,50130,FI,Mikkeli,Southern Savonia,10.0,Mikkeli,101.0,Mikkeli,491.0,61.6782,27.2423,4.0
+977,50150,FI,Mikkeli,Southern Savonia,10.0,Mikkeli,101.0,Mikkeli,491.0,61.698,27.2059,6.0
+978,50160,FI,Mikkeli,Southern Savonia,10.0,Mikkeli,101.0,Mikkeli,491.0,61.6689,27.266,6.0
+979,50170,FI,Mikkeli,Southern Savonia,10.0,Mikkeli,101.0,Mikkeli,491.0,61.7054,27.3032,6.0
+980,50180,FI,Mikkeli,Southern Savonia,10.0,Mikkeli,101.0,Mikkeli,491.0,61.7005,27.3557,6.0
+981,50190,FI,Mikkeli,Southern Savonia,10.0,Mikkeli,101.0,Mikkeli,491.0,61.6885,27.3125,6.0
+982,50500,FI,Mikkeli,Southern Savonia,10.0,Mikkeli,101.0,Mikkeli,491.0,61.6505,27.2573,6.0
+983,50520,FI,Mikkeli,Southern Savonia,10.0,Mikkeli,101.0,Mikkeli,491.0,61.6696,27.2442,4.0
+984,50600,FI,Mikkeli,Southern Savonia,10.0,Mikkeli,101.0,Mikkeli,491.0,61.675,27.1754,6.0
+985,50670,FI,Otava,Southern Savonia,10.0,Mikkeli,101.0,Mikkeli,491.0,61.6448,27.0677,6.0
+986,50700,FI,Mikkeli,Southern Savonia,10.0,Mikkeli,101.0,Mikkeli,491.0,61.6229,27.2501,6.0
+987,50970,FI,Mikkeli,Southern Savonia,10.0,Mikkeli,101.0,Mikkeli,491.0,61.791,27.2192,6.0
+988,51200,FI,Kangasniemi,Southern Savonia,10.0,Mikkeli,101.0,Kangasniemi,213.0,61.9727,26.6476,6.0
+989,51600,FI,Haukivuori,Southern Savonia,10.0,Mikkeli,101.0,Mikkeli,491.0,62.0264,27.1767,6.0
+990,51900,FI,Juva,Southern Savonia,10.0,Pieksämäki,105.0,Juva,178.0,61.8828,27.8547,6.0
+991,52100,FI,Anttola,Southern Savonia,10.0,Mikkeli,101.0,Mikkeli,491.0,61.5976,27.6708,6.0
+992,52200,FI,Puumala,Southern Savonia,10.0,Mikkeli,101.0,Puumala,623.0,61.512,28.2032,6.0
+993,52230,FI,Hurissalo,Southern Savonia,10.0,Mikkeli,101.0,Puumala,623.0,61.445,27.8397,6.0
+994,52300,FI,Ristiina,Southern Savonia,10.0,Mikkeli,101.0,Mikkeli,491.0,61.4884,27.3249,6.0
+995,52320,FI,Vitsiälä,Southern Savonia,10.0,Mikkeli,101.0,Mikkeli,491.0,61.56399999999999,27.2424,6.0
+996,52420,FI,Pellosniemi,Southern Savonia,10.0,Mikkeli,101.0,Mikkeli,491.0,61.4082,27.472,
+997,52510,FI,Hietanen,Southern Savonia,10.0,Mikkeli,101.0,Hirvensalmi,97.0,61.5638,26.9216,6.0
+998,52550,FI,Hirvensalmi,Southern Savonia,10.0,Mikkeli,101.0,Hirvensalmi,97.0,61.6743,26.7464,6.0
+999,52610,FI,Tuukkala,Southern Savonia,10.0,Mikkeli,101.0,Hirvensalmi,97.0,61.7214,26.5862,6.0
+1000,52700,FI,Mäntyharju,Southern Savonia,10.0,Mikkeli,101.0,Mäntyharju,507.0,61.3886,26.876,6.0
+1001,52720,FI,Karankamäki,Southern Savonia,10.0,Mikkeli,101.0,Mäntyharju,507.0,61.4474,26.6287,6.0
+1002,52830,FI,Suomenniemi,Southern Savonia,10.0,Mikkeli,101.0,Mikkeli,491.0,61.3333,27.3947,6.0
+1003,53100,FI,Lappeenranta,South Karelia,9.0,Lappeenranta,91.0,Lappeenranta,405.0,61.0564,28.1938,6.0
+1004,53130,FI,Lappeenranta,South Karelia,9.0,Lappeenranta,91.0,Lappeenranta,405.0,61.0668,28.2076,6.0
+1005,53200,FI,Lappeenranta,South Karelia,9.0,Lappeenranta,91.0,Lappeenranta,405.0,61.063,28.23,6.0
+1006,53300,FI,Lappeenranta,South Karelia,9.0,Lappeenranta,91.0,Lappeenranta,405.0,61.0691,28.2845,6.0
+1007,53400,FI,Lappeenranta,South Karelia,9.0,Lappeenranta,91.0,Lappeenranta,405.0,61.0885,28.3433,6.0
+1008,53420,FI,Lappeenranta,South Karelia,9.0,Lappeenranta,91.0,Lappeenranta,405.0,61.0626,28.3209,6.0
+1009,53500,FI,Lappeenranta,South Karelia,9.0,Lappeenranta,91.0,Lappeenranta,405.0,61.0503,28.2375,6.0
+1010,53550,FI,Lappeenranta,South Karelia,9.0,Lappeenranta,91.0,Lappeenranta,405.0,61.0367,28.2193,6.0
+1011,53600,FI,Lappeenranta,South Karelia,9.0,Lappeenranta,91.0,Lappeenranta,405.0,61.0487,28.1693,6.0
+1012,53650,FI,Lappeenranta,South Karelia,9.0,Lappeenranta,91.0,Lappeenranta,405.0,61.025,28.1626,6.0
+1013,53810,FI,Lappeenranta,South Karelia,9.0,Lappeenranta,91.0,Lappeenranta,405.0,61.0484,28.1298,6.0
+1014,53830,FI,Lappeenranta,South Karelia,9.0,Lappeenranta,91.0,Lappeenranta,405.0,61.0377,28.0187,6.0
+1015,53850,FI,Lappeenranta,South Karelia,9.0,Lappeenranta,91.0,Lappeenranta,405.0,61.0456,28.0763,6.0
+1016,53900,FI,Lappeenranta,South Karelia,9.0,Lappeenranta,91.0,Lappeenranta,405.0,61.0645,28.176,6.0
+1017,53920,FI,Lappeenranta,South Karelia,9.0,Lappeenranta,91.0,Lappeenranta,405.0,61.0766,28.1545,6.0
+1018,53950,FI,Lappeenranta,South Karelia,9.0,Lappeenranta,91.0,Lappeenranta,405.0,61.099,28.1379,4.0
+1019,54100,FI,Joutseno,South Karelia,9.0,Lappeenranta,91.0,Lappeenranta,405.0,61.1175,28.5163,6.0
+1020,54110,FI,Lampikangas,South Karelia,9.0,Lappeenranta,91.0,Lappeenranta,405.0,61.107,28.4652,6.0
+1021,54120,FI,Pulp,South Karelia,9.0,Lappeenranta,91.0,Lappeenranta,405.0,61.1231,28.437,6.0
+1022,54190,FI,Konnunsuo,South Karelia,9.0,Lappeenranta,91.0,Lappeenranta,405.0,61.0302,28.5042,6.0
+1023,54230,FI,Nuijamaa,South Karelia,9.0,Lappeenranta,91.0,Lappeenranta,405.0,60.9808,28.5583,6.0
+1024,54270,FI,Vainikkala,South Karelia,9.0,Lappeenranta,91.0,Lappeenranta,405.0,60.8947,28.3063,6.0
+1025,54330,FI,Simola,South Karelia,9.0,Lappeenranta,91.0,Lappeenranta,405.0,60.9086,28.1468,6.0
+1026,54410,FI,Ylämaa,South Karelia,9.0,Lappeenranta,91.0,Lappeenranta,405.0,60.8186,28.0525,6.0
+1027,54430,FI,Hujakkala,South Karelia,9.0,Lappeenranta,91.0,Lappeenranta,405.0,60.7103,27.9613,6.0
+1028,54500,FI,Taavetti,South Karelia,9.0,Lappeenranta,91.0,Luumäki,441.0,60.9476,27.5102,6.0
+1029,54530,FI,Luumäki,South Karelia,9.0,Lappeenranta,91.0,Luumäki,441.0,60.9585,27.7532,6.0
+1030,54710,FI,Lemi,South Karelia,9.0,Lappeenranta,91.0,Lemi,416.0,61.0569,27.7892,6.0
+1031,54770,FI,Heituinlahti,South Karelia,9.0,Lappeenranta,91.0,Savitaipale,739.0,61.1321,27.4036,6.0
+1032,54800,FI,Savitaipale,South Karelia,9.0,Lappeenranta,91.0,Savitaipale,739.0,61.2139,27.6398,6.0
+1033,54850,FI,Kuukanniemi,South Karelia,9.0,Lappeenranta,91.0,Lemi,416.0,61.0879,27.9326,6.0
+1034,54915,FI,Saimaanharju,South Karelia,9.0,Lappeenranta,91.0,Taipalsaari,831.0,61.1363,28.0996,6.0
+1035,54920,FI,Taipalsaari,South Karelia,9.0,Lappeenranta,91.0,Taipalsaari,831.0,61.1802,28.0626,6.0
+1036,54950,FI,Pettilä,South Karelia,9.0,Lappeenranta,91.0,Savitaipale,739.0,61.3067,27.7744,6.0
+1037,54960,FI,Vehkataipale,South Karelia,9.0,Lappeenranta,91.0,Taipalsaari,831.0,61.1583,28.2271,6.0
+1038,55100,FI,Imatra,South Karelia,9.0,Imatra,93.0,Imatra,153.0,61.1671,28.7721,6.0
+1039,55120,FI,Imatra,South Karelia,9.0,Imatra,93.0,Imatra,153.0,61.1937,28.7683,6.0
+1040,55300,FI,Rauha,South Karelia,9.0,Lappeenranta,91.0,Lappeenranta,405.0,61.1739,28.6843,6.0
+1041,55320,FI,Rauha,South Karelia,9.0,Lappeenranta,91.0,Lappeenranta,405.0,61.1913,28.6931,6.0
+1042,55330,FI,Tiuruniemi,South Karelia,9.0,Lappeenranta,91.0,Lappeenranta,405.0,61.1947,28.6701,6.0
+1043,55400,FI,Imatra,South Karelia,9.0,Imatra,93.0,Imatra,153.0,61.2141,28.7711,6.0
+1044,55420,FI,Imatra,South Karelia,9.0,Imatra,93.0,Imatra,153.0,61.2031,28.7485,6.0
+1045,55510,FI,Imatra,South Karelia,9.0,Imatra,93.0,Imatra,153.0,61.203,28.7932,6.0
+1046,55610,FI,Imatra,South Karelia,9.0,Imatra,93.0,Imatra,153.0,61.1575,28.8108,6.0
+1047,55700,FI,Imatra,South Karelia,9.0,Imatra,93.0,Imatra,153.0,61.2078,28.8253,6.0
+1048,55800,FI,Imatra,South Karelia,9.0,Imatra,93.0,Imatra,153.0,61.2215,28.8608,6.0
+1049,55910,FI,Imatra,South Karelia,9.0,Imatra,93.0,Imatra,153.0,61.2388,28.8882,6.0
+1050,56100,FI,Ruokolahti,South Karelia,9.0,Imatra,93.0,Ruokolahti,700.0,61.2965,28.8378,6.0
+1051,56120,FI,Salosaari,South Karelia,9.0,Imatra,93.0,Ruokolahti,700.0,61.2811,28.7766,6.0
+1052,56610,FI,Rautjärvi,South Karelia,9.0,Imatra,93.0,Rautjärvi,689.0,61.3288,29.1149,6.0
+1053,56710,FI,Miettilä,South Karelia,9.0,Imatra,93.0,Rautjärvi,689.0,61.2985,29.2148,6.0
+1054,56730,FI,Laikko,South Karelia,9.0,Imatra,93.0,Rautjärvi,689.0,61.3981,29.2077,6.0
+1055,56800,FI,Simpele,South Karelia,9.0,Imatra,93.0,Rautjärvi,689.0,61.4404,29.3407,6.0
+1056,57100,FI,Savonlinna,Southern Savonia,10.0,Savonlinna,103.0,Savonlinna,740.0,61.8316,28.8353,4.0
+1057,57120,FI,Savonlinna,Southern Savonia,10.0,Savonlinna,103.0,Savonlinna,740.0,61.8795,28.8699,4.0
+1058,57130,FI,Savonlinna,Southern Savonia,10.0,Savonlinna,103.0,Savonlinna,740.0,61.8762,28.8879,6.0
+1059,57170,FI,Savonlinna,Southern Savonia,10.0,Savonlinna,103.0,Savonlinna,740.0,61.8762,28.8544,6.0
+1060,57200,FI,Savonlinna,Southern Savonia,10.0,Savonlinna,103.0,Savonlinna,740.0,61.8677,28.9237,6.0
+1061,57210,FI,Savonlinna,Southern Savonia,10.0,Savonlinna,103.0,Savonlinna,740.0,61.8791,28.9417,6.0
+1062,57220,FI,Savonlinna,Southern Savonia,10.0,Savonlinna,103.0,Savonlinna,740.0,61.8624,28.9641,6.0
+1063,57230,FI,Savonlinna,Southern Savonia,10.0,Savonlinna,103.0,Savonlinna,740.0,61.7885,29.0415,6.0
+1064,57510,FI,Savonlinna,Southern Savonia,10.0,Savonlinna,103.0,Savonlinna,740.0,61.8754,28.8277,6.0
+1065,57600,FI,Savonlinna,Southern Savonia,10.0,Savonlinna,103.0,Savonlinna,740.0,61.8558,28.8182,6.0
+1066,57710,FI,Savonlinna,Southern Savonia,10.0,Savonlinna,103.0,Savonlinna,740.0,61.8879,28.7978,6.0
+1067,58175,FI,Enonkoski,Southern Savonia,10.0,Savonlinna,103.0,Enonkoski,46.0,62.0952,28.928,6.0
+1068,58200,FI,Kerimäki,Southern Savonia,10.0,Savonlinna,103.0,Savonlinna,740.0,61.9307,29.2819,6.0
+1069,58220,FI,Louhi,Southern Savonia,10.0,Savonlinna,103.0,Savonlinna,740.0,61.9386,29.0482,6.0
+1070,58300,FI,Savonranta,Southern Savonia,10.0,Savonlinna,103.0,Savonlinna,740.0,62.176,29.2051,6.0
+1071,58410,FI,Haapakallio,Southern Savonia,10.0,Savonlinna,103.0,Savonlinna,740.0,61.8862,29.0821,6.0
+1072,58450,FI,Punkaharju,Southern Savonia,10.0,Savonlinna,103.0,Savonlinna,740.0,61.7845,29.2958,6.0
+1073,58500,FI,Punkaharju,Southern Savonia,10.0,Savonlinna,103.0,Savonlinna,740.0,61.7547,29.4094,6.0
+1074,58550,FI,Putikko,Southern Savonia,10.0,Savonlinna,103.0,Savonlinna,740.0,61.7013,29.4045,6.0
+1075,58620,FI,Lohilahti,Southern Savonia,10.0,Savonlinna,103.0,Sulkava,768.0,61.6124,28.6945,6.0
+1076,58700,FI,Sulkava,Southern Savonia,10.0,Savonlinna,103.0,Sulkava,768.0,61.7961,28.3516,6.0
+1077,58770,FI,Pihlajalahti,Southern Savonia,10.0,Savonlinna,103.0,Savonlinna,740.0,61.8595,28.5327,6.0
+1078,58810,FI,Kallislahti,Southern Savonia,10.0,Savonlinna,103.0,Savonlinna,740.0,61.914,28.6272,6.0
+1079,58900,FI,Rantasalmi,Southern Savonia,10.0,Savonlinna,103.0,Rantasalmi,681.0,62.1081,28.2654,6.0
+1080,58910,FI,Rantasalmi As,Southern Savonia,10.0,Savonlinna,103.0,Rantasalmi,681.0,62.0021,28.2857,6.0
+1081,59100,FI,Parikkala,South Karelia,9.0,Imatra,93.0,Parikkala,580.0,61.5484,29.5342,6.0
+1082,59310,FI,Särkisalmi,South Karelia,9.0,Imatra,93.0,Parikkala,580.0,61.6063,29.4722,6.0
+1083,59510,FI,Saari,South Karelia,9.0,Imatra,93.0,Parikkala,580.0,61.6997,29.6919,6.0
+1084,59720,FI,Uukuniemi,South Karelia,9.0,Imatra,93.0,Parikkala,580.0,61.7479,29.8992,6.0
+1085,59730,FI,Uukuniemi,South Karelia,9.0,Imatra,93.0,Parikkala,580.0,61.7922,30.0032,6.0
+1086,59800,FI,Kesälahti,North Karelia,12.0,Keski-Karjala,124.0,Kitee,260.0,61.8963,29.8407,6.0
+1087,60100,FI,Seinäjoki,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Seinäjoki,743.0,62.7823,22.8565,6.0
+1088,60120,FI,Seinäjoki,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Seinäjoki,743.0,62.797,22.8585,6.0
+1089,60150,FI,Seinäjoki,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Seinäjoki,743.0,62.767,22.886,6.0
+1090,60200,FI,Seinäjoki,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Seinäjoki,743.0,62.7521,22.8559,6.0
+1091,60220,FI,Seinäjoki,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Seinäjoki,743.0,62.7766,22.826,6.0
+1092,60320,FI,Seinäjoki,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Seinäjoki,743.0,62.7862,22.7881,6.0
+1093,60420,FI,Seinäjoki,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Seinäjoki,743.0,62.8241,22.7873,6.0
+1094,60510,FI,Hyllykallio,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Seinäjoki,743.0,62.7999,22.9042,6.0
+1095,60550,FI,Nurmo,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Seinäjoki,743.0,62.8296,22.9253,6.0
+1096,60560,FI,Halkosaari,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Seinäjoki,743.0,62.8683,22.751,6.0
+1097,60640,FI,Isokoski,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Seinäjoki,743.0,62.77,23.0564,6.0
+1098,60720,FI,Tuomikylä,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Ilmajoki,145.0,62.7548,22.6982,6.0
+1099,60760,FI,Pojanluoma,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Ilmajoki,145.0,62.6876,22.7678,6.0
+1100,60800,FI,Ilmajoki,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Ilmajoki,145.0,62.7359,22.572,6.0
+1101,61100,FI,Peräseinäjoki,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Seinäjoki,743.0,62.5543,23.0829,6.0
+1102,61270,FI,Luopajärvi,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Kurikka,301.0,62.5803,22.7524,6.0
+1103,61280,FI,Jokipii,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Kurikka,301.0,62.5171,22.6711,6.0
+1104,61300,FI,Kurikka,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Kurikka,301.0,62.6179,22.387,6.0
+1105,61310,FI,Panttila,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Kurikka,301.0,62.6628,22.3926,6.0
+1106,61330,FI,Koskenkorva,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Ilmajoki,145.0,62.6905,22.4543,6.0
+1107,61360,FI,Mieto,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Kurikka,301.0,62.575,22.3237,6.0
+1108,61400,FI,Ylistaro,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Seinäjoki,743.0,62.9521,22.5292,6.0
+1109,61470,FI,Kitinoja,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Seinäjoki,743.0,62.9036,22.7963,6.0
+1110,61500,FI,Isokyrö,Ostrobothnia Region,15.0,Kyrönmaa,151.0,Isokyrö,152.0,62.9961,22.3219,6.0
+1111,61520,FI,Lehmäjoki,Ostrobothnia Region,15.0,Kyrönmaa,151.0,Isokyrö,152.0,63.0737,22.4869,6.0
+1112,61550,FI,Orismala,Ostrobothnia Region,15.0,Kyrönmaa,151.0,Isokyrö,152.0,62.9517,22.3882,6.0
+1113,61600,FI,Jalasjärvi,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Kurikka,301.0,62.4913,22.7708,6.0
+1114,61720,FI,Koskue,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Kurikka,301.0,62.3398,22.8648,6.0
+1115,61800,FI,Kauhajoki,South Ostrobothnia Region,14.0,Suupohja,141.0,Kauhajoki,232.0,62.4167,22.1756,6.0
+1116,61840,FI,Norinkylä,South Ostrobothnia Region,14.0,Suupohja,141.0,Teuva,846.0,62.5661,22.0126,6.0
+1117,61850,FI,Kauhajoki As,South Ostrobothnia Region,14.0,Suupohja,141.0,Kauhajoki,232.0,62.45399999999999,22.2534,6.0
+1118,61980,FI,Päntäne,South Ostrobothnia Region,14.0,Suupohja,141.0,Kauhajoki,232.0,62.338,22.0531,6.0
+1119,62100,FI,Lapua,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Lapua,408.0,62.9665,23.0187,6.0
+1120,62190,FI,Ruha,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Lapua,408.0,62.9074,22.9848,6.0
+1121,62200,FI,Kauhava,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Kauhava,233.0,63.105,23.0579,6.0
+1122,62300,FI,Härmä,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Kauhava,233.0,63.2306,22.845,6.0
+1123,62370,FI,Kangasto,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Kauhava,233.0,63.1614,22.8274,6.0
+1124,62375,FI,Ylihärmä,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Kauhava,233.0,63.1392,22.7855,6.0
+1125,62420,FI,Kortesjärvi,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Kauhava,233.0,63.2986,23.1562,6.0
+1126,62500,FI,Evijärvi,South Ostrobothnia Region,14.0,Järviseutu,146.0,Evijärvi,52.0,63.3876,23.4679,6.0
+1127,62510,FI,Kuoppa-Aho,South Ostrobothnia Region,14.0,Järviseutu,146.0,Evijärvi,52.0,63.364,23.4547,6.0
+1128,62600,FI,Lappajärvi,South Ostrobothnia Region,14.0,Järviseutu,146.0,Lappajärvi,403.0,63.2121,23.6276,6.0
+1129,62660,FI,Itäkylä,South Ostrobothnia Region,14.0,Järviseutu,146.0,Lappajärvi,403.0,63.2338,23.7419,6.0
+1130,62800,FI,Vimpeli,South Ostrobothnia Region,14.0,Järviseutu,146.0,Vimpeli,934.0,63.1579,23.8292,6.0
+1131,62830,FI,Luoma-Aho,South Ostrobothnia Region,14.0,Järviseutu,146.0,Alajärvi,5.0,63.0793,23.8468,6.0
+1132,62900,FI,Alajärvi,South Ostrobothnia Region,14.0,Järviseutu,146.0,Alajärvi,5.0,63.0105,23.8689,4.0
+1133,63100,FI,Kuortane,South Ostrobothnia Region,14.0,Kuusiokunnat,144.0,Kuortane,300.0,62.8083,23.5141,6.0
+1134,63130,FI,Mäyry,South Ostrobothnia Region,14.0,Kuusiokunnat,144.0,Kuortane,300.0,62.778,23.4772,6.0
+1135,63300,FI,Alavus,South Ostrobothnia Region,14.0,Kuusiokunnat,144.0,Alavus,10.0,62.5692,23.6219,6.0
+1136,63350,FI,Sulkavankylä,South Ostrobothnia Region,14.0,Kuusiokunnat,144.0,Alavus,10.0,62.451,23.5396,6.0
+1137,63400,FI,Alavus As,South Ostrobothnia Region,14.0,Kuusiokunnat,144.0,Alavus,10.0,62.6233,23.5952,6.0
+1138,63410,FI,Rantatöysä,South Ostrobothnia Region,14.0,Kuusiokunnat,144.0,Alavus,10.0,62.6447,23.633000000000006,6.0
+1139,63500,FI,Lehtimäki,South Ostrobothnia Region,14.0,Järviseutu,146.0,Alajärvi,5.0,62.8209,23.9725,6.0
+1140,63510,FI,Lehtimäki Kk,South Ostrobothnia Region,14.0,Järviseutu,146.0,Alajärvi,5.0,62.7739,23.9541,6.0
+1141,63600,FI,Töysä,South Ostrobothnia Region,14.0,Kuusiokunnat,144.0,Alavus,10.0,62.6472,23.8226,6.0
+1142,63610,FI,Tuuri,South Ostrobothnia Region,14.0,Kuusiokunnat,144.0,Alavus,10.0,62.5903,23.7665,6.0
+1143,63680,FI,Hakojärvi,South Ostrobothnia Region,14.0,Kuusiokunnat,144.0,Alavus,10.0,62.5971,23.9081,6.0
+1144,63700,FI,Ähtäri,South Ostrobothnia Region,14.0,Kuusiokunnat,144.0,Ähtäri,989.0,62.5683,24.0804,6.0
+1145,63780,FI,Alastaipale,South Ostrobothnia Region,14.0,Kuusiokunnat,144.0,Ähtäri,989.0,62.4432,23.9716,6.0
+1146,63800,FI,Soini,South Ostrobothnia Region,14.0,Järviseutu,146.0,Soini,759.0,62.8592,24.2325,6.0
+1147,63900,FI,Myllymäki,South Ostrobothnia Region,14.0,Kuusiokunnat,144.0,Ähtäri,989.0,62.5517,24.3156,6.0
+1148,63910,FI,Inhan Tehtaat,South Ostrobothnia Region,14.0,Kuusiokunnat,144.0,Ähtäri,989.0,62.5066,24.1633,6.0
+1149,63920,FI,Inha,South Ostrobothnia Region,14.0,Kuusiokunnat,144.0,Ähtäri,989.0,62.5747,24.2141,6.0
+1150,64100,FI,Kristiinankaupunki            ,Ostrobothnia Region,15.0,Sydösterbotten,153.0,Kristinestad,287.0,62.2631,21.3796,6.0
+1151,64140,FI,Tiukka                        ,Ostrobothnia Region,15.0,Sydösterbotten,153.0,Kristinestad,287.0,62.3106,21.4582,6.0
+1152,64200,FI,Närpes,Ostrobothnia Region,15.0,Sydösterbotten,153.0,Närpes,545.0,62.4735,21.355,6.0
+1153,64220,FI,Yttermark,Ostrobothnia Region,15.0,Sydösterbotten,153.0,Närpes,545.0,62.5469,21.4199,6.0
+1154,64230,FI,Närpes St,Ostrobothnia Region,15.0,Sydösterbotten,153.0,Närpes,545.0,62.4724,21.3658,6.0
+1155,64240,FI,Böle,Ostrobothnia Region,15.0,Sydösterbotten,153.0,Närpes,545.0,62.4119,21.3386,6.0
+1156,64250,FI,Pjelax,Ostrobothnia Region,15.0,Sydösterbotten,153.0,Närpes,545.0,62.3637,21.3552,6.0
+1157,64260,FI,Kaskinen                      ,Ostrobothnia Region,15.0,Sydösterbotten,153.0,Kaskinen,231.0,62.3765,21.224,6.0
+1158,64300,FI,Lapväärtti                    ,Ostrobothnia Region,15.0,Sydösterbotten,153.0,Kristinestad,287.0,62.2465,21.5105,6.0
+1159,64350,FI,Karijoki,South Ostrobothnia Region,14.0,Suupohja,141.0,Karijoki,218.0,62.301,21.7695,6.0
+1160,64370,FI,Myrkky,South Ostrobothnia Region,14.0,Suupohja,141.0,Karijoki,218.0,62.3813,21.5822,6.0
+1161,64460,FI,Härkmeri                      ,Ostrobothnia Region,15.0,Sydösterbotten,153.0,Kristinestad,287.0,62.167,21.4138,6.0
+1162,64490,FI,Siipyy                        ,Ostrobothnia Region,15.0,Sydösterbotten,153.0,Kristinestad,287.0,62.0169,21.3256,6.0
+1163,64510,FI,Nämpnäs,Ostrobothnia Region,15.0,Sydösterbotten,153.0,Närpes,545.0,62.5023,21.1794,6.0
+1164,64530,FI,Norrnäs,Ostrobothnia Region,15.0,Sydösterbotten,153.0,Närpes,545.0,62.5659,21.1754,6.0
+1165,64550,FI,Rangsby,Ostrobothnia Region,15.0,Sydösterbotten,153.0,Närpes,545.0,62.6132,21.2217,6.0
+1166,64610,FI,Övermark,Ostrobothnia Region,15.0,Sydösterbotten,153.0,Närpes,545.0,62.6297,21.4765,6.0
+1167,64700,FI,Teuva,South Ostrobothnia Region,14.0,Suupohja,141.0,Teuva,846.0,62.4798,21.7508,6.0
+1168,64740,FI,Horo,South Ostrobothnia Region,14.0,Suupohja,141.0,Teuva,846.0,62.5965,21.634,6.0
+1169,64760,FI,Peltola,South Ostrobothnia Region,14.0,Suupohja,141.0,Teuva,846.0,62.5,21.8428,6.0
+1170,64770,FI,Äystö,South Ostrobothnia Region,14.0,Suupohja,141.0,Teuva,846.0,62.4808,21.9285,6.0
+1171,64810,FI,Vanhakylä,South Ostrobothnia Region,14.0,Suupohja,141.0,Isojoki,151.0,62.191,21.7992,6.0
+1172,64820,FI,Kärjenkoski,South Ostrobothnia Region,14.0,Suupohja,141.0,Isojoki,151.0,62.1108,21.7029,6.0
+1173,64900,FI,Isojoki,South Ostrobothnia Region,14.0,Suupohja,141.0,Isojoki,151.0,62.1027,21.9406,6.0
+1174,65100,FI,Vaasa                         ,Ostrobothnia Region,15.0,Vaasa,152.0,Vaasa,905.0,63.0941,21.6236,6.0
+1175,65170,FI,Vaasa                         ,Ostrobothnia Region,15.0,Vaasa,152.0,Vaasa,905.0,63.0907,21.569000000000006,6.0
+1176,65200,FI,Vaasa                         ,Ostrobothnia Region,15.0,Vaasa,152.0,Vaasa,905.0,63.1117,21.596,6.0
+1177,65230,FI,Vaasa                         ,Ostrobothnia Region,15.0,Vaasa,152.0,Vaasa,905.0,63.1215,21.6177,6.0
+1178,65280,FI,Vaasa                         ,Ostrobothnia Region,15.0,Vaasa,152.0,Vaasa,905.0,63.1367,21.5612,6.0
+1179,65300,FI,Vaasa                         ,Ostrobothnia Region,15.0,Vaasa,152.0,Vaasa,905.0,63.1079,21.6555,6.0
+1180,65320,FI,Vaasa                         ,Ostrobothnia Region,15.0,Vaasa,152.0,Vaasa,905.0,63.092,21.6826,6.0
+1181,65350,FI,Vaasa                         ,Ostrobothnia Region,15.0,Vaasa,152.0,Vaasa,905.0,63.0777,21.6557,6.0
+1182,65370,FI,Vaasa                         ,Ostrobothnia Region,15.0,Vaasa,152.0,Vaasa,905.0,63.0931,21.7195,6.0
+1183,65380,FI,Vaasa                         ,Ostrobothnia Region,15.0,Vaasa,152.0,Vaasa,905.0,63.0713,21.7319,6.0
+1184,65410,FI,Sundom                        ,Ostrobothnia Region,15.0,Vaasa,152.0,Vaasa,905.0,63.0454,21.5112,6.0
+1185,65450,FI,Sulva                         ,Ostrobothnia Region,15.0,Vaasa,152.0,Korsholm,499.0,63.0063,21.6549,6.0
+1186,65460,FI,Tölby                         ,Ostrobothnia Region,15.0,Vaasa,152.0,Korsholm,499.0,63.0181,21.6953,
+1187,65480,FI,Vikby                         ,Ostrobothnia Region,15.0,Vaasa,152.0,Korsholm,499.0,63.0275,21.7396,6.0
+1188,65520,FI,Helsingby                     ,Ostrobothnia Region,15.0,Vaasa,152.0,Korsholm,499.0,63.0285,21.819000000000006,6.0
+1189,65610,FI,Mustasaari                    ,Ostrobothnia Region,15.0,Vaasa,152.0,Korsholm,499.0,63.1204,21.6874,6.0
+1190,65630,FI,Karperö                       ,Ostrobothnia Region,15.0,Vaasa,152.0,Korsholm,499.0,63.1682,21.6954,6.0
+1191,65650,FI,Koskö                         ,Ostrobothnia Region,15.0,Vaasa,152.0,Korsholm,499.0,63.1922,21.7193,6.0
+1192,65710,FI,Singsby                       ,Ostrobothnia Region,15.0,Vaasa,152.0,Korsholm,499.0,63.164,21.6432,6.0
+1193,65730,FI,Jungsund                      ,Ostrobothnia Region,15.0,Vaasa,152.0,Korsholm,499.0,63.2036,21.6121,
+1194,65800,FI,Raippaluoto                   ,Ostrobothnia Region,15.0,Vaasa,152.0,Korsholm,499.0,63.2365,21.3945,6.0
+1195,66100,FI,Maalahti                      ,Ostrobothnia Region,15.0,Vaasa,152.0,Malax,475.0,62.9623,21.4727,6.0
+1196,66140,FI,Övermalax                     ,Ostrobothnia Region,15.0,Vaasa,152.0,Malax,475.0,62.9105,21.6194,6.0
+1197,66160,FI,Långåminne                    ,Ostrobothnia Region,15.0,Vaasa,152.0,Malax,475.0,62.8865,21.7273,6.0
+1198,66200,FI,Korsnäs                       ,Ostrobothnia Region,15.0,Vaasa,152.0,Korsnäs,280.0,62.7915,21.1822,6.0
+1199,66210,FI,Molpe                         ,Ostrobothnia Region,15.0,Vaasa,152.0,Korsnäs,280.0,62.8788,21.2522,6.0
+1200,66230,FI,Korsbäck                      ,Ostrobothnia Region,15.0,Vaasa,152.0,Korsnäs,280.0,62.7916,21.2893,6.0
+1201,66240,FI,Petolahti                     ,Ostrobothnia Region,15.0,Vaasa,152.0,Malax,475.0,62.861,21.409,6.0
+1202,66270,FI,Pörtom,Ostrobothnia Region,15.0,Sydösterbotten,153.0,Närpes,545.0,62.7082,21.6201,6.0
+1203,66280,FI,Taklax                        ,Ostrobothnia Region,15.0,Vaasa,152.0,Korsnäs,280.0,62.729,21.2779,6.0
+1204,66295,FI,Töjby,Ostrobothnia Region,15.0,Sydösterbotten,153.0,Närpes,545.0,62.6488,21.148000000000003,6.0
+1205,66300,FI,Jurva,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Kurikka,301.0,62.6933,21.9815,6.0
+1206,66320,FI,Niemenkylä,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Kurikka,301.0,62.7197,21.9121,6.0
+1207,66360,FI,Kesti,South Ostrobothnia Region,14.0,Seinäjoki,142.0,Kurikka,301.0,62.6437,21.8858,6.0
+1208,66400,FI,Laihia,Ostrobothnia Region,15.0,Kyrönmaa,151.0,Laihia,399.0,62.9769,22.0123,6.0
+1209,66420,FI,Ruto,Ostrobothnia Region,15.0,Kyrönmaa,151.0,Laihia,399.0,62.9867,21.9026,6.0
+1210,66430,FI,Vedenoja                      ,Ostrobothnia Region,15.0,Kyrönmaa,151.0,Laihia,399.0,62.9864,22.0553,6.0
+1211,66440,FI,Tervajoki,Ostrobothnia Region,15.0,Kyrönmaa,151.0,Isokyrö,152.0,63.0048,22.1892,6.0
+1212,66500,FI,Vähäkyrö                      ,Ostrobothnia Region,15.0,Vaasa,152.0,Vaasa,905.0,63.0588,22.0948,6.0
+1213,66510,FI,Merikaarto                    ,Ostrobothnia Region,15.0,Vaasa,152.0,Vaasa,905.0,63.0717,21.9509,6.0
+1214,66530,FI,Koivulahti                    ,Ostrobothnia Region,15.0,Vaasa,152.0,Korsholm,499.0,63.1655,21.8358,6.0
+1215,66550,FI,Västerhankmo                  ,Ostrobothnia Region,15.0,Vaasa,152.0,Korsholm,499.0,63.2262,21.8584,
+1216,66580,FI,Kuni                          ,Ostrobothnia Region,15.0,Vaasa,152.0,Korsholm,499.0,63.1591,21.963,6.0
+1217,66600,FI,Vöyri                         ,Ostrobothnia Region,15.0,Vaasa,152.0,Vörå,946.0,63.1496,22.255,6.0
+1218,66640,FI,Maksamaa                      ,Ostrobothnia Region,15.0,Vaasa,152.0,Vörå,946.0,63.2976,22.03,6.0
+1219,66800,FI,Oravainen                     ,Ostrobothnia Region,15.0,Vaasa,152.0,Vörå,946.0,63.3053,22.3546,6.0
+1220,66830,FI,Oravaisten Tehdas             ,Ostrobothnia Region,15.0,Vaasa,152.0,Vörå,946.0,63.3201,22.4081,6.0
+1221,66840,FI,Pensala                       ,Ostrobothnia Region,15.0,Jakobstadsregionen,154.0,Nykarleby,893.0,63.3468,22.5619,6.0
+1222,66850,FI,Jepua                         ,Ostrobothnia Region,15.0,Jakobstadsregionen,154.0,Nykarleby,893.0,63.4001,22.6566,6.0
+1223,66900,FI,Uusikaarlepyy                 ,Ostrobothnia Region,15.0,Jakobstadsregionen,154.0,Nykarleby,893.0,63.518,22.5255,6.0
+1224,67100,FI,Kokkola                       ,Central Ostrobothnia Region,16.0,Kokkola,162.0,Kokkola,272.0,63.8388,23.133000000000006,6.0
+1225,67200,FI,Kokkola                       ,Central Ostrobothnia Region,16.0,Kokkola,162.0,Kokkola,272.0,63.8472,23.1106,6.0
+1226,67300,FI,Kokkola                       ,Central Ostrobothnia Region,16.0,Kokkola,162.0,Kokkola,272.0,63.8618,23.1308,6.0
+1227,67400,FI,Kokkola                       ,Central Ostrobothnia Region,16.0,Kokkola,162.0,Kokkola,272.0,63.8579,23.1734,6.0
+1228,67600,FI,Kokkola                       ,Central Ostrobothnia Region,16.0,Kokkola,162.0,Kokkola,272.0,63.8236,23.1852,6.0
+1229,67700,FI,Kokkola                       ,Central Ostrobothnia Region,16.0,Kokkola,162.0,Kokkola,272.0,63.8196,23.1329,6.0
+1230,67800,FI,Kokkola                       ,Central Ostrobothnia Region,16.0,Kokkola,162.0,Kokkola,272.0,63.8251,23.0591,6.0
+1231,67900,FI,Kokkola                       ,Central Ostrobothnia Region,16.0,Kokkola,162.0,Kokkola,272.0,63.8412,23.0536,6.0
+1232,68100,FI,Himanka,North Ostrobothnia Region,17.0,Ylivieska,177.0,Kalajoki,208.0,64.0913,23.6763,6.0
+1233,68210,FI,Marinkainen                   ,Central Ostrobothnia Region,16.0,Kokkola,162.0,Kokkola,272.0,63.9416,23.4371,6.0
+1234,68230,FI,Lohtaja                       ,Central Ostrobothnia Region,16.0,Kokkola,162.0,Kokkola,272.0,64.027,23.508000000000006,6.0
+1235,68300,FI,Kälviä                        ,Central Ostrobothnia Region,16.0,Kokkola,162.0,Kokkola,272.0,63.8531,23.4682,6.0
+1236,68320,FI,Ruotsalo                      ,Central Ostrobothnia Region,16.0,Kokkola,162.0,Kokkola,272.0,63.9119,23.3204,6.0
+1237,68370,FI,Ullava                        ,Central Ostrobothnia Region,16.0,Kokkola,162.0,Kokkola,272.0,63.7126,23.8843,6.0
+1238,68380,FI,Yli-Ullava                    ,Central Ostrobothnia Region,16.0,Kokkola,162.0,Kokkola,272.0,63.6308,24.0476,6.0
+1239,68390,FI,Rahkonen                      ,Central Ostrobothnia Region,16.0,Kokkola,162.0,Kokkola,272.0,63.614,24.0262,6.0
+1240,68410,FI,Alaveteli                     ,Ostrobothnia Region,15.0,Jakobstadsregionen,154.0,Kronoby,288.0,63.6991,23.3757,6.0
+1241,68500,FI,Kruunupyy                     ,Ostrobothnia Region,15.0,Jakobstadsregionen,154.0,Kronoby,288.0,63.7193,23.0226,6.0
+1242,68555,FI,Bosund                        ,Ostrobothnia Region,15.0,Jakobstadsregionen,154.0,Larsmo,440.0,63.844,22.8238,
+1243,68560,FI,Eugmo                         ,Ostrobothnia Region,15.0,Jakobstadsregionen,154.0,Larsmo,440.0,63.8191,22.7314,6.0
+1244,68570,FI,Luoto                         ,Ostrobothnia Region,15.0,Jakobstadsregionen,154.0,Larsmo,440.0,63.7484,22.7284,6.0
+1245,68580,FI,Larsmo                        ,Ostrobothnia Region,15.0,Jakobstadsregionen,154.0,Larsmo,440.0,63.7104,22.7559,
+1246,68600,FI,Pietarsaari                   ,Ostrobothnia Region,15.0,Jakobstadsregionen,154.0,Jakobstad,598.0,63.6747,22.7193,6.0
+1247,68620,FI,Pietarsaari                   ,Ostrobothnia Region,15.0,Jakobstadsregionen,154.0,Jakobstad,598.0,63.6764,22.6384,6.0
+1248,68630,FI,Pietarsaari                   ,Ostrobothnia Region,15.0,Jakobstadsregionen,154.0,Jakobstad,598.0,63.6605,22.6782,6.0
+1249,68660,FI,Pietarsaari                   ,Ostrobothnia Region,15.0,Jakobstadsregionen,154.0,Jakobstad,598.0,63.6886,22.7454,6.0
+1250,68700,FI,Teerijärvi                    ,Ostrobothnia Region,15.0,Jakobstadsregionen,154.0,Kronoby,288.0,63.5345,23.515,6.0
+1251,68800,FI,Kolppi,Ostrobothnia Region,15.0,Jakobstadsregionen,154.0,Pedersöre,599.0,63.6227,22.8953,6.0
+1252,68810,FI,Ytteresse,Ostrobothnia Region,15.0,Jakobstadsregionen,154.0,Pedersöre,599.0,63.6237,22.9967,6.0
+1253,68820,FI,Ähtävä,Ostrobothnia Region,15.0,Jakobstadsregionen,154.0,Pedersöre,599.0,63.5925,23.0568,6.0
+1254,68870,FI,Edsevö,Ostrobothnia Region,15.0,Jakobstadsregionen,154.0,Pedersöre,599.0,63.6343,22.8516,4.0
+1255,68910,FI,Pännäinen,Ostrobothnia Region,15.0,Jakobstadsregionen,154.0,Pedersöre,599.0,63.6057,22.7852,6.0
+1256,68930,FI,Purmo,Ostrobothnia Region,15.0,Jakobstadsregionen,154.0,Pedersöre,599.0,63.5217,22.9726,6.0
+1257,68940,FI,Lillby,Ostrobothnia Region,15.0,Jakobstadsregionen,154.0,Pedersöre,599.0,63.471,23.0416,6.0
+1258,69100,FI,Kannus,Central Ostrobothnia Region,16.0,Kokkola,162.0,Kannus,217.0,63.9098,23.9189,6.0
+1259,69150,FI,Eskola,Central Ostrobothnia Region,16.0,Kokkola,162.0,Kannus,217.0,63.9132,24.162,6.0
+1260,69300,FI,Toholampi,Central Ostrobothnia Region,16.0,Kaustinen,161.0,Toholampi,849.0,63.7683,24.2701,6.0
+1261,69310,FI,Laitala,Central Ostrobothnia Region,16.0,Kaustinen,161.0,Toholampi,849.0,63.8173,24.1598,6.0
+1262,69410,FI,Sykäräinen,Central Ostrobothnia Region,16.0,Kaustinen,161.0,Toholampi,849.0,63.6203,24.3943,6.0
+1263,69440,FI,Lestijärvi,Central Ostrobothnia Region,16.0,Kaustinen,161.0,Lestijärvi,421.0,63.5281,24.7075,4.0
+1264,69510,FI,Halsua,Central Ostrobothnia Region,16.0,Kaustinen,161.0,Halsua,74.0,63.4668,24.1734,6.0
+1265,69600,FI,Kaustinen,Central Ostrobothnia Region,16.0,Kaustinen,161.0,Kaustinen,236.0,63.5693,23.6893,6.0
+1266,69700,FI,Veteli,Central Ostrobothnia Region,16.0,Kaustinen,161.0,Veteli,924.0,63.466,23.8011,6.0
+1267,69730,FI,Tunkkari,Central Ostrobothnia Region,16.0,Kaustinen,161.0,Veteli,924.0,63.4965,23.7646,6.0
+1268,69750,FI,Sillanpää,Central Ostrobothnia Region,16.0,Kaustinen,161.0,Veteli,924.0,63.4252,23.9729,6.0
+1269,69820,FI,Räyrinki,Central Ostrobothnia Region,16.0,Kaustinen,161.0,Veteli,924.0,63.3803,23.8092,4.0
+1270,69850,FI,Patana,Central Ostrobothnia Region,16.0,Kaustinen,161.0,Veteli,924.0,63.3166,23.9048,6.0
+1271,69950,FI,Perho,Central Ostrobothnia Region,16.0,Kaustinen,161.0,Perho,584.0,63.2246,24.4289,6.0
+1272,69980,FI,Möttönen,Central Ostrobothnia Region,16.0,Kaustinen,161.0,Perho,584.0,63.1871,24.5589,6.0
+1273,70100,FI,Kuopio,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,62.8807,27.6928,6.0
+1274,70110,FI,Kuopio,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,62.8931,27.6726,6.0
+1275,70150,FI,Kuopio,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,62.8869,27.6054,6.0
+1276,70200,FI,Kuopio,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,62.9045,27.6397,6.0
+1277,70260,FI,Kuopio,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,62.9322,27.6206,6.0
+1278,70280,FI,Kuopio,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,62.9185,27.6415,6.0
+1279,70300,FI,Kuopio,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,62.8999,27.6839,6.0
+1280,70340,FI,Kuopio,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,62.9137,27.6795,6.0
+1281,70400,FI,Kuopio,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,62.9255,27.6887,6.0
+1282,70420,FI,Kuopio,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,62.9443,27.6696,6.0
+1283,70460,FI,Kuopio,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,62.9154,27.7041,6.0
+1284,70500,FI,Kuopio,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,62.9017,27.7083,6.0
+1285,70600,FI,Kuopio,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,62.8896,27.6526,6.0
+1286,70620,FI,Kuopio,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,62.8828,27.6635,6.0
+1287,70700,FI,Kuopio,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,62.8776,27.6231,4.0
+1288,70780,FI,Kuopio,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,62.8526,27.6472,6.0
+1289,70800,FI,Kuopio,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,62.8454,27.54,6.0
+1290,70820,FI,Kuopio,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,62.8326,27.6669,6.0
+1291,70840,FI,Kuopio,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,62.8406,27.7064,6.0
+1292,70870,FI,Hiltulanlahti,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,62.7573,27.6238,6.0
+1293,70900,FI,Toivala,Northern Savo,11.0,Kuopio,112.0,Siilinjärvi,749.0,62.9951,27.7262,6.0
+1294,70910,FI,Vuorela,Northern Savo,11.0,Kuopio,112.0,Siilinjärvi,749.0,62.9823,27.6876,6.0
+1295,71160,FI,Riistavesi,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,62.9004,28.1495,6.0
+1296,71200,FI,Tuusniemi,Northern Savo,11.0,Koillis-Savo,113.0,Tuusniemi,857.0,62.8292,28.4985,6.0
+1297,71210,FI,Tuusjärvi,Northern Savo,11.0,Koillis-Savo,113.0,Tuusniemi,857.0,62.8638,28.3124,6.0
+1298,71240,FI,Paakkila,Northern Savo,11.0,Koillis-Savo,113.0,Tuusniemi,857.0,62.7972,28.6614,6.0
+1299,71280,FI,Kosula,Northern Savo,11.0,Koillis-Savo,113.0,Tuusniemi,857.0,62.6653,28.5061,6.0
+1300,71310,FI,Vehmersalmi,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,62.7712,28.0447,6.0
+1301,71470,FI,Oravikoski,Northern Savo,11.0,Varkaus,114.0,Leppävirta,420.0,62.5875,27.617,6.0
+1302,71480,FI,Kurkimäki,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,62.784,27.4814,6.0
+1303,71570,FI,Syvänniemi,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,62.8537,27.2187,6.0
+1304,71730,FI,Kinnulanlahti,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,63.1316,27.3716,6.0
+1305,71750,FI,Maaninka,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,63.1658,27.2941,6.0
+1306,71760,FI,Ahkionlahti,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,63.2561,27.2326,6.0
+1307,71775,FI,Tuovilanlahti,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,63.2204,27.1284,6.0
+1308,71800,FI,Siilinjärvi,Northern Savo,11.0,Kuopio,112.0,Siilinjärvi,749.0,63.0694,27.6542,6.0
+1309,71840,FI,Kuuslahti,Northern Savo,11.0,Kuopio,112.0,Siilinjärvi,749.0,63.1293,27.7878,6.0
+1310,71850,FI,Leppäkaarre,Northern Savo,11.0,Kuopio,112.0,Siilinjärvi,749.0,63.0731,27.6932,6.0
+1311,71870,FI,Harjamäki,Northern Savo,11.0,Kuopio,112.0,Siilinjärvi,749.0,63.0761,27.6084,6.0
+1312,71910,FI,Alapitkä,Northern Savo,11.0,Ylä-Savo,111.0,Lapinlahti,402.0,63.20399999999999,27.5003,6.0
+1313,71960,FI,Lukkarila,Northern Savo,11.0,Ylä-Savo,111.0,Lapinlahti,402.0,63.2803,27.7226,6.0
+1314,72100,FI,Karttula,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,62.8962,27.0438,6.0
+1315,72210,FI,Tervo,Northern Savo,11.0,Sisä-Savo,115.0,Tervo,844.0,62.9637,26.7499,6.0
+1316,72300,FI,Vesanto,Northern Savo,11.0,Sisä-Savo,115.0,Vesanto,921.0,62.9074,26.4287,6.0
+1317,72360,FI,Närhilä,Northern Savo,11.0,Sisä-Savo,115.0,Vesanto,921.0,62.8167,26.3494,6.0
+1318,72400,FI,Pielavesi,Northern Savo,11.0,Ylä-Savo,111.0,Pielavesi,595.0,63.255,26.7931,6.0
+1319,72550,FI,Säviä,Northern Savo,11.0,Ylä-Savo,111.0,Pielavesi,595.0,63.1906,26.6306,6.0
+1320,72600,FI,Keitele,Northern Savo,11.0,Ylä-Savo,111.0,Keitele,239.0,63.1681,26.3368,6.0
+1321,72950,FI,Porttila,Northern Savo,11.0,Ylä-Savo,111.0,Keitele,239.0,63.3418,26.2173,6.0
+1322,73100,FI,Lapinlahti,Northern Savo,11.0,Ylä-Savo,111.0,Lapinlahti,402.0,63.3624,27.3955,6.0
+1323,73200,FI,Varpaisjärvi,Northern Savo,11.0,Ylä-Savo,111.0,Lapinlahti,402.0,63.3664,27.7928,6.0
+1324,73230,FI,Syvärinpää,Northern Savo,11.0,Ylä-Savo,111.0,Lapinlahti,402.0,63.4326,27.849,6.0
+1325,73250,FI,Korpijärvi,Northern Savo,11.0,Ylä-Savo,111.0,Lapinlahti,402.0,63.4389,27.9849,6.0
+1326,73300,FI,Nilsiä,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,63.2016,28.1091,6.0
+1327,73310,FI,Tahkovuori,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,63.2833,28.0424,6.0
+1328,73460,FI,Muuruvesi,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,63.0197,28.2062,6.0
+1329,73500,FI,Juankoski,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,63.0642,28.3346,6.0
+1330,73600,FI,Kaavi,Northern Savo,11.0,Koillis-Savo,113.0,Kaavi,204.0,62.9827,28.5288,6.0
+1331,73670,FI,Luikonlahti,Northern Savo,11.0,Koillis-Savo,113.0,Kaavi,204.0,62.8907,28.7733,6.0
+1332,73770,FI,Säyneinen,Northern Savo,11.0,Kuopio,112.0,Kuopio,297.0,63.2027,28.4412,6.0
+1333,73850,FI,Ala-Luosta,Northern Savo,11.0,Koillis-Savo,113.0,Rautavaara,687.0,63.2786,28.5312,6.0
+1334,73900,FI,Rautavaara,Northern Savo,11.0,Koillis-Savo,113.0,Rautavaara,687.0,63.4801,28.3359,6.0
+1335,74100,FI,Iisalmi,Northern Savo,11.0,Ylä-Savo,111.0,Iisalmi,140.0,63.5518,27.1868,6.0
+1336,74120,FI,Iisalmi,Northern Savo,11.0,Ylä-Savo,111.0,Iisalmi,140.0,63.575,27.1971,6.0
+1337,74130,FI,Iisalmi,Northern Savo,11.0,Ylä-Savo,111.0,Iisalmi,140.0,63.551,27.2302,6.0
+1338,74200,FI,Vieremä,Northern Savo,11.0,Ylä-Savo,111.0,Vieremä,925.0,63.7523,27.03,6.0
+1339,74250,FI,Nissilä,Northern Savo,11.0,Ylä-Savo,111.0,Vieremä,925.0,63.956,26.8346,6.0
+1340,74300,FI,Sonkajärvi,Northern Savo,11.0,Ylä-Savo,111.0,Sonkajärvi,762.0,63.6631,27.5413,6.0
+1341,74340,FI,Sukeva,Northern Savo,11.0,Ylä-Savo,111.0,Sonkajärvi,762.0,63.865,27.4262,6.0
+1342,74380,FI,Jyrkkä,Northern Savo,11.0,Ylä-Savo,111.0,Sonkajärvi,762.0,63.7725,27.8396,6.0
+1343,74510,FI,Iisalmi,Northern Savo,11.0,Ylä-Savo,111.0,Iisalmi,140.0,63.5156,27.2443,6.0
+1344,74550,FI,Pörsänmäki,Northern Savo,11.0,Ylä-Savo,111.0,Iisalmi,140.0,63.3879,27.0666,6.0
+1345,74700,FI,Kiuruvesi,Northern Savo,11.0,Ylä-Savo,111.0,Kiuruvesi,263.0,63.6571,26.5481,6.0
+1346,74940,FI,Remeskylä,Northern Savo,11.0,Ylä-Savo,111.0,Kiuruvesi,263.0,63.8007,26.4152,4.0
+1347,75500,FI,Nurmes,North Karelia,12.0,Pielisen Karjala,125.0,Nurmes,541.0,63.5637,29.1614,6.0
+1348,75530,FI,Nurmes,North Karelia,12.0,Pielisen Karjala,125.0,Nurmes,541.0,63.5396,29.0938,6.0
+1349,75680,FI,Ylä-Luosta,Northern Savo,11.0,Koillis-Savo,113.0,Rautavaara,687.0,63.3807,28.6188,6.0
+1350,75700,FI,Valtimo,North Karelia,12.0,Pielisen Karjala,125.0,Valtimo,911.0,63.6913,28.8205,6.0
+1351,76100,FI,Pieksämäki,Southern Savonia,10.0,Pieksämäki,105.0,Pieksämäki,593.0,62.31100000000001,27.1602,6.0
+1352,76120,FI,Pieksämäki,Southern Savonia,10.0,Pieksämäki,105.0,Pieksämäki,593.0,62.304,27.18,6.0
+1353,76130,FI,Pieksämäki,Southern Savonia,10.0,Pieksämäki,105.0,Pieksämäki,593.0,62.3065,27.1217,6.0
+1354,76150,FI,Pieksämäki,Southern Savonia,10.0,Pieksämäki,105.0,Pieksämäki,593.0,62.2917,27.13,6.0
+1355,76850,FI,Naarajärvi,Southern Savonia,10.0,Pieksämäki,105.0,Pieksämäki,593.0,62.2789,27.0488,6.0
+1356,76940,FI,Nenonpelto,Southern Savonia,10.0,Pieksämäki,105.0,Pieksämäki,593.0,62.3723,27.1272,6.0
+1357,77240,FI,Halkokumpu,Southern Savonia,10.0,Pieksämäki,105.0,Pieksämäki,593.0,62.1679,26.8599,6.0
+1358,77330,FI,Virtasalmi,Southern Savonia,10.0,Pieksämäki,105.0,Pieksämäki,593.0,62.1199,27.4649,6.0
+1359,77570,FI,Jäppilä,Southern Savonia,10.0,Pieksämäki,105.0,Pieksämäki,593.0,62.4108,27.4269,6.0
+1360,77580,FI,Tihusniemi,Southern Savonia,10.0,Pieksämäki,105.0,Pieksämäki,593.0,62.3613,27.5944,6.0
+1361,77600,FI,Suonenjoki,Northern Savo,11.0,Sisä-Savo,115.0,Suonenjoki,778.0,62.631,27.1363,6.0
+1362,77700,FI,Rautalampi,Northern Savo,11.0,Sisä-Savo,115.0,Rautalampi,686.0,62.6185,26.7608,6.0
+1363,77800,FI,Iisvesi,Northern Savo,11.0,Sisä-Savo,115.0,Suonenjoki,778.0,62.6682,27.0124,6.0
+1364,78200,FI,Varkaus,Northern Savo,11.0,Varkaus,114.0,Varkaus,915.0,62.3102,27.8697,6.0
+1365,78210,FI,Varkaus,Northern Savo,11.0,Varkaus,114.0,Varkaus,915.0,62.3285,27.8463,6.0
+1366,78250,FI,Varkaus,Northern Savo,11.0,Varkaus,114.0,Varkaus,915.0,62.3024,27.9226,6.0
+1367,78300,FI,Varkaus,Northern Savo,11.0,Varkaus,114.0,Varkaus,915.0,62.3321,27.8832,6.0
+1368,78310,FI,Varkaus,Northern Savo,11.0,Varkaus,114.0,Varkaus,915.0,62.3369,27.9191,6.0
+1369,78400,FI,Varkaus,Northern Savo,11.0,Varkaus,114.0,Varkaus,915.0,62.3485,27.8681,6.0
+1370,78500,FI,Varkaus,Northern Savo,11.0,Varkaus,114.0,Varkaus,915.0,62.3044,27.9493,6.0
+1371,78710,FI,Varkaus,Northern Savo,11.0,Varkaus,114.0,Varkaus,915.0,62.2533,28.0831,6.0
+1372,78850,FI,Varkaus,Northern Savo,11.0,Varkaus,114.0,Varkaus,915.0,62.303,27.847,6.0
+1373,78870,FI,Varkaus,Northern Savo,11.0,Varkaus,114.0,Varkaus,915.0,62.3175,27.832,6.0
+1374,78880,FI,Kuvansi,Southern Savonia,10.0,Pieksämäki,105.0,Joroinen,171.0,62.2603,27.9067,6.0
+1375,79100,FI,Leppävirta,Northern Savo,11.0,Varkaus,114.0,Leppävirta,420.0,62.4909,27.8569,6.0
+1376,79130,FI,Sorsakoski,Northern Savo,11.0,Varkaus,114.0,Leppävirta,420.0,62.4528,27.6616,6.0
+1377,79255,FI,Kurjala,Northern Savo,11.0,Varkaus,114.0,Leppävirta,420.0,62.5468,28.1414,6.0
+1378,79480,FI,Kangaslampi,Northern Savo,11.0,Varkaus,114.0,Varkaus,915.0,62.289,28.2727,6.0
+1379,79520,FI,Viljolahti,Northern Savo,11.0,Varkaus,114.0,Varkaus,915.0,62.2291,28.5241,6.0
+1380,79600,FI,Joroinen,Southern Savonia,10.0,Pieksämäki,105.0,Joroinen,171.0,62.1742,27.8623,6.0
+1381,79700,FI,Heinävesi,Southern Savonia,10.0,Savonlinna,103.0,Heinävesi,90.0,62.3984,28.5808,6.0
+1382,79810,FI,Karvionkanava,Southern Savonia,10.0,Savonlinna,103.0,Heinävesi,90.0,62.5203,28.6319,6.0
+1383,79940,FI,Vihtari,Southern Savonia,10.0,Savonlinna,103.0,Heinävesi,90.0,62.3781,28.9851,6.0
+1384,80100,FI,Joensuu,North Karelia,12.0,Joensuu,122.0,Joensuu,167.0,62.6143,29.7768,6.0
+1385,80110,FI,Joensuu,North Karelia,12.0,Joensuu,122.0,Joensuu,167.0,62.6001,29.738000000000003,6.0
+1386,80130,FI,Joensuu,North Karelia,12.0,Joensuu,122.0,Joensuu,167.0,62.6138,29.7455,6.0
+1387,80140,FI,Joensuu,North Karelia,12.0,Joensuu,122.0,Joensuu,167.0,62.6259,29.6873,6.0
+1388,80160,FI,Joensuu,North Karelia,12.0,Joensuu,122.0,Joensuu,167.0,62.6192,29.8247,6.0
+1389,80170,FI,Joensuu,North Karelia,12.0,Joensuu,122.0,Joensuu,167.0,62.6199,29.8564,6.0
+1390,80200,FI,Joensuu,North Karelia,12.0,Joensuu,122.0,Joensuu,167.0,62.5931,29.788,6.0
+1391,80220,FI,Joensuu,North Karelia,12.0,Joensuu,122.0,Joensuu,167.0,62.5836,29.7686,6.0
+1392,80230,FI,Joensuu,North Karelia,12.0,Joensuu,122.0,Joensuu,167.0,62.5772,29.8052,6.0
+1393,80260,FI,Joensuu,North Karelia,12.0,Joensuu,122.0,Joensuu,167.0,62.599,29.8253,6.0
+1394,80330,FI,Reijola,North Karelia,12.0,Joensuu,122.0,Joensuu,167.0,62.5387,29.8333,6.0
+1395,80400,FI,Ylämylly,North Karelia,12.0,Joensuu,122.0,Liperi,426.0,62.6138,29.5492,6.0
+1396,80510,FI,Onttola,North Karelia,12.0,Joensuu,122.0,Kontiolahti,276.0,62.6976,29.6401,6.0
+1397,80710,FI,Lehmo,North Karelia,12.0,Joensuu,122.0,Kontiolahti,276.0,62.6685,29.8104,6.0
+1398,80770,FI,Kontiolahti As,North Karelia,12.0,Joensuu,122.0,Kontiolahti,276.0,62.7434,29.8586,6.0
+1399,80780,FI,Kontioniemi,North Karelia,12.0,Joensuu,122.0,Kontiolahti,276.0,62.7473,29.8062,6.0
+1400,80790,FI,Kontioranta,North Karelia,12.0,Joensuu,122.0,Kontiolahti,276.0,62.7376,29.8113,6.0
+1401,80850,FI,Paihola,North Karelia,12.0,Joensuu,122.0,Kontiolahti,276.0,62.6956,29.913,6.0
+1402,80910,FI,Kulho,North Karelia,12.0,Joensuu,122.0,Kontiolahti,276.0,62.6245,29.9275,6.0
+1403,81100,FI,Kontiolahti,North Karelia,12.0,Joensuu,122.0,Kontiolahti,276.0,62.79,29.8405,6.0
+1404,81160,FI,Romppala,North Karelia,12.0,Joensuu,122.0,Kontiolahti,276.0,62.9592,29.7898,6.0
+1405,81200,FI,Eno,North Karelia,12.0,Joensuu,122.0,Joensuu,167.0,62.7999,30.1619,6.0
+1406,81210,FI,Louhioja,North Karelia,12.0,Joensuu,122.0,Joensuu,167.0,62.7994,30.0986,6.0
+1407,81220,FI,Jakokoski,North Karelia,12.0,Joensuu,122.0,Kontiolahti,276.0,62.7384,29.9845,6.0
+1408,81230,FI,Mönni,North Karelia,12.0,Joensuu,122.0,Kontiolahti,276.0,62.7116,30.0918,6.0
+1409,81235,FI,Lehtoi,North Karelia,12.0,Joensuu,122.0,Kontiolahti,276.0,62.6358,30.1364,6.0
+1410,81280,FI,Uimaharju,North Karelia,12.0,Joensuu,122.0,Joensuu,167.0,62.9111,30.2712,6.0
+1411,81290,FI,Ukkola,North Karelia,12.0,Joensuu,122.0,Joensuu,167.0,62.9651,30.192,6.0
+1412,81390,FI,Revonkylä,North Karelia,12.0,Joensuu,122.0,Joensuu,167.0,62.6418,30.5049,6.0
+1413,81590,FI,Vuonislahti,North Karelia,12.0,Pielisen Karjala,125.0,Lieksa,422.0,63.145,29.9885,6.0
+1414,81650,FI,Hattuvaara,North Karelia,12.0,Pielisen Karjala,125.0,Lieksa,422.0,63.2587,30.6046,6.0
+1415,81700,FI,Lieksa,North Karelia,12.0,Pielisen Karjala,125.0,Lieksa,422.0,63.3105,30.0446,4.0
+1416,81720,FI,Lieksa,North Karelia,12.0,Pielisen Karjala,125.0,Lieksa,422.0,63.2815,30.0408,6.0
+1417,81750,FI,Pankakoski,North Karelia,12.0,Pielisen Karjala,125.0,Lieksa,422.0,63.3485,30.214,6.0
+1418,81970,FI,Jongunjoki,North Karelia,12.0,Pielisen Karjala,125.0,Lieksa,422.0,63.5469,30.02,6.0
+1419,82110,FI,Heinävaara,North Karelia,12.0,Joensuu,122.0,Joensuu,167.0,62.5651,30.1462,6.0
+1420,82120,FI,Keskijärvi,North Karelia,12.0,Joensuu,122.0,Joensuu,167.0,62.5874,30.284,6.0
+1421,82140,FI,Kiihtelysvaara,North Karelia,12.0,Joensuu,122.0,Joensuu,167.0,62.472,30.2706,6.0
+1422,82200,FI,Hammaslahti,North Karelia,12.0,Joensuu,122.0,Joensuu,167.0,62.4365,29.9838,4.0
+1423,82220,FI,Niittylahti,North Karelia,12.0,Joensuu,122.0,Joensuu,167.0,62.5108,29.8783,6.0
+1424,82290,FI,Nieminen,North Karelia,12.0,Keski-Karjala,124.0,Rääkkylä,707.0,62.3398,29.8617,6.0
+1425,82300,FI,Rääkkylä,North Karelia,12.0,Keski-Karjala,124.0,Rääkkylä,707.0,62.2895,29.6086,6.0
+1426,82350,FI,Tikkala,North Karelia,12.0,Keski-Karjala,124.0,Tohmajärvi,848.0,62.3596,30.0959,6.0
+1427,82430,FI,Puhos,North Karelia,12.0,Keski-Karjala,124.0,Kitee,260.0,62.0843,29.832,6.0
+1428,82490,FI,Heinoniemi,North Karelia,12.0,Keski-Karjala,124.0,Kitee,260.0,62.1654,29.5241,6.0
+1429,82500,FI,Kitee,North Karelia,12.0,Keski-Karjala,124.0,Kitee,260.0,62.0836,30.1669,6.0
+1430,82600,FI,Tohmajärvi,North Karelia,12.0,Keski-Karjala,124.0,Tohmajärvi,848.0,62.234,30.3575,6.0
+1431,82655,FI,Värtsilä,North Karelia,12.0,Keski-Karjala,124.0,Tohmajärvi,848.0,62.2178,30.6027,6.0
+1432,82710,FI,Kovero,North Karelia,12.0,Joensuu,122.0,Joensuu,167.0,62.556,30.5539,6.0
+1433,82730,FI,Tuupovaara,North Karelia,12.0,Joensuu,122.0,Joensuu,167.0,62.4835,30.6252,6.0
+1434,82750,FI,Öllölä,North Karelia,12.0,Joensuu,122.0,Joensuu,167.0,62.3716,30.753,6.0
+1435,82760,FI,Hoilola,North Karelia,12.0,Joensuu,122.0,Joensuu,167.0,62.3154,30.8464,6.0
+1436,82900,FI,Ilomantsi,North Karelia,12.0,Joensuu,122.0,Ilomantsi,146.0,62.6621,30.9935,6.0
+1437,83100,FI,Liperi,North Karelia,12.0,Joensuu,122.0,Liperi,426.0,62.4964,29.3575,6.0
+1438,83130,FI,Salokylä,North Karelia,12.0,Joensuu,122.0,Liperi,426.0,62.5777,29.471,6.0
+1439,83330,FI,Kaatamo,North Karelia,12.0,Joensuu,122.0,Liperi,426.0,62.5426,29.1398,6.0
+1440,83400,FI,Viinijärvi,North Karelia,12.0,Joensuu,122.0,Liperi,426.0,62.6302,29.2299,6.0
+1441,83430,FI,Käsämä,North Karelia,12.0,Joensuu,122.0,Liperi,426.0,62.6425,29.373,6.0
+1442,83500,FI,Outokumpu,North Karelia,12.0,Joensuu,122.0,Outokumpu,309.0,62.7196,29.0053,6.0
+1443,83700,FI,Polvijärvi,North Karelia,12.0,Joensuu,122.0,Polvijärvi,607.0,62.8642,29.3765,6.0
+1444,83720,FI,Kuorevaara,North Karelia,12.0,Joensuu,122.0,Polvijärvi,607.0,62.7884,29.4828,6.0
+1445,83750,FI,Sotkuma,North Karelia,12.0,Joensuu,122.0,Polvijärvi,607.0,62.7335,29.4253,6.0
+1446,83870,FI,Polvela,North Karelia,12.0,Joensuu,122.0,Juuka,176.0,63.1368,29.2102,6.0
+1447,83900,FI,Juuka,North Karelia,12.0,Joensuu,122.0,Juuka,176.0,63.2559,29.1945,6.0
+1448,83940,FI,Nunnanlahti,North Karelia,12.0,Joensuu,122.0,Juuka,176.0,63.1782,29.4777,6.0
+1449,83950,FI,Ahmovaara,North Karelia,12.0,Joensuu,122.0,Juuka,176.0,63.0714,29.6128,6.0
+1450,83960,FI,Koli,North Karelia,12.0,Pielisen Karjala,125.0,Lieksa,422.0,63.1403,29.7815,6.0
+1451,84100,FI,Ylivieska,North Ostrobothnia Region,17.0,Ylivieska,177.0,Ylivieska,977.0,64.0776,24.5283,6.0
+1452,84880,FI,Ylivieska,North Ostrobothnia Region,17.0,Ylivieska,177.0,Ylivieska,977.0,64.0001,24.7479,6.0
+1453,85100,FI,Kalajoki,North Ostrobothnia Region,17.0,Ylivieska,177.0,Kalajoki,208.0,64.2602,23.9133,6.0
+1454,85140,FI,Tynkä,North Ostrobothnia Region,17.0,Ylivieska,177.0,Kalajoki,208.0,64.1963,24.074,6.0
+1455,85160,FI,Rautio,North Ostrobothnia Region,17.0,Ylivieska,177.0,Kalajoki,208.0,64.07,24.2039,6.0
+1456,85200,FI,Alavieska,North Ostrobothnia Region,17.0,Ylivieska,177.0,Alavieska,9.0,64.1738,24.3258,6.0
+1457,85230,FI,Talus,North Ostrobothnia Region,17.0,Ylivieska,177.0,Alavieska,9.0,64.2391,24.2928,6.0
+1458,85310,FI,Sievi As,North Ostrobothnia Region,17.0,Ylivieska,177.0,Sievi,746.0,63.9697,24.2856,6.0
+1459,85320,FI,Sievi,North Ostrobothnia Region,17.0,Ylivieska,177.0,Sievi,746.0,63.9319,24.3543,6.0
+1460,85410,FI,Sievi,North Ostrobothnia Region,17.0,Ylivieska,177.0,Sievi,746.0,63.8969,24.523000000000003,6.0
+1461,85430,FI,Sievi,North Ostrobothnia Region,17.0,Ylivieska,177.0,Sievi,746.0,63.913,24.6001,6.0
+1462,85500,FI,Nivala,North Ostrobothnia Region,17.0,Nivala-Haapajärvi,176.0,Nivala,535.0,63.9234,24.9585,6.0
+1463,85560,FI,Nivala,North Ostrobothnia Region,17.0,Nivala-Haapajärvi,176.0,Nivala,535.0,63.8477,24.9985,6.0
+1464,85580,FI,Nivala,North Ostrobothnia Region,17.0,Nivala-Haapajärvi,176.0,Nivala,535.0,63.8476,25.1396,6.0
+1465,85630,FI,Nivala,North Ostrobothnia Region,17.0,Nivala-Haapajärvi,176.0,Nivala,535.0,63.9339,25.0437,6.0
+1466,85640,FI,Nivala,North Ostrobothnia Region,17.0,Nivala-Haapajärvi,176.0,Nivala,535.0,63.9536,25.1628,6.0
+1467,85660,FI,Nivala,North Ostrobothnia Region,17.0,Nivala-Haapajärvi,176.0,Nivala,535.0,63.9511,25.2694,6.0
+1468,85800,FI,Haapajärvi,North Ostrobothnia Region,17.0,Nivala-Haapajärvi,176.0,Haapajärvi,69.0,63.742,25.3218,6.0
+1469,85820,FI,Oksava,North Ostrobothnia Region,17.0,Nivala-Haapajärvi,176.0,Haapajärvi,69.0,63.8158,25.2396,6.0
+1470,85900,FI,Reisjärvi,North Ostrobothnia Region,17.0,Nivala-Haapajärvi,176.0,Reisjärvi,691.0,63.6053,24.9392,6.0
+1471,85980,FI,Köyhänperä,North Ostrobothnia Region,17.0,Nivala-Haapajärvi,176.0,Reisjärvi,691.0,63.6211,25.101,6.0
+1472,86100,FI,Pyhäjoki,North Ostrobothnia Region,17.0,Raahe,174.0,Pyhäjoki,625.0,64.462,24.2755,6.0
+1473,86170,FI,Yppäri,North Ostrobothnia Region,17.0,Raahe,174.0,Pyhäjoki,625.0,64.4073,24.0944,6.0
+1474,86220,FI,Merijärvi,North Ostrobothnia Region,17.0,Ylivieska,177.0,Merijärvi,483.0,64.2945,24.4341,6.0
+1475,86300,FI,Oulainen,North Ostrobothnia Region,17.0,Ylivieska,177.0,Oulainen,563.0,64.26899999999999,24.8232,6.0
+1476,86400,FI,Vihanti,North Ostrobothnia Region,17.0,Raahe,174.0,Raahe,678.0,64.486,24.9826,6.0
+1477,86440,FI,Lampinsaari,North Ostrobothnia Region,17.0,Raahe,174.0,Raahe,678.0,64.4104,25.1321,6.0
+1478,86600,FI,Haapavesi,North Ostrobothnia Region,17.0,Haapavesi-Siikalatva,175.0,Haapavesi,71.0,64.1431,25.3754,6.0
+1479,86710,FI,Kärsämäki,North Ostrobothnia Region,17.0,Nivala-Haapajärvi,176.0,Kärsämäki,317.0,63.9709,25.8108,6.0
+1480,86800,FI,Pyhäsalmi,North Ostrobothnia Region,17.0,Nivala-Haapajärvi,176.0,Pyhäjärvi,626.0,63.6551,25.9714,6.0
+1481,86900,FI,Pyhäkumpu,North Ostrobothnia Region,17.0,Nivala-Haapajärvi,176.0,Pyhäjärvi,626.0,63.669,26.0541,6.0
+1482,87100,FI,Kajaani,Kainuu,18.0,Kajaani,182.0,Kajaani,205.0,64.2176,27.6967,4.0
+1483,87150,FI,Kajaani,Kainuu,18.0,Kajaani,182.0,Kajaani,205.0,64.2244,27.702,6.0
+1484,87200,FI,Kajaani,Kainuu,18.0,Kajaani,182.0,Kajaani,205.0,64.2346,27.7398,6.0
+1485,87250,FI,Kajaani,Kainuu,18.0,Kajaani,182.0,Kajaani,205.0,64.2393,27.7757,6.0
+1486,87300,FI,Kajaani,Kainuu,18.0,Kajaani,182.0,Kajaani,205.0,64.2115,27.7305,6.0
+1487,87400,FI,Kajaani,Kainuu,18.0,Kajaani,182.0,Kajaani,205.0,64.2152,27.7684,6.0
+1488,87500,FI,Kajaani,Kainuu,18.0,Kajaani,182.0,Kajaani,205.0,64.2047,27.7631,6.0
+1489,87700,FI,Kajaani,Kainuu,18.0,Kajaani,182.0,Kajaani,205.0,64.2148,27.6701,6.0
+1490,87830,FI,Nakertaja,Kainuu,18.0,Kajaani,182.0,Kajaani,205.0,64.252,27.6902,6.0
+1491,87900,FI,Kajaani,Kainuu,18.0,Kajaani,182.0,Kajaani,205.0,64.0956,27.6724,6.0
+1492,88200,FI,Otanmäki,Kainuu,18.0,Kajaani,182.0,Kajaani,205.0,64.1088,27.1384,6.0
+1493,88270,FI,Vuolijoki,Kainuu,18.0,Kajaani,182.0,Kajaani,205.0,64.2138,27.0251,6.0
+1494,88300,FI,Paltamo,Kainuu,18.0,Kajaani,182.0,Paltamo,578.0,64.4146,27.6856,4.0
+1495,88340,FI,Manamansalo,Kainuu,18.0,Kajaani,182.0,Vaala,785.0,64.3736,27.1098,6.0
+1496,88400,FI,Ristijärvi,Kainuu,18.0,Kajaani,182.0,Ristijärvi,697.0,64.4985,28.249,6.0
+1497,88470,FI,Kontiomäki,Kainuu,18.0,Kajaani,182.0,Paltamo,578.0,64.3442,28.0492,6.0
+1498,88600,FI,Sotkamo,Kainuu,18.0,Kajaani,182.0,Sotkamo,765.0,64.1145,28.5139,6.0
+1499,88610,FI,Vuokatti,Kainuu,18.0,Kajaani,182.0,Sotkamo,765.0,64.1642,28.2618,6.0
+1500,88620,FI,Korholanmäki,Kainuu,18.0,Kajaani,182.0,Sotkamo,765.0,64.1362,27.9887,6.0
+1501,88900,FI,Kuhmo,Kainuu,18.0,Kehys-Kainuu,181.0,Kuhmo,290.0,64.1308,29.5444,6.0
+1502,89140,FI,Kotila,Kainuu,18.0,Kehys-Kainuu,181.0,Puolanka,620.0,64.6614,27.9175,6.0
+1503,89200,FI,Puolanka,Kainuu,18.0,Kehys-Kainuu,181.0,Puolanka,620.0,64.8559,27.7055,6.0
+1504,89400,FI,Hyrynsalmi,Kainuu,18.0,Kehys-Kainuu,181.0,Hyrynsalmi,105.0,64.6779,28.5168,6.0
+1505,89600,FI,Suomussalmi,Kainuu,18.0,Kehys-Kainuu,181.0,Suomussalmi,777.0,64.8916,28.936,4.0
+1506,89800,FI,Suomussalmi Kk,Kainuu,18.0,Kehys-Kainuu,181.0,Suomussalmi,777.0,64.9615,29.155,6.0
+1507,90100,FI,Oulu,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,65.0121,25.4722,6.0
+1508,90120,FI,Oulu,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,65.0043,25.4554,6.0
+1509,90130,FI,Oulu,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,65.0137,25.4915,6.0
+1510,90140,FI,Oulu,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,65.0017,25.4926,6.0
+1511,90150,FI,Oulu,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,64.9881,25.4932,6.0
+1512,90220,FI,Oulu,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,65.0076,25.5183,6.0
+1513,90230,FI,Oulu,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,65.0061,25.5361,6.0
+1514,90240,FI,Oulu,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,64.9827,25.5736,6.0
+1515,90250,FI,Oulu,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,64.9891,25.518,6.0
+1516,90310,FI,Oulu,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,64.9489,25.6724,6.0
+1517,90400,FI,Oulu,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,64.9943,25.457,6.0
+1518,90410,FI,Oulu,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,64.9636,25.5139,6.0
+1519,90420,FI,Oulu,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,64.9526,25.5555,6.0
+1520,90440,FI,Kempele,North Ostrobothnia Region,17.0,Oulu,171.0,Kempele,244.0,64.9132,25.4982,6.0
+1521,90450,FI,Kempele,North Ostrobothnia Region,17.0,Oulu,171.0,Kempele,244.0,64.906,25.5647,6.0
+1522,90460,FI,Oulunsalo,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,64.9424,25.3854,6.0
+1523,90480,FI,Hailuoto,North Ostrobothnia Region,17.0,Oulu,171.0,Hailuoto,72.0,65.02199999999999,24.7522,6.0
+1524,90500,FI,Oulu,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,65.0259,25.4786,6.0
+1525,90510,FI,Oulu,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,65.0274,25.4252,6.0
+1526,90520,FI,Oulu,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,65.0434,25.439,6.0
+1527,90530,FI,Oulu,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,65.0348,25.4754,6.0
+1528,90540,FI,Oulu,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,65.0779,25.4778,6.0
+1529,90550,FI,Oulu,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,65.0419,25.495,6.0
+1530,90560,FI,Oulu,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,65.047,25.4481,6.0
+1531,90570,FI,Oulu,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,65.0544,25.4779,6.0
+1532,90580,FI,Oulu,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,65.0651,25.4217,6.0
+1533,90620,FI,Oulu,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,65.045,25.5521,6.0
+1534,90630,FI,Oulu,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,65.0408,25.5933,6.0
+1535,90650,FI,Oulu,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,65.0174,25.5562,6.0
+1536,90670,FI,Oulu,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,65.0024,25.6097,6.0
+1537,90800,FI,Oulu,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,65.0875,25.4085,6.0
+1538,90810,FI,Kiviniemi,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,65.1198,25.3102,6.0
+1539,90820,FI,Kello,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,65.131,25.3688,6.0
+1540,90830,FI,Haukipudas,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,65.1799,25.3496,6.0
+1541,90840,FI,Haukipudas,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,65.193,25.4809,6.0
+1542,90850,FI,Martinniemi,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,65.21300000000001,25.3141,6.0
+1543,90900,FI,Kiiminki,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,65.1319,25.805,6.0
+1544,90910,FI,Kontio,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,65.1503,25.6407,6.0
+1545,90940,FI,Jääli,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,65.0849,25.6887,6.0
+1546,91100,FI,Ii,North Ostrobothnia Region,17.0,Oulunkaari,173.0,Ii,139.0,65.3219,25.3538,6.0
+1547,91200,FI,Yli-Ii,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,65.3743,25.8095,6.0
+1548,91260,FI,Pahkakoski,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,65.3506,26.0936,6.0
+1549,91300,FI,Ylikiiminki,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,65.0318,26.2217,6.0
+1550,91310,FI,Arkala,North Ostrobothnia Region,17.0,Oulu,171.0,Oulu,564.0,65.1894,26.1275,6.0
+1551,91410,FI,Jokirinne,North Ostrobothnia Region,17.0,Oulu,171.0,Muhos,494.0,64.8855,25.8698,6.0
+1552,91430,FI,Leppiniemi,North Ostrobothnia Region,17.0,Oulu,171.0,Muhos,494.0,64.8375,26.0508,6.0
+1553,91500,FI,Muhos,North Ostrobothnia Region,17.0,Oulu,171.0,Muhos,494.0,64.8176,26.0221,6.0
+1554,91600,FI,Utajärvi,North Ostrobothnia Region,17.0,Oulunkaari,173.0,Utajärvi,889.0,64.7462,26.4638,6.0
+1555,91670,FI,Rokua,North Ostrobothnia Region,17.0,Oulu,171.0,Muhos,494.0,64.5966,26.4537,
+1556,91700,FI,Vaala,Kainuu,18.0,Kajaani,182.0,Vaala,785.0,64.5577,26.8139,6.0
+1557,91710,FI,Jylhämä,Kainuu,18.0,Kajaani,182.0,Vaala,785.0,64.5739,26.7669,6.0
+1558,91760,FI,Säräisniemi,Kainuu,18.0,Kajaani,182.0,Vaala,785.0,64.4108,26.7989,6.0
+1559,91780,FI,Neittävä,Kainuu,18.0,Kajaani,182.0,Vaala,785.0,64.5125,26.6541,6.0
+1560,91800,FI,Tyrnävä,North Ostrobothnia Region,17.0,Oulu,171.0,Tyrnävä,859.0,64.7725,25.6829,6.0
+1561,91900,FI,Liminka,North Ostrobothnia Region,17.0,Oulu,171.0,Liminka,425.0,64.7991,25.414,4.0
+1562,91910,FI,Tupos,North Ostrobothnia Region,17.0,Oulu,171.0,Liminka,425.0,64.8602,25.4652,6.0
+1563,91950,FI,Temmes,North Ostrobothnia Region,17.0,Oulu,171.0,Tyrnävä,859.0,64.6654,25.6123,6.0
+1564,91980,FI,Lumijoki,North Ostrobothnia Region,17.0,Oulu,171.0,Lumijoki,436.0,64.8479,25.166,6.0
+1565,92100,FI,Raahe,North Ostrobothnia Region,17.0,Raahe,174.0,Raahe,678.0,64.6852,24.4682,6.0
+1566,92120,FI,Raahe,North Ostrobothnia Region,17.0,Raahe,174.0,Raahe,678.0,64.6727,24.5123,6.0
+1567,92130,FI,Raahe,North Ostrobothnia Region,17.0,Raahe,174.0,Raahe,678.0,64.6929,24.5079,6.0
+1568,92140,FI,Pattijoki,North Ostrobothnia Region,17.0,Raahe,174.0,Raahe,678.0,64.6954,24.5754,6.0
+1569,92150,FI,Raahe,North Ostrobothnia Region,17.0,Raahe,174.0,Raahe,678.0,64.6689,24.4762,6.0
+1570,92160,FI,Saloinen,North Ostrobothnia Region,17.0,Raahe,174.0,Raahe,678.0,64.6444,24.4666,6.0
+1571,92320,FI,Siikajoki,North Ostrobothnia Region,17.0,Raahe,174.0,Siikajoki,748.0,64.82,24.7346,6.0
+1572,92350,FI,Revonlahti,North Ostrobothnia Region,17.0,Raahe,174.0,Siikajoki,748.0,64.7198,24.955,6.0
+1573,92400,FI,Ruukki,North Ostrobothnia Region,17.0,Raahe,174.0,Siikajoki,748.0,64.6593,25.1,6.0
+1574,92430,FI,Paavola,North Ostrobothnia Region,17.0,Raahe,174.0,Siikajoki,748.0,64.6061,25.2596,6.0
+1575,92450,FI,Luohua,North Ostrobothnia Region,17.0,Raahe,174.0,Siikajoki,748.0,64.5349,25.2736,6.0
+1576,92500,FI,Rantsila,North Ostrobothnia Region,17.0,Haapavesi-Siikalatva,175.0,Siikalatva,791.0,64.4944,25.6583,6.0
+1577,92600,FI,Pulkkila,North Ostrobothnia Region,17.0,Haapavesi-Siikalatva,175.0,Siikalatva,791.0,64.2781,25.8254,6.0
+1578,92620,FI,Piippola,North Ostrobothnia Region,17.0,Haapavesi-Siikalatva,175.0,Siikalatva,791.0,64.1637,25.9998,6.0
+1579,92640,FI,Leskelä,North Ostrobothnia Region,17.0,Haapavesi-Siikalatva,175.0,Siikalatva,791.0,64.1803,25.793000000000006,6.0
+1580,92650,FI,Laakkola,North Ostrobothnia Region,17.0,Haapavesi-Siikalatva,175.0,Siikalatva,791.0,64.2328,25.7392,6.0
+1581,92700,FI,Kestilä,North Ostrobothnia Region,17.0,Haapavesi-Siikalatva,175.0,Siikalatva,791.0,64.3327,26.2858,6.0
+1582,92930,FI,Pyhäntä,North Ostrobothnia Region,17.0,Haapavesi-Siikalatva,175.0,Pyhäntä,630.0,64.0738,26.3029,6.0
+1583,93100,FI,Pudasjärvi,North Ostrobothnia Region,17.0,Oulunkaari,173.0,Pudasjärvi,615.0,65.3459,27.06,6.0
+1584,93280,FI,Syöte,North Ostrobothnia Region,17.0,Oulunkaari,173.0,Pudasjärvi,615.0,65.619,27.6158,6.0
+1585,93400,FI,Taivalkoski,North Ostrobothnia Region,17.0,Koillismaa,178.0,Taivalkoski,832.0,65.5616,28.3,6.0
+1586,93600,FI,Kuusamo,North Ostrobothnia Region,17.0,Koillismaa,178.0,Kuusamo,305.0,65.9727,29.1904,6.0
+1587,93700,FI,Kuusamo,North Ostrobothnia Region,17.0,Koillismaa,178.0,Kuusamo,305.0,65.8119,29.29,6.0
+1588,93830,FI,Rukatunturi,North Ostrobothnia Region,17.0,Koillismaa,178.0,Kuusamo,305.0,66.1662,29.1563,6.0
+1589,93900,FI,Kuusamo,North Ostrobothnia Region,17.0,Koillismaa,178.0,Kuusamo,305.0,66.2889,29.0542,6.0
+1590,93999,,,,,,,,,,,
+1591,94100,FI,Kemi,Lapland,19.0,Kemi-Tornio,192.0,Kemi,240.0,65.7372,24.5507,6.0
+1592,94200,FI,Kemi,Lapland,19.0,Kemi-Tornio,192.0,Kemi,240.0,65.7646,24.5513,6.0
+1593,94300,FI,Kemi,Lapland,19.0,Kemi-Tornio,192.0,Kemi,240.0,65.7676,24.5011,6.0
+1594,94400,FI,Keminmaa,Lapland,19.0,Kemi-Tornio,192.0,Keminmaa,241.0,65.8125,24.5441,6.0
+1595,94430,FI,Tornio,Lapland,19.0,Kemi-Tornio,192.0,Tornio,851.0,65.7959,24.4247,6.0
+1596,94450,FI,Keminmaa,Lapland,19.0,Kemi-Tornio,192.0,Keminmaa,241.0,65.7906,24.4986,6.0
+1597,94500,FI,Lautiosaari,Lapland,19.0,Kemi-Tornio,192.0,Keminmaa,241.0,65.821,24.6447,6.0
+1598,94600,FI,Kemi,Lapland,19.0,Kemi-Tornio,192.0,Kemi,240.0,65.7517,24.5851,6.0
+1599,94700,FI,Kemi,Lapland,19.0,Kemi-Tornio,192.0,Kemi,240.0,65.7296,24.6146,6.0
+1600,94720,FI,Kemi,Lapland,19.0,Kemi-Tornio,192.0,Kemi,240.0,65.721,24.5964,6.0
+1601,94830,FI,Kemi,Lapland,19.0,Kemi-Tornio,192.0,Kemi,240.0,65.6837,24.6693,6.0
+1602,95100,FI,Kuivaniemi,North Ostrobothnia Region,17.0,Oulunkaari,173.0,Ii,139.0,65.6107,25.2973,6.0
+1603,95200,FI,Simo,Lapland,19.0,Kemi-Tornio,192.0,Simo,751.0,65.6962,25.1318,6.0
+1604,95230,FI,Maksniemi,Lapland,19.0,Kemi-Tornio,192.0,Simo,751.0,65.6667,24.762,6.0
+1605,95300,FI,Tervola,Lapland,19.0,Kemi-Tornio,192.0,Tervola,845.0,66.102,24.9328,6.0
+1606,95400,FI,Tornio,Lapland,19.0,Kemi-Tornio,192.0,Tornio,851.0,65.8555,24.1862,4.0
+1607,95410,FI,Tornio,Lapland,19.0,Kemi-Tornio,192.0,Tornio,851.0,65.8649,24.1768,6.0
+1608,95420,FI,Tornio,Lapland,19.0,Kemi-Tornio,192.0,Tornio,851.0,65.8384,24.1862,6.0
+1609,95430,FI,Tornio,Lapland,19.0,Kemi-Tornio,192.0,Tornio,851.0,65.8561,24.1484,6.0
+1610,95450,FI,Tornio,Lapland,19.0,Kemi-Tornio,192.0,Tornio,851.0,65.8182,24.1773,6.0
+1611,95600,FI,Ylitornio,Lapland,19.0,Torniolaakso,193.0,Ylitornio,976.0,66.3248,23.7779,6.0
+1612,95675,FI,Meltosjärvi,Lapland,19.0,Torniolaakso,193.0,Ylitornio,976.0,66.5492,24.6279,6.0
+1613,95700,FI,Pello,Lapland,19.0,Torniolaakso,193.0,Pello,854.0,66.7956,23.9846,6.0
+1614,95780,FI,Sirkkakoski,Lapland,19.0,Torniolaakso,193.0,Pello,854.0,66.6699,24.3976,6.0
+1615,95800,FI,Sieppijärvi,Lapland,19.0,Tunturi-Lappi,196.0,Kolari,273.0,67.1258,24.1709,6.0
+1616,95900,FI,Kolari,Lapland,19.0,Tunturi-Lappi,196.0,Kolari,273.0,67.3531,23.8773,6.0
+1617,95930,FI,Äkäsjoensuu,Lapland,19.0,Tunturi-Lappi,196.0,Kolari,273.0,67.4609,23.7164,6.0
+1618,95970,FI,Äkäslompolo,Lapland,19.0,Tunturi-Lappi,196.0,Kolari,273.0,67.6031,24.1571,6.0
+1619,95980,FI,Ylläsjärvi,Lapland,19.0,Tunturi-Lappi,196.0,Kolari,273.0,67.5353,24.2752,6.0
+1620,96100,FI,Rovaniemi,Lapland,19.0,Rovaniemi,191.0,Rovaniemi,698.0,66.5317,25.6993,4.0
+1621,96190,FI,Rovaniemi,Lapland,19.0,Rovaniemi,191.0,Rovaniemi,698.0,66.5233,25.6765,6.0
+1622,96200,FI,Rovaniemi,Lapland,19.0,Rovaniemi,191.0,Rovaniemi,698.0,66.5066,25.7304,6.0
+1623,96300,FI,Rovaniemi,Lapland,19.0,Rovaniemi,191.0,Rovaniemi,698.0,66.4844,25.6894,6.0
+1624,96320,FI,Rovaniemi,Lapland,19.0,Rovaniemi,191.0,Rovaniemi,698.0,66.4919,25.6662,6.0
+1625,96400,FI,Rovaniemi,Lapland,19.0,Rovaniemi,191.0,Rovaniemi,698.0,66.4797,25.7347,4.0
+1626,96440,FI,Rovaniemi,Lapland,19.0,Rovaniemi,191.0,Rovaniemi,698.0,66.4838,25.8191,6.0
+1627,96460,FI,Rovaniemi,Lapland,19.0,Rovaniemi,191.0,Rovaniemi,698.0,66.4734,25.7776,6.0
+1628,96500,FI,Rovaniemi,Lapland,19.0,Rovaniemi,191.0,Rovaniemi,698.0,66.5118,25.655,6.0
+1629,96600,FI,Rovaniemi,Lapland,19.0,Rovaniemi,191.0,Rovaniemi,698.0,66.5025,25.8555,6.0
+1630,96800,FI,Rovaniemi,Lapland,19.0,Rovaniemi,191.0,Rovaniemi,698.0,66.538,25.6729,6.0
+1631,96900,FI,Saarenkylä,Lapland,19.0,Rovaniemi,191.0,Rovaniemi,698.0,66.5599,25.8264,4.0
+1632,96910,FI,Rovaniemi,Lapland,19.0,Rovaniemi,191.0,Rovaniemi,698.0,66.5332,25.8015,6.0
+1633,96960,FI,Rovaniemi,Lapland,19.0,Rovaniemi,191.0,Rovaniemi,698.0,66.5689,25.7917,6.0
+1634,97110,FI,Rautiosaari,Lapland,19.0,Rovaniemi,191.0,Rovaniemi,698.0,66.4175,25.4972,6.0
+1635,97130,FI,Hirvas,Lapland,19.0,Rovaniemi,191.0,Rovaniemi,698.0,66.429,25.4599,6.0
+1636,97140,FI,Muurola,Lapland,19.0,Rovaniemi,191.0,Rovaniemi,698.0,66.359,25.3139,6.0
+1637,97160,FI,Petäjäinen,Lapland,19.0,Rovaniemi,191.0,Rovaniemi,698.0,66.2783,25.3257,6.0
+1638,97280,FI,Tapio,Lapland,19.0,Rovaniemi,191.0,Rovaniemi,698.0,66.7176,25.4689,6.0
+1639,97340,FI,Meltaus,Lapland,19.0,Rovaniemi,191.0,Rovaniemi,698.0,66.982,25.3306,6.0
+1640,97390,FI,Kierinki,Lapland,19.0,Pohjois-Lappi,197.0,Sodankylä,758.0,67.2536,25.5555,6.0
+1641,97615,FI,Tennirova,Lapland,19.0,Rovaniemi,191.0,Rovaniemi,698.0,66.4047,26.4645,6.0
+1642,97635,FI,Juuniemi,Lapland,19.0,Rovaniemi,191.0,Rovaniemi,698.0,66.344,27.1095,6.0
+1643,97655,FI,Autti,Lapland,19.0,Rovaniemi,191.0,Rovaniemi,698.0,66.2992,27.1279,6.0
+1644,97700,FI,Ranua,Lapland,19.0,Rovaniemi,191.0,Ranua,683.0,65.972,26.6265,6.0
+1645,97900,FI,Posio,Lapland,19.0,Itä-Lappi,194.0,Posio,614.0,66.0983,28.1804,6.0
+1646,98100,FI,Kemijärvi,Lapland,19.0,Itä-Lappi,194.0,Kemijärvi,320.0,66.702,27.3024,6.0
+1647,98120,FI,Kemijärvi,Lapland,19.0,Itä-Lappi,194.0,Kemijärvi,320.0,66.7234,27.3846,6.0
+1648,98230,FI,Luusua,Lapland,19.0,Itä-Lappi,194.0,Kemijärvi,320.0,66.49600000000001,27.2908,6.0
+1649,98310,FI,Kemijärvi,Lapland,19.0,Itä-Lappi,194.0,Kemijärvi,320.0,66.7553,27.3395,6.0
+1650,98350,FI,Tapionniemi,Lapland,19.0,Itä-Lappi,194.0,Kemijärvi,320.0,66.9095,27.3961,6.0
+1651,98400,FI,Isokylä,Lapland,19.0,Itä-Lappi,194.0,Kemijärvi,320.0,66.6671,27.6203,6.0
+1652,98440,FI,Kallaanvaara,Lapland,19.0,Itä-Lappi,194.0,Kemijärvi,320.0,66.7131,27.5193,6.0
+1653,98450,FI,Kostamo,Lapland,19.0,Itä-Lappi,194.0,Kemijärvi,320.0,66.8202,27.4994,6.0
+1654,98500,FI,Pelkosenniemi,Lapland,19.0,Itä-Lappi,194.0,Pelkosenniemi,583.0,67.1027,27.5253,6.0
+1655,98530,FI,Pyhätunturi,Lapland,19.0,Itä-Lappi,194.0,Pelkosenniemi,583.0,67.0408,27.2247,6.0
+1656,98600,FI,Kursu,Lapland,19.0,Itä-Lappi,194.0,Salla,732.0,66.7624,28.1498,6.0
+1657,98720,FI,Suomutunturi,Lapland,19.0,Itä-Lappi,194.0,Kemijärvi,320.0,66.5723,27.9839,6.0
+1658,98800,FI,Savukoski,Lapland,19.0,Itä-Lappi,194.0,Savukoski,742.0,67.3343,28.1811,6.0
+1659,98900,FI,Salla,Lapland,19.0,Itä-Lappi,194.0,Salla,732.0,66.8307,28.6635,6.0
+1660,99100,FI,Kittilä,Lapland,19.0,Tunturi-Lappi,196.0,Kittilä,261.0,67.6741,24.9113,6.0
+1661,99130,FI,Sirkka,Lapland,19.0,Tunturi-Lappi,196.0,Kittilä,261.0,67.8077,24.8253,6.0
+1662,99300,FI,Muonio,Lapland,19.0,Tunturi-Lappi,196.0,Muonio,498.0,67.92399999999999,23.8093,6.0
+1663,99400,FI,Enontekiö,Lapland,19.0,Tunturi-Lappi,196.0,Enontekis,47.0,68.4095,23.5611,6.0
+1664,99440,FI,Leppäjärvi,Lapland,19.0,Tunturi-Lappi,196.0,Enontekis,47.0,68.5377,23.3645,6.0
+1665,99450,FI,Palojoensuu,Lapland,19.0,Tunturi-Lappi,196.0,Enontekis,47.0,68.2982,23.078000000000007,6.0
+1666,99490,FI,Kilpisjärvi,Lapland,19.0,Tunturi-Lappi,196.0,Enontekis,47.0,69.0058,20.9547,6.0
+1667,99555,FI,Luosto,Lapland,19.0,Pohjois-Lappi,197.0,Sodankylä,758.0,67.1649,26.9246,6.0
+1668,99600,FI,Sodankylä,Lapland,19.0,Pohjois-Lappi,197.0,Sodankylä,758.0,67.4843,26.6255,4.0
+1669,99620,FI,Kelujärvi,Lapland,19.0,Pohjois-Lappi,197.0,Sodankylä,758.0,67.4713,27.0454,6.0
+1670,99660,FI,Kersilö,Lapland,19.0,Pohjois-Lappi,197.0,Sodankylä,758.0,67.5859,26.7451,6.0
+1671,99690,FI,Vuotso,Lapland,19.0,Pohjois-Lappi,197.0,Sodankylä,758.0,68.1293,27.1706,6.0
+1672,99710,FI,Vaalajärvi,Lapland,19.0,Pohjois-Lappi,197.0,Sodankylä,758.0,67.4217,26.1876,6.0
+1673,99800,FI,Ivalo,Lapland,19.0,Pohjois-Lappi,197.0,Inari,148.0,68.7354,27.5968,6.0
+1674,99830,FI,Saariselkä,Lapland,19.0,Pohjois-Lappi,197.0,Inari,148.0,68.423,27.3965,6.0
+1675,99870,FI,Inari,Lapland,19.0,Pohjois-Lappi,197.0,Inari,148.0,68.9287,26.9896,6.0
+1676,99930,FI,Sevettijärvi,Lapland,19.0,Pohjois-Lappi,197.0,Inari,148.0,69.4918,28.5786,4.0
+1677,99950,FI,Karigasniemi,Lapland,19.0,Pohjois-Lappi,197.0,Utsjoki,890.0,69.4729,25.9527,4.0
+1678,99980,FI,Utsjoki,Lapland,19.0,Pohjois-Lappi,197.0,Utsjoki,890.0,69.8467,26.8907,6.0
