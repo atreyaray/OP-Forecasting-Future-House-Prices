@@ -85,4 +85,4 @@ for k in K:
 
 print('XXXXXXXXXXXXXX OUTPUT XXXXXXXXXXXXXX')
 print(m_df)
-m_df.to_csv('./intermediate_results/three_rooms_kmeans_rmse_mae.csv')
+m_df.to_csv('./intermediate_results/three_rooms_kmeans_rmse_mae.csv', mode='w')

@@ -1,6 +1,9 @@
 #!/bin/bash
 # commit
 
+# delete existing file
+rm $2
+
 # run script
 python3 $1
 
