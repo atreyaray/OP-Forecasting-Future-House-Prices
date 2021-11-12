@@ -28,7 +28,7 @@ clustered_df.columns = col
 # get data
 data = clustered_df.iloc[:, :46].copy()
 
-K = range(2,10)
+K = range(2,3)
 m_df = pd.DataFrame(data = [], columns = ["K", "Median RMSE", "Median MAE"])
 
 
@@ -81,6 +81,10 @@ for k in K:
 
     median_rmse = statistics.median(rmse_values)
     median_mae = statistics.median(mae_values)
+    
+    df_errors = pd.DataFrame({'RMSE': rmse_values, 'MAE': mae_values})
+    df_errors.to_csv('./intermediate_results/errors/k='+str(k)+'.csv')
+
     m_df = m_df.append({"K":k, "Median RMSE": median_rmse, "Median MAE": median_mae}, ignore_index = True)
 
 print('XXXXXXXXXXXXXX OUTPUT XXXXXXXXXXXXXX')
