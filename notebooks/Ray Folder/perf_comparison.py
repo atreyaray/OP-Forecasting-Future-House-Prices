@@ -83,4 +83,6 @@ for k in K:
     median_mae = statistics.median(mae_values)
     m_df = m_df.append({"K":k, "Median RMSE": median_rmse, "Median MAE": median_mae}, ignore_index = True)
 
+print('XXXXXXXXXXXXXX OUTPUT XXXXXXXXXXXXXX')
+print(m_df)
 m_df.to_csv('./intermediate_results/three_rooms_kmeans_rmse_mae.csv')

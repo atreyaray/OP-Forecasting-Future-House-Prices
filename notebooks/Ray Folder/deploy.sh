@@ -1,6 +1,10 @@
 #!/bin/bash
 # commit
 
+# run script
+python3 $1
+
+
 # add
 git add .
 
