@@ -78,9 +78,10 @@ for k in K:
     k_df['ds'] = dates.ds.values
     postal_codes = list( range(k))
 
-    _, mae_values, rmse_values = prophet_for_each_postalcodes(k_df, postal_codes)
+    x, mae_values, rmse_values = prophet_for_each_postalcodes(k_df, postal_codes)
 
     median_rmse = statistics.median(rmse_values)
     median_mae = statistics.median(mae_values)
     m_df = m_df.append({"K":k, "Median RMSE": median_rmse, "Median MAE": median_mae}, ignore_index = True)
-m_df
+
+m_df.to_csv('./intermediate_results/three_rooms_kmeans_rmse_mae.csv')
