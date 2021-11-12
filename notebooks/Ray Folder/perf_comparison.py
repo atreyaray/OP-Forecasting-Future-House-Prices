@@ -1,5 +1,3 @@
-
-
 #import libraries required
 
 import numpy as np 
@@ -15,6 +13,7 @@ from prophet import Prophet
 from prophet.plot import plot_plotly
 import plotly.offline as py
 import re
+import statistics
 
 
 
@@ -62,7 +61,7 @@ def prophet_for_each_postalcodes(df, postal_codes, time="ds"):
         mae_values.append(mae)
         rmse_values.append(rmse)
 
-    return _, mae_values, rmse_values
+    return mae_values, rmse_values
 
 # postal_codes = ts_df.columns[:-1]
 # data, mae_values, rmse_values = prophet_for_each_postalcodes(ts_df, postal_codes)
@@ -78,7 +77,7 @@ for k in K:
     k_df['ds'] = dates.ds.values
     postal_codes = list( range(k))
 
-    x, mae_values, rmse_values = prophet_for_each_postalcodes(k_df, postal_codes)
+    mae_values, rmse_values = prophet_for_each_postalcodes(k_df, postal_codes)
 
     median_rmse = statistics.median(rmse_values)
     median_mae = statistics.median(mae_values)
