@@ -28,7 +28,7 @@ clustered_df.columns = col
 # get data
 data = clustered_df.iloc[:, :46].copy()
 
-K = range(2,3)
+K = range(2,200)
 m_df = pd.DataFrame(data = [], columns = ["K", "Median RMSE", "Median MAE"])
 
 
