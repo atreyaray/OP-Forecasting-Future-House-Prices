@@ -71,7 +71,7 @@ def prophet_for_each_postalcodes(df, postal_codes, time="ds"):
 
 
 postal_codes = ts_df.columns[:-1]
-data, mae_values, rmse_values = prophet_for_each_postalcodes(ts_df, postal_codes)
+data, mae_values, rmse_values = prophet_for_each_postalcodes(ts_df, postal_codes[:4])
 data.to_csv('./intermediate_results/three_rooms_pc_rmse_mae.csv', index=False)
 print('final output')
 print(data)
