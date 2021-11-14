@@ -27,8 +27,14 @@ grouping = three_room.groupby('PC')
 for i in df.PC.unique():
     ts_df[str(i)] = grouping.get_group(i)["EUR/m2"].values
 
+ds = pd.read_csv('./intermediate_results/ds.csv', index_col=0)
+# print("ds")
+# print(ds)
+
+ts_df['ds'] = ds['ds'].values
 print("ts_df")
 print(ts_df)
+
 
 def prophet_for_each_postalcodes(df, postal_codes, time="ds"):
 
@@ -66,3 +72,6 @@ def prophet_for_each_postalcodes(df, postal_codes, time="ds"):
 
 postal_codes = ts_df.columns[:-1]
 data, mae_values, rmse_values = prophet_for_each_postalcodes(ts_df, postal_codes)
+data.to_csv('./intermediate_results/three_rooms_pc_rmse_mae.csv', index=False)
+print('final output')
+print(data)
