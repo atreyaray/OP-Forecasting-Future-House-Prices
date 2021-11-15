@@ -63,3 +63,22 @@ plt.savefig('./outputs/clustering/mae_mean_k200.png')
 
 print(df)
 
+df = pd.read_csv('./intermediate_results/three_rooms_pc_rmse_mae.csv')
+print('XXXXXXXXXX Postal Code XXXXXXXXXXX')
+print(df)
+
+plt.figure(figsize=(10,4))
+plt.plot(df.index.values, df['rmse'])
+plt.xlabel('Postal Codes')
+plt.ylabel('RMSE')
+plt.title('RMSE by Postal Code')
+# plt.xticks(df['postal code'].values)
+plt.savefig('./outputs/clustering/rmse_pc.png')
+
+plt.figure(figsize=(10,4))
+plt.plot(df.index.values, df['mae'])
+plt.xlabel('Postal Codes')
+plt.ylabel('MAE')
+plt.title('MAE by Postal Code')
+# plt.xticks(df['postal code'].values)
+plt.savefig('./outputs/clustering/mae_pc.png')
