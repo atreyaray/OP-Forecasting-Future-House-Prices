@@ -53,8 +53,8 @@ def sarimax_forecasts(df, max_p=2, d=1, max_q=2, max_P=2, D=1, max_Q=2, s=4):
             
     return res_df
 
-def main(building_type):
-    df = pd.read_csv(f"notebooks/Bruce/prediction_datasets/{building_type}/{building_type}_imp_4_quarter_prediction.csv",parse_dates=[-1], index_col=[0])
+def main(building_type, prediction_type):
+    df = pd.read_csv(f"notebooks/Bruce/prediction_datasets/{building_type}/{building_type}_imp_{prediction_type}.csv",parse_dates=[-1], index_col=[0])
     df.set_index("Quarter",inplace=True)
     df.head()
 
@@ -64,7 +64,7 @@ def main(building_type):
     end = time.time()
     print("The search took ", round(end - start,2) , "seconds")
 
-    forecasts.to_json(f'notebooks/Bruce/prediction_datasets/{building_type}/{building_type}_sarimax_forecasts.json', index=True)
+    forecasts.to_json(f'notebooks/Bruce/prediction_datasets/{building_type}/{building_type}_sarimax_{prediction_type}.json', index=True)
 
 if __name__ == "__main__":
-    main("two_room")
+    main("two_room", "train")
