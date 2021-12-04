@@ -66,17 +66,24 @@ def forecast_group_A(building_type, prediction_type):
 
     forecasts.to_json(f'notebooks/Bruce/results/{building_type}/{building_type}_sarimax_{prediction_type}.json', index=True)
 
-def forecast_group_B(building_type):
+def forecast_group_B(building_type, for_validation=False):
     df = pd.read_csv(f"notebooks/Bruce/results/{building_type}/{building_type}_cluster_means.csv",parse_dates=[0], index_col=[0])
-
+    
+    if for_validation:
+        df = df.iloc[:-4,:]
+        output_filename = f'notebooks/Bruce/results/{building_type}/{building_type}_sarimax_cluster_forecasts_validation.json'
+    else:
+        output_filename = f'notebooks/Bruce/results/{building_type}/{building_type}_sarimax_cluster_forecasts.json'
     print("SARIMAX forecast initiated...")
     start = time.time()
     forecasts = sarimax_forecasts(df)
     end = time.time()
     print("The search took ", round(end - start,2) , "seconds")
 
-    forecasts.to_json(f'notebooks/Bruce/results/{building_type}/{building_type}_sarimax_cluster_forecasts.json', index=True)
+    forecasts.to_json(output_filename, index=True)
 
 if __name__ == "__main__":
     # forecast_group_A("two_room", "train")
-    forecast_group_B("two_room")
+    building_types = ["one_room", "three-more_room", "two_room"]
+    for building_type in building_types:
+        forecast_group_B(building_type, for_validation=True)

@@ -44,7 +44,7 @@ def clustered_ensembling(building_type, mape_outlier_diff=0.1):
     return res_df
 
 def clustered_forecasts():
-    building_types = ["one_room", "three-more_room", "two_room"]
+    building_types = ["one_room", "terrace_house", "three-more_room", "two_room"]
     for building_type in building_types:
         forecasts = clustered_ensembling(building_type)
         forecasts.to_json(f'notebooks/Bruce/results/{building_type}/{building_type}_ensemble_cluster_forecasts.json')
