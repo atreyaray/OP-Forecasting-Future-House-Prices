@@ -6,6 +6,10 @@ import time
 import itertools
 
 from statsmodels.tsa.statespace.sarimax import SARIMAX
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import mean_absolute_error as MAE,mean_absolute_percentage_error as MAPE
+
 import warnings
 warnings.filterwarnings("ignore")
 
@@ -53,7 +57,7 @@ def sarimax_forecasts(df, max_p=2, d=1, max_q=2, max_P=2, D=1, max_Q=2, s=4):
             
     return res_df
 
-def forecast_group_A(building_type, prediction_type):
+def sarimax_forecast_A(building_type, prediction_type):
     df = pd.read_csv(f"notebooks/Bruce/results/{building_type}/{building_type}_imp_{prediction_type}.csv",parse_dates=[-1], index_col=[0])
     df.set_index("Quarter",inplace=True)
     df.head()
@@ -66,7 +70,7 @@ def forecast_group_A(building_type, prediction_type):
 
     forecasts.to_json(f'notebooks/Bruce/results/{building_type}/{building_type}_sarimax_{prediction_type}.json', index=True)
 
-def forecast_group_B(building_type, for_validation=False):
+def sarimax_forecast_B(building_type, for_validation=False):
     df = pd.read_csv(f"notebooks/Bruce/results/{building_type}/{building_type}_cluster_means.csv",parse_dates=[0], index_col=[0])
     
     if for_validation:
@@ -82,8 +86,28 @@ def forecast_group_B(building_type, for_validation=False):
 
     forecasts.to_json(output_filename, index=True)
 
+def linear_regression_forecast_A(building_type, group="A"):
+    df = pd.read_csv(f"notebooks/Bruce/results/{building_type}/{building_type}_imp_4_quarter_prediction.csv",parse_dates=[-1], index_col=[0])
+    df.set_index("Quarter",inplace=True)
+    dfT = df.T
+    X,y = dfT.iloc[:,:-4], dfT.iloc[:,-4:]
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33)
+    model = LinearRegression()
+    model.fit(X_train,y_train)
+    y_pred = model.predict(X_test)
+
+    mae = MAE(y_test.T, y_pred.T, multioutput='raw_values')
+    mape = MAPE(y_test.T, y_pred.T, multioutput='raw_values')
+
+    print(building_type)
+    print("MAE avg: ", round(np.mean(mae),3), "MAPE avg: ", round(np.mean(mape),3))
+    print("MAE median: ", round(np.median(mae),3), "MAPE median: ", round(np.median(mape),3))
+
 if __name__ == "__main__":
     # forecast_group_A("two_room", "train")
-    building_types = ["one_room", "three-more_room", "two_room"]
+    building_types = ["one_room", "terrace_house", "three-more_room", "two_room"]
+
     for building_type in building_types:
-        forecast_group_B(building_type, for_validation=True)
+        linear_regression_forecast_A(building_type)
+
+    
